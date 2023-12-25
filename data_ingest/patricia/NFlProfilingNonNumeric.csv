@@ -1,0 +1,3478 @@
+School,Player_Type,Position_Type,Position,Drafted,Team
+Ohio St.,offense,backs_receivers,RB,Yes,Arizona Cardinals
+Illinois,defense,defensive_lineman,DE,Yes,Arizona Cardinals
+LSU,offense,offensive_lineman,OG,Yes,Arizona Cardinals
+Alabama,defense,defensive_back,FS,Yes,Arizona Cardinals
+Connecticut,defense,line_backer,OLB,Yes,Arizona Cardinals
+Cincinnati,offense,offensive_lineman,OG,Yes,Arizona Cardinals
+Mississippi,defense,defensive_lineman,DT,Yes,Atlanta Falcons
+North Carolina,offense,offensive_lineman,OT,Yes,Atlanta Falcons
+Richmond,defense,defensive_lineman,DE,Yes,Atlanta Falcons
+San Jose St.,defense,defensive_back,CB,Yes,Atlanta Falcons
+Missouri,defense,defensive_back,SS,Yes,Atlanta Falcons
+Georgia Tech,defense,defensive_lineman,DT,Yes,Atlanta Falcons
+Mississippi,offense,offensive_lineman,OT,Yes,Baltimore Ravens
+East Carolina,offense,backs_receivers,TE,Yes,Baltimore Ravens
+TCU,defense,line_backer,ILB,Yes,Baltimore Ravens
+Nicholls St.,defense,defensive_back,CB,Yes,Baltimore Ravens
+Utah,defense,defensive_lineman,DE,Yes,Baltimore Ravens
+Virginia,offense,backs_receivers,RB,Yes,Baltimore Ravens
+Penn St.,defense,defensive_lineman,DE,Yes,Buffalo Bills
+Southern Miss,offense,backs_receivers,TE,Yes,Buffalo Bills
+Oregon St.,offense,offensive_lineman,OG,Yes,Buffalo Bills
+Oregon,defense,defensive_back,CB,Yes,Buffalo Bills
+USC,defense,defensive_back,CB,Yes,Buffalo Bills
+Louisville,offense,offensive_lineman,C,Yes,Buffalo Bills
+Oklahoma,defense,line_backer,OLB,Yes,Buffalo Bills
+Florida St.,defense,defensive_lineman,DE,Yes,Carolina Panthers
+Syracuse,offense,backs_receivers,FB,Yes,Carolina Panthers
+Texas A&M,offense,backs_receivers,RB,Yes,Carolina Panthers
+Georgia,defense,defensive_lineman,DT,Yes,Carolina Panthers
+South Carolina,defense,defensive_back,CB,Yes,Carolina Panthers
+Troy,defense,defensive_back,CB,Yes,Carolina Panthers
+Oklahoma,offense,offensive_lineman,OG,Yes,Carolina Panthers
+San Jose St.,defense,defensive_lineman,DE,Yes,Chicago Bears
+Ohio St.,defense,line_backer,OLB,Yes,Chicago Bears
+Abilene Christian,offense,backs_receivers,WR,Yes,Chicago Bears
+Vanderbilt,defense,defensive_back,CB,Yes,Chicago Bears
+Oklahoma,offense,backs_receivers,WR,Yes,Chicago Bears
+Alabama,offense,offensive_lineman,OT,Yes,Cincinnati Bengals
+Arkansas,offense,offensive_lineman,C,Yes,Cincinnati Bengals
+Missouri,offense,backs_receivers,TE,Yes,Cincinnati Bengals
+Abilene Christian,offense,backs_receivers,RB,Yes,Cincinnati Bengals
+Georgia Tech,defense,defensive_lineman,DE,Yes,Cincinnati Bengals
+Michigan,defense,defensive_back,CB,Yes,Cincinnati Bengals
+USC,defense,line_backer,ILB,Yes,Cincinnati Bengals
+Cincinnati,special_teams,kicking_specialist,P,Yes,Cincinnati Bengals
+California,offense,offensive_lineman,C,Yes,Cleveland Browns
+USC,defense,line_backer,OLB,Yes,Cleveland Browns
+Hawaii,defense,defensive_lineman,DE,Yes,Cleveland Browns
+Clemson,offense,backs_receivers,RB,Yes,Cleveland Browns
+Georgia,offense,backs_receivers,WR,Yes,Cleveland Browns
+San Jose St.,defense,defensive_back,CB,Yes,Cleveland Browns
+Ohio St.,offense,backs_receivers,WR,Yes,Cleveland Browns
+Norfolk St.,defense,defensive_back,CB,Yes,Cleveland Browns
+Ball St.,offense,offensive_lineman,OT,Yes,Dallas Cowboys
+Cincinnati,defense,defensive_back,CB,Yes,Dallas Cowboys
+Virginia,offense,backs_receivers,TE,Yes,Dallas Cowboys
+Texas Tech,defense,defensive_lineman,DE,Yes,Dallas Cowboys
+TCU,defense,line_backer,OLB,Yes,Dallas Cowboys
+Oregon St.,defense,line_backer,OLB,Yes,Dallas Cowboys
+USC,special_teams,kicking_specialist,K,Yes,Dallas Cowboys
+Oklahoma,offense,backs_receivers,WR,Yes,Dallas Cowboys
+Texas A&M,offense,backs_receivers,QB,Yes,Dallas Cowboys
+Clemson,defense,defensive_back,SS,Yes,Dallas Cowboys
+Cincinnati,defense,defensive_back,CB,Yes,Dallas Cowboys
+Georgia,offense,backs_receivers,RB,Yes,Denver Broncos
+North Carolina,offense,backs_receivers,TE,Yes,Denver Broncos
+Fresno St.,offense,backs_receivers,QB,Yes,Denver Broncos
+Texas Tech,defense,defensive_back,FS,Yes,Denver Broncos
+South Carolina,offense,backs_receivers,WR,Yes,Denver Broncos
+Wake Forest,defense,defensive_back,CB,Yes,Denver Broncos
+Iowa,offense,offensive_lineman,OG,Yes,Denver Broncos
+Tennessee,defense,defensive_lineman,DE,Yes,Denver Broncos
+Notre Dame,defense,defensive_back,FS,Yes,Denver Broncos
+Georgia,offense,backs_receivers,QB,Yes,Detroit Lions
+Penn St.,offense,backs_receivers,WR,Yes,Detroit Lions
+Wisconsin,defense,line_backer,OLB,Yes,Detroit Lions
+Maryland,offense,backs_receivers,TE,Yes,Detroit Lions
+West. Michigan,defense,defensive_back,FS,Yes,Detroit Lions
+California,defense,line_backer,OLB,Yes,Detroit Lions
+Oklahoma St.,offense,backs_receivers,TE,Yes,Detroit Lions
+Nebraska,offense,offensive_lineman,OT,Yes,Detroit Lions
+Georgia,defense,defensive_lineman,DE,Yes,Green Bay Packers
+Cincinnati,defense,defensive_back,FS,Yes,Green Bay Packers
+Boston Col.,defense,defensive_lineman,DT,Yes,Green Bay Packers
+South Carolina,offense,offensive_lineman,OT,Yes,Green Bay Packers
+USC,defense,line_backer,OLB,Yes,Green Bay Packers
+LSU,offense,backs_receivers,FB,Yes,Green Bay Packers
+USC,defense,line_backer,OLB,Yes,Houston Texans
+North Carolina St.,offense,backs_receivers,TE,Yes,Houston Texans
+New Mexico,defense,defensive_back,FS,Yes,Houston Texans
+Alabama,offense,offensive_lineman,C,Yes,Houston Texans
+Arizona St.,defense,defensive_back,FS,Yes,Houston Texans
+Cincinnati,defense,line_backer,OLB,Yes,Houston Texans
+Rice,offense,backs_receivers,FB,Yes,Houston Texans
+Connecticut,offense,backs_receivers,RB,Yes,Indianapolis Colts
+Michigan,defense,defensive_lineman,DT,Yes,Indianapolis Colts
+BYU,offense,backs_receivers,WR,Yes,Indianapolis Colts
+Auburn,defense,defensive_back,CB,Yes,Indianapolis Colts
+Maryland,offense,offensive_lineman,OG,Yes,Indianapolis Colts
+USC,defense,defensive_lineman,DT,Yes,Indianapolis Colts
+Purdue,offense,backs_receivers,QB,Yes,Indianapolis Colts
+Virginia,offense,offensive_lineman,OT,Yes,Jacksonville Jaguars
+Rice,offense,backs_receivers,WR,Yes,Jacksonville Jaguars
+Arizona,offense,backs_receivers,WR,Yes,Jacksonville Jaguars
+Temple,defense,defensive_lineman,DT,Yes,Jacksonville Jaguars
+Rutgers,offense,backs_receivers,WR,Yes,Jacksonville Jaguars
+Arizona,offense,offensive_lineman,OT,Yes,Jacksonville Jaguars
+Liberty,offense,backs_receivers,RB,Yes,Jacksonville Jaguars
+LSU,defense,defensive_lineman,DE,Yes,Kansas City Chiefs
+Tennessee St.,offense,backs_receivers,RB,Yes,Kansas City Chiefs
+McNeese St.,offense,backs_receivers,WR,Yes,Kansas City Chiefs
+Ohio St.,defense,defensive_back,CB,Yes,Kansas City Chiefs
+Purdue,defense,defensive_lineman,DT,Yes,Kansas City Chiefs
+Northern Illinois,defense,line_backer,OLB,Yes,San Diego Chargers
+Oregon St.,defense,defensive_back,CB,Yes,San Diego Chargers
+Colorado St.,offense,backs_receivers,RB,Yes,San Diego Chargers
+Auburn,offense,offensive_lineman,OG,Yes,San Diego Chargers
+LSU,offense,backs_receivers,WR,Yes,San Diego Chargers
+Texas Tech,offense,offensive_lineman,OG,Yes,San Diego Chargers
+USC,defense,line_backer,OLB,Yes,San Diego Chargers
+Baylor,offense,offensive_lineman,OT,Yes,St. Louis Rams
+Clemson,defense,defensive_lineman,DT,Yes,St. Louis Rams
+Texas,offense,backs_receivers,RB,Yes,St. Louis Rams
+Ohio St.,defense,line_backer,ILB,Yes,St. Louis Rams
+North Carolina,offense,backs_receivers,WR,Yes,St. Louis Rams
+Iowa,defense,defensive_back,CB,Yes,St. Louis Rams
+Illinois,defense,defensive_back,CB,Yes,Miami Dolphins
+Ohio St.,offense,backs_receivers,WR,Yes,Miami Dolphins
+USC,offense,backs_receivers,WR,Yes,Miami Dolphins
+Utah,defense,defensive_back,CB,Yes,Miami Dolphins
+Georgia Tech,offense,offensive_lineman,OT,Yes,Miami Dolphins
+West Virginia,offense,backs_receivers,QB,Yes,Miami Dolphins
+Clemson,defense,defensive_back,FS,Yes,Miami Dolphins
+Florida,offense,backs_receivers,WR,Yes,Minnesota Vikings
+Mississippi,defense,defensive_back,SS,Yes,Minnesota Vikings
+South Carolina,defense,line_backer,ILB,Yes,Minnesota Vikings
+Georgia,defense,defensive_back,CB,Yes,Minnesota Vikings
+Oklahoma,offense,offensive_lineman,OT,Yes,Minnesota Vikings
+Oregon,defense,defensive_back,SS,Yes,New England Patriots
+South Florida,defense,line_backer,OLB,Yes,New England Patriots
+North Carolina,offense,backs_receivers,WR,Yes,New England Patriots
+Georgia Tech,defense,defensive_lineman,DT,Yes,New England Patriots
+Connecticut,defense,defensive_back,CB,Yes,New England Patriots
+Kentucky,defense,defensive_lineman,DT,Yes,New England Patriots
+Boston Col.,defense,defensive_lineman,DT,Yes,New England Patriots
+Hawaii,special_teams,other_special,LS,Yes,New England Patriots
+Ohio St.,defense,defensive_back,CB,Yes,New Orleans Saints
+SMU,special_teams,kicking_specialist,P,Yes,New Orleans Saints
+Wake Forest,defense,line_backer,ILB,Yes,New Orleans Saints
+Wake Forest,defense,defensive_back,SS,Yes,New Orleans Saints
+North Carolina,offense,backs_receivers,WR,Yes,New York Giants
+Wisconsin,offense,backs_receivers,TE,Yes,New York Giants
+Cal Poly,offense,backs_receivers,WR,Yes,New York Giants
+New Mexico,defense,defensive_back,CB,Yes,New York Giants
+Connecticut,offense,offensive_lineman,OT,Yes,New York Giants
+SMU,offense,backs_receivers,QB,Yes,New York Giants
+Virginia,defense,line_backer,OLB,Yes,New York Giants
+North Carolina St.,offense,backs_receivers,RB,Yes,New York Giants
+USC,offense,backs_receivers,QB,Yes,New York Jets
+Nebraska,offense,offensive_lineman,OG,Yes,New York Jets
+Iowa,offense,backs_receivers,RB,Yes,New York Jets
+Maryland,offense,backs_receivers,WR,Yes,Oakland Raiders
+Missouri,defense,defensive_lineman,DE,Yes,Oakland Raiders
+Florida,offense,backs_receivers,WR,Yes,Oakland Raiders
+Wisconsin,defense,defensive_lineman,DE,Yes,Oakland Raiders
+Missouri,offense,backs_receivers,WR,Yes,Philadelphia Eagles
+Oregon,offense,offensive_lineman,OT,Yes,Philadelphia Eagles
+Virginia Tech,defense,defensive_back,CB,Yes,Philadelphia Eagles
+Maryland,defense,line_backer,OLB,Yes,Philadelphia Eagles
+Florida,offense,backs_receivers,TE,Yes,Philadelphia Eagles
+Arizona St.,offense,offensive_lineman,OG,Yes,Philadelphia Eagles
+Pittsburgh,offense,backs_receivers,RB,Yes,Philadelphia Eagles
+Washington St.,offense,backs_receivers,WR,Yes,Philadelphia Eagles
+Missouri,defense,defensive_lineman,DT,Yes,Pittsburgh Steelers
+Central Florida,defense,defensive_back,CB,Yes,Pittsburgh Steelers
+Oregon St.,defense,defensive_back,CB,Yes,Pittsburgh Steelers
+Mississippi,offense,backs_receivers,WR,Yes,Pittsburgh Steelers
+Arkansas St.,offense,backs_receivers,FB,Yes,Pittsburgh Steelers
+Wisconsin,offense,offensive_lineman,OG,Yes,Pittsburgh Steelers
+Penn St.,offense,offensive_lineman,C,Yes,Pittsburgh Steelers
+Texas Tech,offense,backs_receivers,WR,Yes,San Francisco 49ers
+Fresno St.,offense,backs_receivers,TE,Yes,San Francisco 49ers
+Ball St.,offense,backs_receivers,QB,Yes,San Francisco 49ers
+Pittsburgh,defense,line_backer,ILB,Yes,San Francisco 49ers
+LSU,defense,defensive_lineman,DT,Yes,San Francisco 49ers
+Alabama,offense,backs_receivers,RB,Yes,San Francisco 49ers
+LSU,defense,defensive_back,FS,Yes,San Francisco 49ers
+Wake Forest,defense,line_backer,OLB,Yes,Seattle Seahawks
+California,offense,backs_receivers,TE,Yes,Seattle Seahawks
+Rutgers,defense,defensive_back,SS,Yes,Seattle Seahawks
+Penn St.,offense,backs_receivers,WR,Yes,Seattle Seahawks
+Oregon,offense,offensive_lineman,C,Yes,Seattle Seahawks
+Kansas St.,offense,backs_receivers,QB,Yes,Tampa Bay Buccaneers
+Oregon St.,offense,backs_receivers,WR,Yes,Tampa Bay Buccaneers
+Illinois,offense,offensive_lineman,OT,Yes,Tampa Bay Buccaneers
+USC,defense,defensive_lineman,DE,Yes,Tampa Bay Buccaneers
+Texas,defense,defensive_lineman,DT,Yes,Tampa Bay Buccaneers
+Rutgers,offense,backs_receivers,WR,Yes,Tennessee Titans
+Southern Miss,defense,line_backer,ILB,Yes,Tennessee Titans
+Hawaii,defense,defensive_back,CB,Yes,Tennessee Titans
+Stephen F. Austin,offense,backs_receivers,WR,Yes,Tennessee Titans
+South Carolina,offense,backs_receivers,TE,Yes,Tennessee Titans
+Michigan St.,offense,backs_receivers,RB,Yes,Tennessee Titans
+Auburn,defense,defensive_lineman,DT,Yes,Tennessee Titans
+Tulane,offense,offensive_lineman,OT,Yes,Tennessee Titans
+Texas,defense,defensive_lineman,DE,Yes,Washington Redskins
+Nevada,offense,backs_receivers,WR,Yes,Washington Redskins
+Idaho,offense,backs_receivers,FB,Yes,Washington Redskins
+Nebraska,defense,line_backer,OLB,Yes,Washington Redskins
+Maryland,defense,defensive_back,CB,Yes,Washington Redskins
+Citadel,offense,backs_receivers,WR,Yes,Arizona Cardinals
+TCU,defense,line_backer,OLB,Yes,Arizona Cardinals
+Stanford,offense,backs_receivers,TE,Yes,Arizona Cardinals
+Tennessee,defense,defensive_lineman,DT,Yes,Arizona Cardinals
+Fordham,offense,backs_receivers,QB,Yes,Arizona Cardinals
+Wisconsin,defense,line_backer,OLB,Yes,Arizona Cardinals
+Alabama,offense,offensive_lineman,OG,Yes,Atlanta Falcons
+Kentucky,defense,defensive_lineman,DT,Yes,Atlanta Falcons
+Kansas,offense,backs_receivers,WR,Yes,Atlanta Falcons
+Missouri,defense,line_backer,OLB,Yes,Atlanta Falcons
+Oklahoma,defense,defensive_back,CB,Yes,Atlanta Falcons
+UNLV,offense,offensive_lineman,C,Yes,Atlanta Falcons
+Oregon,offense,backs_receivers,TE,Yes,Baltimore Ravens
+Alabama,defense,defensive_lineman,DT,Yes,Baltimore Ravens
+Syracuse,defense,defensive_lineman,DT,Yes,Baltimore Ravens
+Texas,defense,line_backer,OLB,Yes,Baltimore Ravens
+Utah,offense,backs_receivers,WR,Yes,Baltimore Ravens
+BYU,offense,backs_receivers,TE,Yes,Baltimore Ravens
+Central Florida,defense,defensive_lineman,DT,Yes,Buffalo Bills
+James Madison,defense,line_backer,OLB,Yes,Buffalo Bills
+Clemson,offense,backs_receivers,RB,Yes,Buffalo Bills
+Virginia Tech,offense,offensive_lineman,OT,Yes,Buffalo Bills
+Connecticut,offense,backs_receivers,WR,Yes,Buffalo Bills
+Iowa,offense,offensive_lineman,OT,Yes,Buffalo Bills
+Arkansas St.,defense,defensive_lineman,DE,Yes,Buffalo Bills
+Troy,offense,backs_receivers,QB,Yes,Buffalo Bills
+LSU,offense,backs_receivers,WR,Yes,Carolina Panthers
+Baylor,offense,backs_receivers,WR,Yes,Carolina Panthers
+Notre Dame,offense,backs_receivers,QB,Yes,Carolina Panthers
+Mississippi,defense,defensive_lineman,DE,Yes,Carolina Panthers
+South Carolina,defense,line_backer,OLB,Yes,Carolina Panthers
+Appalachian St.,offense,backs_receivers,WR,Yes,Carolina Panthers
+Cincinnati,offense,backs_receivers,QB,Yes,Carolina Panthers
+Central Michigan,offense,backs_receivers,QB,Yes,Chicago Bears
+Kansas St.,defense,defensive_back,CB,Yes,Chicago Bears
+Northwestern,defense,defensive_lineman,DE,Yes,Chicago Bears
+Florida,defense,defensive_back,FS,Yes,Chicago Bears
+Oklahoma,offense,backs_receivers,TE,Yes,Cincinnati Bengals
+Georgia,defense,defensive_lineman,DT,Yes,Cincinnati Bengals
+Wake Forest,defense,defensive_back,CB,Yes,Cincinnati Bengals
+Texas,offense,backs_receivers,WR,Yes,Cincinnati Bengals
+Kansas,offense,backs_receivers,WR,Yes,Cincinnati Bengals
+Florida,defense,defensive_lineman,DE,Yes,Cincinnati Bengals
+Texas,defense,line_backer,OLB,Yes,Cincinnati Bengals
+Florida,defense,defensive_back,CB,Yes,Cleveland Browns
+Arizona St.,offense,offensive_lineman,OG,Yes,Cleveland Browns
+Texas,offense,backs_receivers,QB,Yes,Cleveland Browns
+South Carolina,defense,defensive_lineman,DE,Yes,Cleveland Browns
+Tennessee,offense,backs_receivers,RB,Yes,Cleveland Browns
+South Florida,offense,backs_receivers,WR,Yes,Cleveland Browns
+Oregon,defense,defensive_back,SS,Yes,Cleveland Browns
+Nebraska,defense,defensive_back,SS,Yes,Cleveland Browns
+Penn St.,defense,line_backer,ILB,Yes,Dallas Cowboys
+Oklahoma St.,offense,backs_receivers,WR,Yes,Dallas Cowboys
+Texas Tech,defense,defensive_back,CB,Yes,Dallas Cowboys
+Notre Dame,offense,offensive_lineman,OT,Yes,Dallas Cowboys
+Indiana (PA),defense,defensive_back,CB,Yes,Dallas Cowboys
+Baylor,offense,offensive_lineman,C,Yes,Denver Broncos
+California,defense,defensive_back,CB,Yes,Denver Broncos
+Utah,offense,offensive_lineman,OG,Yes,Denver Broncos
+Notre Dame,offense,offensive_lineman,C,Yes,Denver Broncos
+Florida,offense,backs_receivers,QB,Yes,Denver Broncos
+Oklahoma St.,defense,defensive_back,CB,Yes,Denver Broncos
+Georgia Tech,offense,backs_receivers,WR,Yes,Denver Broncos
+Minnesota,offense,backs_receivers,WR,Yes,Denver Broncos
+Indiana,defense,defensive_lineman,DE,Yes,Denver Broncos
+Nebraska,defense,defensive_lineman,DT,Yes,Detroit Lions
+North Carolina St.,defense,defensive_lineman,DE,Yes,Detroit Lions
+Miami (FL),offense,offensive_lineman,OT,Yes,Detroit Lions
+Iowa,defense,defensive_back,CB,Yes,Detroit Lions
+California,offense,backs_receivers,RB,Yes,Detroit Lions
+East Carolina,defense,defensive_lineman,DE,Yes,Green Bay Packers
+Buffalo,offense,backs_receivers,RB,Yes,Green Bay Packers
+Penn St.,offense,backs_receivers,TE,Yes,Green Bay Packers
+TCU,offense,offensive_lineman,OG,Yes,Green Bay Packers
+Purdue,defense,defensive_lineman,DT,Yes,Green Bay Packers
+Georgia Tech,defense,defensive_back,FS,Yes,Green Bay Packers
+Iowa,offense,offensive_lineman,OT,Yes,Green Bay Packers
+Auburn,offense,backs_receivers,RB,Yes,Houston Texans
+Northwestern,defense,defensive_back,CB,Yes,Houston Texans
+Alabama,defense,defensive_back,CB,Yes,Houston Texans
+Wisconsin,offense,backs_receivers,TE,Yes,Houston Texans
+Pittsburgh,offense,backs_receivers,TE,Yes,Houston Texans
+Miami (FL),defense,line_backer,ILB,Yes,Houston Texans
+LSU,offense,backs_receivers,WR,Yes,Houston Texans
+Arizona,defense,defensive_lineman,DT,Yes,Houston Texans
+Colorado St.,offense,offensive_lineman,OG,Yes,Houston Texans
+Iowa,defense,line_backer,ILB,Yes,Indianapolis Colts
+TCU,defense,line_backer,OLB,Yes,Indianapolis Colts
+Clemson,defense,line_backer,OLB,Yes,Indianapolis Colts
+Oklahoma,offense,backs_receivers,TE,Yes,Indianapolis Colts
+USC,defense,defensive_back,CB,Yes,Indianapolis Colts
+Louisiana Tech,defense,defensive_lineman,DT,Yes,Jacksonville Jaguars
+California,defense,defensive_lineman,DE,Yes,Jacksonville Jaguars
+Illinois,offense,offensive_lineman,OG,Yes,Kansas City Chiefs
+Alabama,defense,defensive_back,CB,Yes,Kansas City Chiefs
+Troy,defense,line_backer,OLB,Yes,Kansas City Chiefs
+Mississippi,offense,backs_receivers,WR,Yes,Kansas City Chiefs
+Mississippi,defense,defensive_back,FS,Yes,Kansas City Chiefs
+Tennessee,defense,defensive_back,FS,Yes,Kansas City Chiefs
+Iowa,offense,backs_receivers,TE,Yes,Kansas City Chiefs
+Washington,defense,line_backer,ILB,Yes,San Diego Chargers
+Fresno St.,offense,backs_receivers,RB,Yes,San Diego Chargers
+Miami (FL),offense,backs_receivers,TE,Yes,San Diego Chargers
+North Carolina,defense,defensive_lineman,DT,Yes,San Diego Chargers
+Kansas,defense,defensive_back,SS,Yes,San Diego Chargers
+South Florida,defense,defensive_lineman,DE,Yes,St. Louis Rams
+Indiana,offense,offensive_lineman,OT,Yes,St. Louis Rams
+South Florida,defense,defensive_back,CB,Yes,St. Louis Rams
+Penn St.,defense,line_backer,ILB,Yes,St. Louis Rams
+Illinois,offense,backs_receivers,TE,Yes,St. Louis Rams
+Cincinnati,offense,backs_receivers,WR,Yes,St. Louis Rams
+Louisiana-Lafayette,defense,defensive_lineman,DE,Yes,St. Louis Rams
+Oklahoma,offense,backs_receivers,QB,Yes,St. Louis Rams
+Utah,defense,line_backer,OLB,Yes,Miami Dolphins
+Georgia,defense,defensive_back,SS,Yes,Miami Dolphins
+Penn St.,defense,defensive_lineman,DT,Yes,Miami Dolphins
+Maryland,defense,defensive_back,CB,Yes,Miami Dolphins
+Iowa,defense,line_backer,OLB,Yes,Miami Dolphins
+Mississippi,offense,offensive_lineman,OT,Yes,Miami Dolphins
+Wake Forest,offense,offensive_lineman,OG,Yes,Minnesota Vikings
+USC,defense,defensive_lineman,DE,Yes,Minnesota Vikings
+Stanford,offense,backs_receivers,RB,Yes,Minnesota Vikings
+Virginia,defense,defensive_back,CB,Yes,Minnesota Vikings
+Minnesota,defense,line_backer,OLB,Yes,Minnesota Vikings
+Rutgers,defense,defensive_back,CB,Yes,New England Patriots
+Ohio,offense,backs_receivers,WR,Yes,New England Patriots
+Vanderbilt,offense,offensive_lineman,OT,Yes,New England Patriots
+Florida,defense,line_backer,ILB,Yes,New England Patriots
+North Carolina St.,offense,offensive_lineman,C,Yes,New England Patriots
+Florida,defense,defensive_lineman,DE,Yes,New England Patriots
+Michigan,special_teams,kicking_specialist,P,Yes,New England Patriots
+Oklahoma St.,offense,backs_receivers,QB,Yes,New England Patriots
+Arizona,offense,backs_receivers,TE,Yes,New England Patriots
+Florida,offense,backs_receivers,TE,Yes,New England Patriots
+Alabama,defense,defensive_lineman,DT,Yes,New England Patriots
+Florida St.,defense,defensive_back,CB,Yes,New Orleans Saints
+Boston Col.,offense,offensive_lineman,C,Yes,New Orleans Saints
+LSU,defense,defensive_lineman,DT,Yes,New Orleans Saints
+Miami (FL),offense,backs_receivers,TE,Yes,New Orleans Saints
+USC,offense,offensive_lineman,OT,Yes,New Orleans Saints
+Oregon St.,offense,backs_receivers,QB,Yes,New Orleans Saints
+South Florida,defense,defensive_lineman,DE,Yes,New York Giants
+Arkansas,offense,offensive_lineman,OG,Yes,New York Giants
+Nebraska,defense,line_backer,ILB,Yes,New York Giants
+LSU,defense,defensive_back,SS,Yes,New York Giants
+East Carolina,special_teams,kicking_specialist,P,Yes,New York Giants
+East Carolina,defense,defensive_lineman,DT,Yes,New York Giants
+William & Mary,defense,line_backer,OLB,Yes,New York Giants
+Massachusetts,offense,offensive_lineman,OT,Yes,New York Jets
+Boise St.,defense,defensive_back,CB,Yes,New York Jets
+Kentucky,offense,backs_receivers,FB,Yes,New York Jets
+USC,offense,backs_receivers,RB,Yes,New York Jets
+Alabama,defense,line_backer,ILB,Yes,Oakland Raiders
+Clemson,offense,backs_receivers,WR,Yes,Oakland Raiders
+Maryland,offense,offensive_lineman,OT,Yes,Oakland Raiders
+Hillsdale,offense,offensive_lineman,OT,Yes,Oakland Raiders
+Texas,defense,defensive_lineman,DT,Yes,Oakland Raiders
+Arizona St.,defense,line_backer,ILB,Yes,Oakland Raiders
+Michigan,defense,line_backer,OLB,Yes,Philadelphia Eagles
+Oklahoma,defense,line_backer,OLB,Yes,Philadelphia Eagles
+Florida,offense,backs_receivers,WR,Yes,Philadelphia Eagles
+Ohio St.,defense,defensive_back,SS,Yes,Philadelphia Eagles
+Kentucky,defense,defensive_back,CB,Yes,Philadelphia Eagles
+Clemson,defense,line_backer,OLB,Yes,Philadelphia Eagles
+Georgia,defense,defensive_lineman,DT,Yes,Philadelphia Eagles
+Washington,defense,defensive_lineman,DE,Yes,Philadelphia Eagles
+Missouri State,offense,backs_receivers,FB,Yes,Philadelphia Eagles
+Mississippi St.,defense,line_backer,ILB,Yes,Philadelphia Eagles
+South Florida,defense,defensive_back,FS,Yes,Philadelphia Eagles
+Northwestern,offense,backs_receivers,QB,Yes,Philadelphia Eagles
+LSU,offense,backs_receivers,RB,Yes,Philadelphia Eagles
+Virginia Tech,defense,line_backer,OLB,Yes,Pittsburgh Steelers
+Clemson,defense,defensive_back,CB,Yes,Pittsburgh Steelers
+Ohio St.,defense,defensive_lineman,DT,Yes,Pittsburgh Steelers
+Florida,offense,offensive_lineman,C,Yes,Pittsburgh Steelers
+Tennessee,offense,offensive_lineman,OG,Yes,Pittsburgh Steelers
+Central Michigan,offense,backs_receivers,WR,Yes,Pittsburgh Steelers
+Ohio St.,defense,line_backer,OLB,Yes,Pittsburgh Steelers
+Georgia Tech,offense,backs_receivers,RB,Yes,Pittsburgh Steelers
+SMU,offense,backs_receivers,WR,Yes,Pittsburgh Steelers
+Utah,defense,line_backer,OLB,Yes,Pittsburgh Steelers
+Idaho,offense,offensive_lineman,OG,Yes,San Francisco 49ers
+Pittsburgh,offense,backs_receivers,TE,Yes,San Francisco 49ers
+Rutgers,offense,offensive_lineman,OT,Yes,San Francisco 49ers
+Mississippi St.,offense,backs_receivers,RB,Yes,San Francisco 49ers
+Penn St.,defense,line_backer,OLB,Yes,San Francisco 49ers
+USC,defense,defensive_back,FS,Yes,San Francisco 49ers
+Arizona St.,offense,backs_receivers,WR,Yes,San Francisco 49ers
+Oregon,defense,defensive_back,CB,Yes,Seattle Seahawks
+Arizona St.,defense,line_backer,OLB,Yes,Seattle Seahawks
+Notre Dame,offense,backs_receivers,WR,Yes,Seattle Seahawks
+USC,offense,backs_receivers,TE,Yes,Seattle Seahawks
+Texas,defense,defensive_back,CB,Yes,Seattle Seahawks
+Virginia Tech,defense,defensive_back,FS,Yes,Seattle Seahawks
+Oklahoma St.,offense,offensive_lineman,OT,Yes,Seattle Seahawks
+North Carolina,defense,defensive_lineman,DE,Yes,Seattle Seahawks
+Vanderbilt,defense,defensive_back,FS,Yes,Tampa Bay Buccaneers
+Florida St.,defense,line_backer,OLB,Yes,Tampa Bay Buccaneers
+Illinois,offense,backs_receivers,WR,Yes,Tampa Bay Buccaneers
+Virginia Tech,defense,defensive_back,SS,Yes,Tampa Bay Buccaneers
+UCLA,defense,defensive_lineman,DT,Yes,Tampa Bay Buccaneers
+Virginia Tech,special_teams,kicking_specialist,P,Yes,Tampa Bay Buccaneers
+Oklahoma,defense,defensive_lineman,DT,Yes,Tampa Bay Buccaneers
+Syracuse,offense,backs_receivers,WR,Yes,Tampa Bay Buccaneers
+Stanford,defense,defensive_lineman,DE,Yes,Tampa Bay Buccaneers
+Georgia Tech,defense,defensive_lineman,DE,Yes,Tennessee Titans
+Florida St.,defense,defensive_back,SS,Yes,Tennessee Titans
+UCLA,defense,defensive_back,CB,Yes,Tennessee Titans
+Georgia,defense,line_backer,OLB,Yes,Tennessee Titans
+USC,offense,backs_receivers,WR,Yes,Tennessee Titans
+West Virginia,offense,offensive_lineman,OT,Yes,Washington Redskins
+New Mexico,offense,offensive_lineman,C,Yes,Washington Redskins
+LSU,defense,line_backer,OLB,Yes,Washington Redskins
+Oklahoma,offense,offensive_lineman,OT,Yes,Washington Redskins
+LSU,defense,defensive_back,CB,Yes,Arizona Cardinals
+Connecticut,offense,backs_receivers,FB,Yes,Arizona Cardinals
+Texas,defense,line_backer,OLB,Yes,Arizona Cardinals
+Florida Atlantic,offense,backs_receivers,TE,Yes,Arizona Cardinals
+San Diego St.,offense,backs_receivers,WR,Yes,Arizona Cardinals
+Virginia Tech,offense,backs_receivers,RB,Yes,Arizona Cardinals
+North Carolina,defense,line_backer,ILB,Yes,Arizona Cardinals
+Alabama,offense,backs_receivers,WR,Yes,Atlanta Falcons
+Fresno St.,offense,offensive_lineman,OG,Yes,Atlanta Falcons
+Miami (FL),special_teams,kicking_specialist,P,Yes,Atlanta Falcons
+Oregon St.,offense,backs_receivers,RB,Yes,Atlanta Falcons
+Georgia,defense,line_backer,ILB,Yes,Atlanta Falcons
+South Carolina,defense,defensive_lineman,DE,Yes,Atlanta Falcons
+Colorado,defense,defensive_back,CB,Yes,Baltimore Ravens
+Texas,defense,defensive_back,CB,Yes,Baltimore Ravens
+Indiana,offense,backs_receivers,WR,Yes,Baltimore Ravens
+Georgia Tech,offense,backs_receivers,RB,Yes,Baltimore Ravens
+Central Florida,offense,offensive_lineman,OT,Yes,Baltimore Ravens
+Virginia Tech,offense,backs_receivers,QB,Yes,Baltimore Ravens
+Maryland,offense,backs_receivers,WR,Yes,Baltimore Ravens
+Mississippi St.,defense,defensive_lineman,DE,Yes,Baltimore Ravens
+Texas,defense,defensive_back,CB,Yes,Buffalo Bills
+North Carolina,offense,backs_receivers,RB,Yes,Buffalo Bills
+Alabama,defense,defensive_lineman,DT,Yes,Buffalo Bills
+Clemson,offense,offensive_lineman,OT,Yes,Buffalo Bills
+North Carolina,defense,defensive_back,SS,Yes,Buffalo Bills
+Richmond,defense,defensive_back,CB,Yes,Buffalo Bills
+LSU,defense,line_backer,ILB,Yes,Buffalo Bills
+Mississippi St.,defense,line_backer,ILB,Yes,Buffalo Bills
+Stanford,defense,defensive_lineman,DT,Yes,Carolina Panthers
+Auburn,offense,offensive_lineman,OT,Yes,Carolina Panthers
+South Florida,defense,defensive_lineman,DT,Yes,Carolina Panthers
+Connecticut,defense,line_backer,OLB,Yes,Carolina Panthers
+Auburn,offense,backs_receivers,QB,Yes,Carolina Panthers
+Hawaii,offense,backs_receivers,WR,Yes,Carolina Panthers
+West Virginia,defense,defensive_back,CB,Yes,Carolina Panthers
+Idaho,offense,backs_receivers,QB,Yes,Chicago Bears
+California,defense,defensive_back,FS,Yes,Chicago Bears
+Oregon St.,defense,defensive_lineman,DT,Yes,Chicago Bears
+Wisconsin,offense,offensive_lineman,OT,Yes,Chicago Bears
+West Virginia,defense,line_backer,OLB,Yes,Chicago Bears
+TCU,offense,backs_receivers,QB,Yes,Cincinnati Bengals
+Stanford,offense,backs_receivers,WR,Yes,Cincinnati Bengals
+Georgia,offense,backs_receivers,WR,Yes,Cincinnati Bengals
+West Virginia,defense,defensive_back,FS,Yes,Cincinnati Bengals
+Georgia,offense,offensive_lineman,OG,Yes,Cincinnati Bengals
+Nevada,defense,line_backer,OLB,Yes,Cincinnati Bengals
+Baylor,defense,defensive_lineman,DT,Yes,Cleveland Browns
+Stanford,offense,backs_receivers,FB,Yes,Cleveland Browns
+USC,offense,backs_receivers,TE,Yes,Cleveland Browns
+Nebraska,defense,defensive_back,FS,Yes,Cleveland Browns
+North Carolina,offense,backs_receivers,WR,Yes,Cleveland Browns
+Pittsburgh,offense,offensive_lineman,OT,Yes,Cleveland Browns
+Pittsburgh,defense,defensive_lineman,DE,Yes,Cleveland Browns
+Tenn-Chattanooga,defense,defensive_back,CB,Yes,Cleveland Browns
+USC,offense,offensive_lineman,OT,Yes,Dallas Cowboys
+Buffalo,defense,defensive_back,CB,Yes,Dallas Cowboys
+Missouri State,offense,offensive_lineman,OG,Yes,Dallas Cowboys
+Oklahoma,offense,backs_receivers,RB,Yes,Dallas Cowboys
+Georgia,offense,backs_receivers,FB,Yes,Dallas Cowboys
+North Carolina,defense,line_backer,OLB,Yes,Dallas Cowboys
+East Carolina,offense,backs_receivers,WR,Yes,Dallas Cowboys
+Miami (FL),offense,offensive_lineman,OT,Yes,Denver Broncos
+California,defense,line_backer,ILB,Yes,Denver Broncos
+UCLA,defense,defensive_back,FS,Yes,Denver Broncos
+Portland St.,offense,backs_receivers,TE,Yes,Denver Broncos
+Texas A&M,defense,line_backer,OLB,Yes,Denver Broncos
+Oklahoma,defense,defensive_back,FS,Yes,Denver Broncos
+Oklahoma,defense,defensive_lineman,DE,Yes,Denver Broncos
+North Carolina St.,defense,line_backer,ILB,Yes,Denver Broncos
+Nevada,offense,backs_receivers,TE,Yes,Denver Broncos
+Syracuse,defense,line_backer,OLB,Yes,Detroit Lions
+Illinois,offense,backs_receivers,RB,Yes,Detroit Lions
+Boise St.,offense,backs_receivers,WR,Yes,Detroit Lions
+Auburn,defense,defensive_lineman,DT,Yes,Detroit Lions
+Arkansas,offense,backs_receivers,TE,Yes,Green Bay Packers
+Appalachian St.,defense,line_backer,OLB,Yes,Green Bay Packers
+Mississippi St.,offense,offensive_lineman,OT,Yes,Green Bay Packers
+Utah,offense,offensive_lineman,OG,Yes,Green Bay Packers
+New Mexico St.,defense,defensive_back,CB,Yes,Green Bay Packers
+Arizona St.,defense,defensive_lineman,DT,Yes,Green Bay Packers
+Hawaii,offense,backs_receivers,RB,Yes,Green Bay Packers
+Arizona,defense,defensive_lineman,DE,Yes,Green Bay Packers
+Kentucky,offense,backs_receivers,WR,Yes,Green Bay Packers
+Wisconsin,defense,defensive_lineman,DE,Yes,Houston Texans
+North Carolina,offense,backs_receivers,QB,Yes,Houston Texans
+Idaho,defense,defensive_back,SS,Yes,Houston Texans
+Miami (FL),defense,defensive_back,CB,Yes,Houston Texans
+Rice,defense,defensive_lineman,DE,Yes,Houston Texans
+Arizona,defense,line_backer,OLB,Yes,Houston Texans
+Arkansas St.,offense,offensive_lineman,OT,Yes,Houston Texans
+Boston Col.,offense,offensive_lineman,OT,Yes,Indianapolis Colts
+Michigan St.,defense,defensive_back,CB,Yes,Indianapolis Colts
+Syracuse,offense,backs_receivers,RB,Yes,Indianapolis Colts
+LSU,defense,defensive_lineman,DT,Yes,Indianapolis Colts
+Villanova,offense,offensive_lineman,OG,Yes,Indianapolis Colts
+Mount Union,offense,backs_receivers,WR,Yes,Jacksonville Jaguars
+Lehigh,offense,offensive_lineman,OG,Yes,Jacksonville Jaguars
+Missouri,offense,backs_receivers,QB,Yes,Jacksonville Jaguars
+Pittsburgh,offense,backs_receivers,WR,Yes,Kansas City Chiefs
+Colorado,defense,defensive_back,CB,Yes,Kansas City Chiefs
+Miami (FL),defense,defensive_lineman,DE,Yes,Kansas City Chiefs
+Georgia,defense,line_backer,OLB,Yes,Kansas City Chiefs
+Mississippi,defense,defensive_lineman,DT,Yes,Kansas City Chiefs
+Florida St.,offense,offensive_lineman,C,Yes,Kansas City Chiefs
+Iowa,offense,backs_receivers,QB,Yes,Kansas City Chiefs
+Illinois,defense,defensive_lineman,DT,Yes,San Diego Chargers
+USC,defense,defensive_back,CB,Yes,San Diego Chargers
+San Diego St.,offense,backs_receivers,WR,Yes,San Diego Chargers
+Michigan,defense,line_backer,OLB,Yes,San Diego Chargers
+Michigan,offense,offensive_lineman,OG,Yes,San Diego Chargers
+Clemson,defense,defensive_back,CB,Yes,San Diego Chargers
+Connecticut,offense,backs_receivers,RB,Yes,San Diego Chargers
+Hawaii,offense,backs_receivers,WR,Yes,St. Louis Rams
+North Carolina,defense,defensive_lineman,DE,Yes,St. Louis Rams
+Boise St.,offense,backs_receivers,WR,Yes,St. Louis Rams
+Wisconsin,offense,backs_receivers,TE,Yes,St. Louis Rams
+Ohio St.,defense,defensive_back,SS,Yes,St. Louis Rams
+Tulsa,offense,backs_receivers,FB,Yes,Miami Dolphins
+Abilene Christian,offense,backs_receivers,WR,Yes,Miami Dolphins
+Kansas St.,offense,backs_receivers,RB,Yes,Miami Dolphins
+Florida,offense,offensive_lineman,OG,Yes,Miami Dolphins
+Iowa,defense,defensive_lineman,DE,Yes,Minnesota Vikings
+Ohio St.,defense,line_backer,OLB,Yes,Minnesota Vikings
+Notre Dame,offense,backs_receivers,TE,Yes,Minnesota Vikings
+Slippery Rock,offense,offensive_lineman,C,Yes,Minnesota Vikings
+Florida St.,offense,backs_receivers,QB,Yes,Minnesota Vikings
+Arkansas,offense,offensive_lineman,OT,Yes,Minnesota Vikings
+West Texas A&M,offense,backs_receivers,WR,Yes,Minnesota Vikings
+Utah,defense,defensive_back,CB,Yes,Minnesota Vikings
+Arizona,defense,defensive_lineman,DE,Yes,Minnesota Vikings
+Virginia,defense,defensive_back,CB,Yes,New England Patriots
+TCU,offense,offensive_lineman,OT,Yes,New England Patriots
+Colorado,offense,offensive_lineman,OT,Yes,New England Patriots
+Arkansas,offense,backs_receivers,QB,Yes,New England Patriots
+LSU,offense,backs_receivers,RB,Yes,New England Patriots
+California,offense,backs_receivers,RB,Yes,New England Patriots
+Marshall,offense,backs_receivers,TE,Yes,New England Patriots
+Illinois,defense,line_backer,ILB,Yes,New Orleans Saints
+Alabama,offense,backs_receivers,RB,Yes,New Orleans Saints
+California,defense,defensive_lineman,DE,Yes,New Orleans Saints
+Pittsburgh,defense,defensive_lineman,DE,Yes,New Orleans Saints
+Louisville,defense,defensive_back,CB,Yes,New Orleans Saints
+North Carolina,defense,defensive_lineman,DT,Yes,New York Giants
+Iowa,defense,defensive_back,SS,Yes,New York Giants
+Nebraska,defense,defensive_back,CB,Yes,New York Giants
+Michigan St.,defense,line_backer,ILB,Yes,New York Giants
+Indiana,offense,offensive_lineman,OT,Yes,New York Giants
+Troy,offense,backs_receivers,WR,Yes,New York Giants
+Maryland,offense,backs_receivers,RB,Yes,New York Giants
+Kansas St.,defense,defensive_lineman,DT,Yes,New York Jets
+Temple,defense,defensive_lineman,DT,Yes,New York Jets
+Alabama,offense,backs_receivers,QB,Yes,New York Jets
+TCU,offense,backs_receivers,WR,Yes,New York Jets
+Louisville,offense,backs_receivers,RB,Yes,New York Jets
+LSU,offense,offensive_lineman,OT,Yes,Oakland Raiders
+Miami (FL),defense,defensive_back,CB,Yes,Oakland Raiders
+Tennessee,offense,backs_receivers,WR,Yes,Oakland Raiders
+Penn St.,offense,offensive_lineman,C,Yes,Oakland Raiders
+East. Washington,offense,backs_receivers,RB,Yes,Oakland Raiders
+Ohio St.,defense,defensive_back,CB,Yes,Oakland Raiders
+Oregon,defense,line_backer,ILB,Yes,Philadelphia Eagles
+Cincinnati,offense,offensive_lineman,C,Yes,Philadelphia Eagles
+Utah St.,defense,defensive_back,CB,Yes,Philadelphia Eagles
+Iowa,offense,offensive_lineman,OG,Yes,Philadelphia Eagles
+USC,offense,backs_receivers,FB,Yes,Philadelphia Eagles
+Temple,defense,defensive_back,FS,Yes,Philadelphia Eagles
+Pittsburgh,offense,backs_receivers,RB,Yes,Philadelphia Eagles
+Connecticut,defense,line_backer,ILB,Yes,Philadelphia Eagles
+Baylor,offense,offensive_lineman,OG,Yes,Philadelphia Eagles
+Nebraska,special_teams,kicking_specialist,K,Yes,Philadelphia Eagles
+Ohio St.,defense,line_backer,OLB,Yes,Philadelphia Eagles
+Citadel,defense,defensive_back,CB,Yes,Pittsburgh Steelers
+Texas,defense,defensive_back,CB,Yes,Pittsburgh Steelers
+Florida,offense,offensive_lineman,OT,Yes,Pittsburgh Steelers
+Nebraska,offense,offensive_lineman,OG,Yes,Pittsburgh Steelers
+Ohio St.,defense,defensive_lineman,DE,Yes,Pittsburgh Steelers
+Fresno St.,defense,line_backer,OLB,Yes,Pittsburgh Steelers
+South Carolina,defense,defensive_back,CB,Yes,San Francisco 49ers
+Central Florida,defense,line_backer,OLB,Yes,San Francisco 49ers
+Nevada,offense,backs_receivers,QB,Yes,San Francisco 49ers
+USC,offense,backs_receivers,WR,Yes,San Francisco 49ers
+Missouri,defense,defensive_lineman,DE,Yes,San Francisco 49ers
+Appalachian St.,offense,offensive_lineman,OG,Yes,San Francisco 49ers
+Oklahoma St.,offense,backs_receivers,RB,Yes,San Francisco 49ers
+Montana St.,offense,offensive_lineman,OG,Yes,San Francisco 49ers
+Stanford,defense,defensive_back,CB,Yes,Seattle Seahawks
+Mississippi St.,defense,line_backer,OLB,Yes,Seattle Seahawks
+Wisconsin,offense,offensive_lineman,OG,Yes,Seattle Seahawks
+Clemson,defense,defensive_back,CB,Yes,Seattle Seahawks
+Alabama,offense,offensive_lineman,OT,Yes,Seattle Seahawks
+Appalachian St.,defense,defensive_back,FS,Yes,Seattle Seahawks
+Washington,defense,line_backer,OLB,Yes,Tampa Bay Buccaneers
+Idaho,offense,backs_receivers,TE,Yes,Tampa Bay Buccaneers
+Clemson,defense,defensive_lineman,DE,Yes,Tampa Bay Buccaneers
+USC,offense,backs_receivers,RB,Yes,Tampa Bay Buccaneers
+Iowa,defense,defensive_lineman,DE,Yes,Tampa Bay Buccaneers
+Florida,defense,defensive_back,SS,Yes,Tampa Bay Buccaneers
+Tennessee,offense,backs_receivers,TE,Yes,Tampa Bay Buccaneers
+Miami (FL),defense,line_backer,ILB,Yes,Tennessee Titans
+USC,defense,defensive_lineman,DT,Yes,Tennessee Titans
+UCLA,defense,line_backer,OLB,Yes,Tennessee Titans
+Iowa,defense,defensive_lineman,DE,Yes,Tennessee Titans
+Washington,offense,backs_receivers,QB,Yes,Tennessee Titans
+Clemson,offense,backs_receivers,RB,Yes,Tennessee Titans
+Nebraska,offense,backs_receivers,RB,Yes,Washington Redskins
+SMU,offense,backs_receivers,WR,Yes,Washington Redskins
+West Virginia,defense,defensive_lineman,DT,Yes,Washington Redskins
+Miami (FL),offense,backs_receivers,WR,Yes,Washington Redskins
+Penn St.,offense,backs_receivers,RB,Yes,Washington Redskins
+Florida St.,defense,defensive_lineman,DE,Yes,Washington Redskins
+Clemson,defense,defensive_lineman,DT,Yes,Washington Redskins
+Nebraska,offense,backs_receivers,WR,Yes,Washington Redskins
+Florida,offense,offensive_lineman,OG,Yes,Washington Redskins
+Purdue,defense,defensive_lineman,DE,Yes,Washington Redskins
+Nebraska,defense,defensive_back,SS,Yes,Washington Redskins
+Boise St.,defense,defensive_back,CB,Yes,Washington Redskins
+Oklahoma,defense,defensive_back,CB,Yes,Arizona Cardinals
+San Diego St.,offense,backs_receivers,QB,Yes,Arizona Cardinals
+Notre Dame,offense,backs_receivers,WR,Yes,Arizona Cardinals
+Presbyterian,defense,defensive_back,FS,Yes,Arizona Cardinals
+Washington,offense,offensive_lineman,OG,Yes,Arizona Cardinals
+Mississippi,offense,offensive_lineman,OT,Yes,Arizona Cardinals
+Boise St.,offense,offensive_lineman,OT,Yes,Arizona Cardinals
+Wisconsin,offense,backs_receivers,FB,Yes,Atlanta Falcons
+Southern Miss,offense,offensive_lineman,OT,Yes,Atlanta Falcons
+South Carolina,defense,defensive_lineman,DT,Yes,Atlanta Falcons
+Wisconsin,offense,offensive_lineman,C,Yes,Atlanta Falcons
+Mississippi St.,defense,defensive_back,SS,Yes,Atlanta Falcons
+Troy,defense,line_backer,OLB,Yes,Atlanta Falcons
+Alabama,defense,defensive_lineman,DE,Yes,Baltimore Ravens
+Cal Poly,defense,defensive_back,CB,Yes,Baltimore Ravens
+South Carolina St.,defense,defensive_back,FS,Yes,Baltimore Ravens
+Temple,offense,backs_receivers,RB,Yes,Baltimore Ravens
+Georgia,defense,defensive_lineman,DT,Yes,Baltimore Ravens
+Iowa St.,offense,offensive_lineman,OT,Yes,Baltimore Ravens
+Miami (FL),offense,backs_receivers,WR,Yes,Baltimore Ravens
+Georgia,offense,offensive_lineman,OT,Yes,Buffalo Bills
+Florida St.,offense,offensive_lineman,OT,Yes,Buffalo Bills
+South Carolina,defense,defensive_back,CB,Yes,Buffalo Bills
+LSU,defense,defensive_back,CB,Yes,Buffalo Bills
+Florida St.,defense,line_backer,OLB,Yes,Buffalo Bills
+Oregon,offense,offensive_lineman,OG,Yes,Buffalo Bills
+North Carolina St.,offense,backs_receivers,WR,Yes,Buffalo Bills
+TCU,defense,line_backer,ILB,Yes,Buffalo Bills
+Arkansas,offense,backs_receivers,WR,Yes,Carolina Panthers
+Oklahoma,defense,defensive_lineman,DE,Yes,Carolina Panthers
+Midwestern St.,offense,offensive_lineman,OG,Yes,Carolina Panthers
+Wisconsin,special_teams,kicking_specialist,P,Yes,Carolina Panthers
+Boston Col.,defense,line_backer,ILB,Yes,Carolina Panthers
+Coastal Carolina,defense,defensive_back,CB,Yes,Carolina Panthers
+Temple,offense,backs_receivers,FB,Yes,Chicago Bears
+South Carolina,offense,backs_receivers,WR,Yes,Chicago Bears
+Boise St.,defense,line_backer,OLB,Yes,Chicago Bears
+Rutgers,offense,backs_receivers,WR,Yes,Cincinnati Bengals
+California,offense,backs_receivers,WR,Yes,Cincinnati Bengals
+Penn St.,defense,defensive_lineman,DT,Yes,Cincinnati Bengals
+Iowa,defense,defensive_back,CB,Yes,Cincinnati Bengals
+Wisconsin,offense,offensive_lineman,OG,Yes,Cincinnati Bengals
+Georgia,offense,backs_receivers,TE,Yes,Cincinnati Bengals
+Ohio St.,offense,backs_receivers,RB,Yes,Cincinnati Bengals
+Alabama,defense,defensive_back,CB,Yes,Cincinnati Bengals
+Clemson,defense,defensive_lineman,DT,Yes,Cincinnati Bengals
+Boise St.,defense,defensive_back,FS,Yes,Cincinnati Bengals
+Alabama,offense,backs_receivers,RB,Yes,Cleveland Browns
+Miami (FL),offense,backs_receivers,WR,Yes,Cleveland Browns
+Boise St.,defense,defensive_lineman,DE,Yes,Cleveland Browns
+Cincinnati,defense,defensive_lineman,DT,Yes,Cleveland Browns
+Texas,defense,line_backer,OLB,Yes,Cleveland Browns
+California,offense,offensive_lineman,OT,Yes,Cleveland Browns
+Colorado,offense,offensive_lineman,OG,Yes,Cleveland Browns
+Oklahoma St.,offense,backs_receivers,QB,Yes,Cleveland Browns
+Nevada,defense,line_backer,ILB,Yes,Cleveland Browns
+Arizona,defense,defensive_back,CB,Yes,Cleveland Browns
+Boise St.,defense,defensive_lineman,DE,Yes,Dallas Cowboys
+Montana,defense,line_backer,ILB,Yes,Dallas Cowboys
+LSU,defense,defensive_back,CB,Yes,Dallas Cowboys
+Oklahoma,offense,backs_receivers,TE,Yes,Dallas Cowboys
+Virginia Tech,offense,backs_receivers,WR,Yes,Dallas Cowboys
+Wake Forest,defense,line_backer,OLB,Yes,Dallas Cowboys
+Arizona St.,offense,backs_receivers,QB,Yes,Denver Broncos
+Tennessee,defense,defensive_lineman,DE,Yes,Denver Broncos
+Cincinnati,defense,defensive_lineman,DT,Yes,Denver Broncos
+Baylor,offense,offensive_lineman,C,Yes,Denver Broncos
+Arizona St.,defense,defensive_back,CB,Yes,Denver Broncos
+San Diego St.,offense,backs_receivers,RB,Yes,Denver Broncos
+Kentucky,defense,line_backer,OLB,Yes,Denver Broncos
+Oklahoma,defense,line_backer,OLB,Yes,Detroit Lions
+Colorado,defense,defensive_back,CB,Yes,Detroit Lions
+Oklahoma,offense,backs_receivers,WR,Yes,Detroit Lions
+Oklahoma,defense,line_backer,OLB,Yes,Detroit Lions
+Iowa,offense,offensive_lineman,OT,Yes,Detroit Lions
+Temple,defense,line_backer,OLB,Yes,Detroit Lions
+Michigan St.,defense,defensive_lineman,DT,Yes,Green Bay Packers
+USC,defense,defensive_lineman,DE,Yes,Green Bay Packers
+Maine,defense,defensive_back,SS,Yes,Green Bay Packers
+North Carolina St.,defense,line_backer,OLB,Yes,Green Bay Packers
+Vanderbilt,defense,defensive_back,CB,Yes,Green Bay Packers
+Florida St.,offense,offensive_lineman,OT,Yes,Green Bay Packers
+Iowa,defense,defensive_lineman,DT,Yes,Green Bay Packers
+Tenn-Chattanooga,offense,backs_receivers,QB,Yes,Green Bay Packers
+Ohio St.,offense,backs_receivers,WR,Yes,Houston Texans
+Texas A&M,special_teams,kicking_specialist,K,Yes,Houston Texans
+Illinois,defense,defensive_lineman,DE,Yes,Houston Texans
+Nebraska,defense,defensive_lineman,DE,Yes,Houston Texans
+Michigan St.,offense,backs_receivers,WR,Yes,Houston Texans
+Georgia,offense,offensive_lineman,C,Yes,Houston Texans
+Florida International,offense,backs_receivers,WR,Yes,Indianapolis Colts
+Georgia,offense,offensive_lineman,OT,Yes,Indianapolis Colts
+Clemson,offense,backs_receivers,TE,Yes,Indianapolis Colts
+Ohio,offense,backs_receivers,WR,Yes,Indianapolis Colts
+Stanford,offense,backs_receivers,TE,Yes,Indianapolis Colts
+Mississippi St.,offense,backs_receivers,RB,Yes,Indianapolis Colts
+Stanford,offense,backs_receivers,QB,Yes,Indianapolis Colts
+Alabama,defense,defensive_lineman,DT,Yes,Indianapolis Colts
+Northern Illinois,offense,backs_receivers,QB,Yes,Indianapolis Colts
+Oklahoma St.,offense,backs_receivers,WR,Yes,Jacksonville Jaguars
+Florida St.,defense,defensive_back,CB,Yes,Jacksonville Jaguars
+Nevada,defense,line_backer,OLB,Yes,Jacksonville Jaguars
+California,special_teams,kicking_specialist,P,Yes,Jacksonville Jaguars
+Clemson,defense,defensive_lineman,DE,Yes,Jacksonville Jaguars
+Illinois,offense,offensive_lineman,OT,Yes,Kansas City Chiefs
+Texas A&M,offense,backs_receivers,RB,Yes,Kansas City Chiefs
+Memphis,defense,defensive_lineman,DT,Yes,Kansas City Chiefs
+Alabama,defense,defensive_back,CB,Yes,Kansas City Chiefs
+Fresno St.,offense,backs_receivers,WR,Yes,Kansas City Chiefs
+Oklahoma,offense,offensive_lineman,OT,Yes,Kansas City Chiefs
+Michigan,offense,backs_receivers,WR,Yes,Kansas City Chiefs
+Connecticut,defense,defensive_lineman,DT,Yes,San Diego Chargers
+Michigan,offense,offensive_lineman,C,Yes,San Diego Chargers
+South Carolina,defense,line_backer,OLB,Yes,San Diego Chargers
+Penn St.,offense,offensive_lineman,OG,Yes,San Diego Chargers
+Louisiana-Lafayette,offense,backs_receivers,TE,Yes,San Diego Chargers
+LSU,defense,defensive_back,SS,Yes,San Diego Chargers
+Michigan St.,offense,backs_receivers,RB,Yes,San Diego Chargers
+South Carolina,offense,offensive_lineman,OG,Yes,St. Louis Rams
+Appalachian St.,offense,backs_receivers,WR,Yes,St. Louis Rams
+Cincinnati,offense,backs_receivers,RB,Yes,St. Louis Rams
+Montana,defense,defensive_back,CB,Yes,St. Louis Rams
+Florida,defense,defensive_back,CB,Yes,St. Louis Rams
+Wake Forest,offense,backs_receivers,WR,Yes,St. Louis Rams
+LSU,defense,defensive_lineman,DT,Yes,St. Louis Rams
+Missouri,offense,backs_receivers,TE,Yes,Miami Dolphins
+Texas,defense,defensive_lineman,DT,Yes,Miami Dolphins
+Miami (FL),defense,defensive_lineman,DE,Yes,Miami Dolphins
+Michigan St.,offense,backs_receivers,WR,Yes,Miami Dolphins
+Stanford,offense,offensive_lineman,OT,Yes,Miami Dolphins
+Oregon,defense,line_backer,OLB,Yes,Miami Dolphins
+Texas A&M,offense,backs_receivers,QB,Yes,Miami Dolphins
+Miami (FL),offense,backs_receivers,RB,Yes,Miami Dolphins
+Nevada,offense,backs_receivers,WR,Yes,Miami Dolphins
+Notre Dame,defense,defensive_back,SS,Yes,Minnesota Vikings
+Arkansas,offense,backs_receivers,WR,Yes,Minnesota Vikings
+California,defense,defensive_lineman,DE,Yes,Minnesota Vikings
+USC,offense,offensive_lineman,OT,Yes,Minnesota Vikings
+USC,offense,backs_receivers,TE,Yes,Minnesota Vikings
+North Carolina St.,defense,line_backer,ILB,Yes,Minnesota Vikings
+Arkansas,offense,backs_receivers,WR,Yes,Minnesota Vikings
+Georgia,special_teams,kicking_specialist,K,Yes,Minnesota Vikings
+Central Florida,defense,defensive_back,CB,Yes,Minnesota Vikings
+Notre Dame,defense,defensive_back,CB,Yes,Minnesota Vikings
+Arkansas,defense,defensive_lineman,DE,Yes,New England Patriots
+Alabama,defense,line_backer,ILB,Yes,New England Patriots
+Syracuse,defense,defensive_lineman,DE,Yes,New England Patriots
+Nebraska,defense,defensive_back,CB,Yes,New England Patriots
+Samford,defense,defensive_back,SS,Yes,New Orleans Saints
+Wisconsin,offense,backs_receivers,WR,Yes,New Orleans Saints
+Nebraska,offense,offensive_lineman,OT,Yes,New Orleans Saints
+Syracuse,offense,offensive_lineman,OG,Yes,New Orleans Saints
+Virginia Tech,defense,defensive_back,CB,Yes,New York Giants
+LSU,offense,backs_receivers,WR,Yes,New York Giants
+North Carolina St.,defense,defensive_lineman,DT,Yes,New York Giants
+Virginia Tech,offense,backs_receivers,RB,Yes,New York Giants
+Ala-Birmingham,offense,offensive_lineman,OT,Yes,New York Giants
+Auburn,offense,offensive_lineman,OT,Yes,New York Giants
+North Carolina,defense,defensive_lineman,DE,Yes,New York Jets
+South Carolina,defense,defensive_back,SS,Yes,New York Jets
+Baylor,offense,backs_receivers,RB,Yes,New York Jets
+Arkansas St.,defense,line_backer,OLB,Yes,New York Jets
+Georgia Tech,offense,backs_receivers,WR,Yes,New York Jets
+West. Michigan,offense,backs_receivers,WR,Yes,New York Jets
+Utah,offense,offensive_lineman,OT,Yes,Oakland Raiders
+Penn St.,defense,line_backer,OLB,Yes,Oakland Raiders
+Arizona,offense,backs_receivers,WR,Yes,Oakland Raiders
+Penn St.,defense,defensive_lineman,DE,Yes,Oakland Raiders
+San Diego St.,defense,line_backer,OLB,Yes,Oakland Raiders
+Georgia,defense,defensive_back,CB,Yes,Philadelphia Eagles
+Mississippi St.,defense,defensive_lineman,DT,Yes,Philadelphia Eagles
+Arizona,offense,backs_receivers,QB,Yes,Philadelphia Eagles
+Marshall,defense,defensive_lineman,DE,Yes,Philadelphia Eagles
+Miami (FL),offense,offensive_lineman,OG,Yes,Philadelphia Eagles
+Iowa,offense,backs_receivers,WR,Yes,Philadelphia Eagles
+California,defense,line_backer,ILB,Yes,Philadelphia Eagles
+Ohio St.,offense,offensive_lineman,OT,Yes,Pittsburgh Steelers
+Oregon,offense,backs_receivers,TE,Yes,Pittsburgh Steelers
+Stanford,offense,offensive_lineman,OG,Yes,Pittsburgh Steelers
+Florida,offense,backs_receivers,RB,Yes,Pittsburgh Steelers
+Washington,defense,defensive_lineman,DT,Yes,Pittsburgh Steelers
+SMU,offense,offensive_lineman,OG,Yes,Pittsburgh Steelers
+Miami (FL),defense,line_backer,OLB,Yes,Pittsburgh Steelers
+Texas A&M,defense,defensive_back,CB,Yes,Pittsburgh Steelers
+Wake Forest,offense,offensive_lineman,OG,Yes,San Francisco 49ers
+Oregon,offense,backs_receivers,RB,Yes,San Francisco 49ers
+Illinois,offense,backs_receivers,WR,Yes,San Francisco 49ers
+Virginia,defense,defensive_lineman,DE,Yes,San Francisco 49ers
+Notre Dame,defense,line_backer,OLB,Yes,San Francisco 49ers
+Wisconsin,offense,backs_receivers,QB,Yes,Seattle Seahawks
+North Carolina St.,defense,defensive_lineman,DT,Yes,Seattle Seahawks
+West Virginia,defense,line_backer,OLB,Yes,Seattle Seahawks
+Kentucky,defense,defensive_back,SS,Yes,Seattle Seahawks
+Florida,defense,defensive_lineman,DT,Yes,Seattle Seahawks
+Utah St.,offense,backs_receivers,RB,Yes,Seattle Seahawks
+West Virginia,defense,line_backer,ILB,Yes,Tampa Bay Buccaneers
+Nebraska,defense,line_backer,OLB,Yes,Tampa Bay Buccaneers
+Boise St.,offense,backs_receivers,RB,Yes,Tampa Bay Buccaneers
+Alabama,defense,defensive_back,SS,Yes,Tampa Bay Buccaneers
+Northwestern,offense,backs_receivers,FB,Yes,Tampa Bay Buccaneers
+North Carolina,defense,line_backer,OLB,Yes,Tennessee Titans
+Rice,defense,defensive_lineman,DE,Yes,Tennessee Titans
+Baylor,offense,backs_receivers,WR,Yes,Tennessee Titans
+Oklahoma St.,defense,defensive_back,FS,Yes,Tennessee Titans
+Clemson,defense,defensive_back,CB,Yes,Tennessee Titans
+Michigan,defense,defensive_lineman,DT,Yes,Tennessee Titans
+Texas,defense,line_backer,ILB,Yes,Washington Redskins
+Michigan St.,offense,backs_receivers,QB,Yes,Washington Redskins
+South Dakota,offense,offensive_lineman,OT,Yes,Washington Redskins
+SMU,offense,offensive_lineman,OG,Yes,Washington Redskins
+Florida Atlantic,offense,backs_receivers,RB,Yes,Washington Redskins
+Baylor,offense,backs_receivers,QB,Yes,Washington Redskins
+Iowa,offense,offensive_lineman,OG,Yes,Washington Redskins
+LSU,defense,defensive_back,CB,Yes,Arizona Cardinals
+Texas A&M,offense,backs_receivers,WR,Yes,Arizona Cardinals
+LSU,defense,line_backer,ILB,Yes,Arizona Cardinals
+Stanford,offense,backs_receivers,RB,Yes,Arizona Cardinals
+Rutgers,offense,backs_receivers,TE,Yes,Arizona Cardinals
+North Carolina,offense,offensive_lineman,OG,Yes,Arizona Cardinals
+James Madison,offense,offensive_lineman,OG,Yes,Arizona Cardinals
+Texas,defense,defensive_lineman,DE,Yes,Arizona Cardinals
+Clemson,offense,backs_receivers,RB,Yes,Arizona Cardinals
+Washington,defense,defensive_back,CB,Yes,Atlanta Falcons
+TCU,defense,defensive_lineman,DE,Yes,Atlanta Falcons
+Stanford,offense,backs_receivers,TE,Yes,Atlanta Falcons
+Clemson,defense,defensive_lineman,DE,Yes,Atlanta Falcons
+Duke,offense,backs_receivers,QB,Yes,Atlanta Falcons
+SE Louisiana,defense,defensive_back,CB,Yes,Atlanta Falcons
+Notre Dame,defense,defensive_back,SS,Yes,Atlanta Falcons
+Kansas St.,defense,line_backer,OLB,Yes,Baltimore Ravens
+Notre Dame,defense,defensive_lineman,DT,Yes,Baltimore Ravens
+Florida,defense,defensive_back,SS,Yes,Baltimore Ravens
+Wisconsin,offense,offensive_lineman,OT,Yes,Baltimore Ravens
+California,defense,defensive_back,CB,Yes,Baltimore Ravens
+Ohio St.,defense,line_backer,OLB,Yes,Baltimore Ravens
+Missouri Southern,defense,defensive_lineman,DT,Yes,Baltimore Ravens
+Elon,offense,backs_receivers,WR,Yes,Baltimore Ravens
+Florida St.,special_teams,kicking_specialist,K,Yes,Buffalo Bills
+USC,offense,backs_receivers,WR,Yes,Buffalo Bills
+Nevada,defense,defensive_back,SS,Yes,Buffalo Bills
+Florida St.,offense,backs_receivers,QB,Yes,Buffalo Bills
+Texas,offense,backs_receivers,WR,Yes,Buffalo Bills
+Arkansas,offense,backs_receivers,TE,Yes,Buffalo Bills
+Oregon,defense,line_backer,ILB,Yes,Buffalo Bills
+Purdue,defense,defensive_lineman,DT,Yes,Carolina Panthers
+Utah,defense,defensive_lineman,DT,Yes,Carolina Panthers
+Oregon,offense,backs_receivers,RB,Yes,Carolina Panthers
+Iowa St.,defense,line_backer,ILB,Yes,Carolina Panthers
+Valdosta St.,offense,offensive_lineman,OG,Yes,Carolina Panthers
+Louisiana Tech,offense,offensive_lineman,OT,Yes,Chicago Bears
+Rutgers,defense,line_backer,OLB,Yes,Chicago Bears
+Florida,defense,line_backer,OLB,Yes,Chicago Bears
+Washington St.,offense,backs_receivers,WR,Yes,Chicago Bears
+Oregon,offense,offensive_lineman,OG,Yes,Chicago Bears
+Georgia,defense,defensive_lineman,DE,Yes,Chicago Bears
+Kansas,offense,offensive_lineman,OT,Yes,Cincinnati Bengals
+South Carolina,offense,offensive_lineman,C,Yes,Cincinnati Bengals
+North Carolina,offense,backs_receivers,RB,Yes,Cincinnati Bengals
+Texas A&M,defense,line_backer,OLB,Yes,Cincinnati Bengals
+Ohio St.,offense,offensive_lineman,OT,Yes,Cincinnati Bengals
+Notre Dame,offense,backs_receivers,TE,Yes,Cincinnati Bengals
+Georgia,defense,defensive_back,SS,Yes,Cincinnati Bengals
+Arkansas,offense,backs_receivers,WR,Yes,Cincinnati Bengals
+Nebraska,offense,backs_receivers,RB,Yes,Cincinnati Bengals
+SMU,defense,defensive_lineman,DE,Yes,Cincinnati Bengals
+Notre Dame,defense,defensive_back,SS,Yes,Cleveland Browns
+San Diego St.,defense,defensive_back,CB,Yes,Cleveland Browns
+LSU,defense,line_backer,OLB,Yes,Cleveland Browns
+Chadron St.,offense,offensive_lineman,OT,Yes,Cleveland Browns
+East Central (OK),defense,defensive_lineman,DE,Yes,Cleveland Browns
+Georgia Southern,defense,defensive_back,SS,Yes,Dallas Cowboys
+South Carolina,defense,line_backer,OLB,Yes,Dallas Cowboys
+Baylor,offense,backs_receivers,WR,Yes,Dallas Cowboys
+Oklahoma St.,offense,backs_receivers,RB,Yes,Dallas Cowboys
+San Diego St.,offense,backs_receivers,TE,Yes,Dallas Cowboys
+Wisconsin,offense,offensive_lineman,C,Yes,Dallas Cowboys
+William & Mary,defense,defensive_back,CB,Yes,Dallas Cowboys
+South Florida,defense,defensive_back,CB,Yes,Denver Broncos
+Miami (OH),offense,backs_receivers,QB,Yes,Denver Broncos
+Wisconsin,offense,backs_receivers,RB,Yes,Denver Broncos
+Virginia Tech,offense,offensive_lineman,OT,Yes,Denver Broncos
+North Carolina,defense,defensive_lineman,DT,Yes,Denver Broncos
+Georgia,offense,backs_receivers,WR,Yes,Denver Broncos
+Western Kentucky,defense,defensive_lineman,DE,Yes,Denver Broncos
+Mississippi St.,defense,defensive_back,CB,Yes,Detroit Lions
+Notre Dame,offense,backs_receivers,RB,Yes,Detroit Lions
+BYU,defense,defensive_lineman,DE,Yes,Detroit Lions
+Virginia Tech,offense,backs_receivers,WR,Yes,Detroit Lions
+South Carolina,defense,defensive_lineman,DE,Yes,Detroit Lions
+Kentucky,offense,offensive_lineman,OG,Yes,Detroit Lions
+Florida A&M,defense,line_backer,ILB,Yes,Detroit Lions
+Cornell,offense,offensive_lineman,OG,Yes,Green Bay Packers
+Alabama,offense,backs_receivers,RB,Yes,Green Bay Packers
+UCLA,defense,defensive_lineman,DE,Yes,Green Bay Packers
+Iowa,defense,defensive_back,CB,Yes,Green Bay Packers
+UCLA,offense,backs_receivers,RB,Yes,Green Bay Packers
+Mississippi St.,defense,defensive_lineman,DT,Yes,Green Bay Packers
+South Florida,defense,line_backer,ILB,Yes,Green Bay Packers
+Colorado,offense,offensive_lineman,OT,Yes,Green Bay Packers
+Bowling Green,defense,defensive_lineman,DT,Yes,Houston Texans
+LSU,defense,defensive_lineman,DE,Yes,Houston Texans
+Jacksonville St.,offense,backs_receivers,WR,Yes,Houston Texans
+North Carolina,offense,offensive_lineman,OT,Yes,Houston Texans
+San Jose St.,offense,offensive_lineman,OT,Yes,Houston Texans
+South Carolina,defense,defensive_back,FS,Yes,Houston Texans
+Clemson,offense,backs_receivers,WR,Yes,Houston Texans
+Connecticut,defense,line_backer,OLB,Yes,Houston Texans
+USC,offense,offensive_lineman,C,Yes,Indianapolis Colts
+South Carolina,offense,backs_receivers,TE,Yes,Indianapolis Colts
+Illinois,offense,offensive_lineman,OG,Yes,Indianapolis Colts
+Utah St.,offense,backs_receivers,RB,Yes,Indianapolis Colts
+Florida St.,defense,defensive_lineman,DE,Yes,Indianapolis Colts
+Oregon,defense,defensive_back,FS,Yes,Indianapolis Colts
+Tennessee-Martin,defense,defensive_lineman,DT,Yes,Indianapolis Colts
+South Carolina,offense,backs_receivers,WR,Yes,Jacksonville Jaguars
+Connecticut,defense,defensive_back,CB,Yes,Jacksonville Jaguars
+Appalachian St.,defense,defensive_back,CB,Yes,Jacksonville Jaguars
+Florida International,defense,defensive_back,SS,Yes,Jacksonville Jaguars
+Florida,defense,defensive_back,FS,Yes,Jacksonville Jaguars
+Texas A&M,offense,offensive_lineman,OT,Yes,Jacksonville Jaguars
+Michigan,offense,backs_receivers,WR,Yes,Jacksonville Jaguars
+Arkansas,offense,backs_receivers,RB,Yes,Kansas City Chiefs
+Cincinnati,offense,backs_receivers,TE,Yes,Kansas City Chiefs
+Kansas St.,offense,backs_receivers,FB,Yes,Kansas City Chiefs
+Central Michigan,offense,offensive_lineman,OT,Yes,Kansas City Chiefs
+Georgia,defense,defensive_back,CB,Yes,Kansas City Chiefs
+Alabama,defense,line_backer,ILB,Yes,Kansas City Chiefs
+California,offense,backs_receivers,WR,Yes,San Diego Chargers
+Notre Dame,defense,line_backer,ILB,Yes,San Diego Chargers
+Southern Utah,offense,backs_receivers,QB,Yes,San Diego Chargers
+Alabama,offense,offensive_lineman,OT,Yes,San Diego Chargers
+Florida International,defense,defensive_lineman,DE,Yes,San Diego Chargers
+California,defense,defensive_back,CB,Yes,San Diego Chargers
+Vanderbilt,offense,backs_receivers,RB,Yes,St. Louis Rams
+Georgia,defense,line_backer,OLB,Yes,St. Louis Rams
+Miami (FL),defense,defensive_back,CB,Yes,St. Louis Rams
+USC,defense,defensive_back,FS,Yes,St. Louis Rams
+Alabama,offense,offensive_lineman,C,Yes,St. Louis Rams
+West Virginia,offense,backs_receivers,WR,Yes,St. Louis Rams
+West Virginia,offense,backs_receivers,WR,Yes,St. Louis Rams
+Tennessee,offense,offensive_lineman,OT,Yes,Miami Dolphins
+Florida,offense,backs_receivers,RB,Yes,Miami Dolphins
+Boise St.,defense,defensive_back,CB,Yes,Miami Dolphins
+Michigan St.,offense,backs_receivers,TE,Yes,Miami Dolphins
+Oregon,defense,line_backer,OLB,Yes,Miami Dolphins
+Florida,defense,line_backer,ILB,Yes,Miami Dolphins
+Utah St.,defense,defensive_back,CB,Yes,Miami Dolphins
+Florida,special_teams,kicking_specialist,K,Yes,Miami Dolphins
+North Carolina,offense,offensive_lineman,OG,Yes,Minnesota Vikings
+Penn St.,defense,line_backer,OLB,Yes,Minnesota Vikings
+Penn St.,defense,line_backer,OLB,Yes,Minnesota Vikings
+Tennessee,offense,backs_receivers,WR,Yes,Minnesota Vikings
+UCLA,offense,offensive_lineman,OG,Yes,Minnesota Vikings
+Florida St.,defense,defensive_back,CB,Yes,Minnesota Vikings
+Florida St.,defense,defensive_lineman,DT,Yes,Minnesota Vikings
+Florida,defense,defensive_lineman,DT,Yes,Minnesota Vikings
+UCLA,special_teams,kicking_specialist,P,Yes,Minnesota Vikings
+Rutgers,defense,defensive_back,CB,Yes,New England Patriots
+Rutgers,defense,line_backer,ILB,Yes,New England Patriots
+Marshall,offense,backs_receivers,WR,Yes,New England Patriots
+Illinois,defense,defensive_lineman,DE,Yes,New England Patriots
+Southern Miss,defense,line_backer,OLB,Yes,New England Patriots
+TCU,offense,backs_receivers,WR,Yes,New England Patriots
+Ark-Pine Bluff,offense,offensive_lineman,OT,Yes,New Orleans Saints
+Texas,defense,defensive_back,FS,Yes,New Orleans Saints
+Oklahoma,offense,backs_receivers,WR,Yes,New Orleans Saints
+Georgia,defense,defensive_lineman,DT,Yes,New Orleans Saints
+Syracuse,offense,offensive_lineman,OT,Yes,New York Giants
+Ohio,offense,offensive_lineman,OG,Yes,New York Giants
+Syracuse,offense,backs_receivers,QB,Yes,New York Giants
+Texas A&M,defense,defensive_lineman,DE,Yes,New York Giants
+Ohio St.,defense,defensive_lineman,DT,Yes,New York Giants
+West Virginia,offense,backs_receivers,QB,Yes,New York Jets
+Missouri,defense,defensive_lineman,DT,Yes,New York Jets
+Wake Forest,offense,backs_receivers,FB,Yes,New York Jets
+Alabama,defense,defensive_back,CB,Yes,New York Jets
+Virginia,offense,offensive_lineman,OT,Yes,New York Jets
+Kent St.,offense,offensive_lineman,OG,Yes,New York Jets
+Arkansas,offense,backs_receivers,QB,Yes,Oakland Raiders
+Missouri Western St.,defense,defensive_lineman,DE,Yes,Oakland Raiders
+Connecticut,defense,line_backer,OLB,Yes,Oakland Raiders
+Oklahoma,defense,defensive_lineman,DT,Yes,Oakland Raiders
+Florida St.,offense,offensive_lineman,OT,Yes,Oakland Raiders
+Tennessee,offense,backs_receivers,TE,Yes,Oakland Raiders
+Houston,defense,defensive_back,CB,Yes,Oakland Raiders
+Colorado,offense,backs_receivers,TE,Yes,Oakland Raiders
+Stanford,offense,backs_receivers,TE,Yes,Philadelphia Eagles
+Utah,defense,defensive_lineman,DE,Yes,Philadelphia Eagles
+Oklahoma,offense,offensive_lineman,OT,Yes,Philadelphia Eagles
+North Carolina St.,defense,defensive_back,SS,Yes,Philadelphia Eagles
+USC,offense,backs_receivers,QB,Yes,Philadelphia Eagles
+LSU,defense,defensive_lineman,DT,Yes,Philadelphia Eagles
+Oregon St.,defense,defensive_back,CB,Yes,Philadelphia Eagles
+Illinois,defense,defensive_back,CB,Yes,Pittsburgh Steelers
+Michigan St.,offense,backs_receivers,RB,Yes,Pittsburgh Steelers
+Oklahoma,offense,backs_receivers,QB,Yes,Pittsburgh Steelers
+Georgia,defense,line_backer,OLB,Yes,Pittsburgh Steelers
+Syracuse,defense,defensive_back,SS,Yes,Pittsburgh Steelers
+Samford,defense,defensive_lineman,DT,Yes,Pittsburgh Steelers
+Oregon St.,offense,backs_receivers,WR,Yes,Pittsburgh Steelers
+Florida St.,defense,defensive_lineman,DE,Yes,San Francisco 49ers
+South Carolina,offense,backs_receivers,RB,Yes,San Francisco 49ers
+LSU,defense,defensive_back,FS,Yes,San Francisco 49ers
+Louisiana Tech,offense,backs_receivers,WR,Yes,San Francisco 49ers
+Florida St.,defense,line_backer,OLB,Yes,San Francisco 49ers
+Auburn,defense,defensive_lineman,DE,Yes,San Francisco 49ers
+Rice,offense,backs_receivers,TE,Yes,San Francisco 49ers
+Alabama,defense,defensive_lineman,DT,Yes,San Francisco 49ers
+Alabama,defense,defensive_lineman,DT,Yes,Seattle Seahawks
+New Hampshire,defense,defensive_lineman,DT,Yes,Seattle Seahawks
+Kansas St.,offense,backs_receivers,WR,Yes,Seattle Seahawks
+Harding,defense,line_backer,OLB,Yes,Seattle Seahawks
+Penn St.,defense,defensive_lineman,DT,Yes,Seattle Seahawks
+LSU,offense,backs_receivers,RB,Yes,Seattle Seahawks
+Texas A&M,offense,backs_receivers,RB,Yes,Seattle Seahawks
+LSU,defense,defensive_back,CB,Yes,Seattle Seahawks
+Illinois,defense,defensive_lineman,DT,Yes,Tampa Bay Buccaneers
+North Carolina St.,offense,backs_receivers,QB,Yes,Tampa Bay Buccaneers
+Mississippi St.,defense,defensive_back,CB,Yes,Tampa Bay Buccaneers
+Miami (FL),offense,backs_receivers,RB,Yes,Tampa Bay Buccaneers
+Michigan St.,defense,defensive_lineman,DE,Yes,Tampa Bay Buccaneers
+Missouri,defense,line_backer,OLB,Yes,Tennessee Titans
+Connecticut,defense,defensive_back,CB,Yes,Tennessee Titans
+Nebraska,defense,defensive_back,FS,Yes,Tennessee Titans
+Tennessee,offense,backs_receivers,WR,Yes,Tennessee Titans
+LSU,defense,defensive_lineman,DE,Yes,Tennessee Titans
+Alabama,offense,offensive_lineman,OG,Yes,Tennessee Titans
+California,offense,offensive_lineman,C,Yes,Tennessee Titans
+North Carolina St.,defense,defensive_back,CB,Yes,Washington Redskins
+Florida St.,defense,defensive_lineman,DE,Yes,Washington Redskins
+Florida St.,offense,backs_receivers,RB,Yes,Washington Redskins
+Rutgers,offense,backs_receivers,RB,Yes,Washington Redskins
+Fresno St.,defense,defensive_back,FS,Yes,Washington Redskins
+Florida,offense,backs_receivers,TE,Yes,Washington Redskins
+Georgia,defense,defensive_back,FS,Yes,Washington Redskins
+Notre Dame,offense,backs_receivers,TE,Yes,Arizona Cardinals
+Alabama,defense,defensive_lineman,DE,Yes,Arizona Cardinals
+Washington St.,defense,defensive_back,SS,Yes,Arizona Cardinals
+Virginia Tech,offense,backs_receivers,QB,Yes,Arizona Cardinals
+Pittsburg St.,offense,backs_receivers,WR,Yes,Arizona Cardinals
+North Carolina,defense,defensive_lineman,DE,Yes,Arizona Cardinals
+Purdue,defense,defensive_back,CB,Yes,Atlanta Falcons
+Minnesota,defense,defensive_lineman,DT,Yes,Atlanta Falcons
+Notre Dame,defense,line_backer,OLB,Yes,Atlanta Falcons
+Texas A&M,offense,offensive_lineman,OT,Yes,Atlanta Falcons
+Florida St.,offense,backs_receivers,RB,Yes,Atlanta Falcons
+South Dakota,defense,line_backer,OLB,Yes,Atlanta Falcons
+Connecticut,defense,line_backer,ILB,Yes,Atlanta Falcons
+Wisconsin,defense,defensive_back,SS,Yes,Atlanta Falcons
+Florida St.,defense,defensive_lineman,DT,Yes,Baltimore Ravens
+Coastal Carolina,offense,backs_receivers,RB,Yes,Baltimore Ravens
+Alabama,defense,line_backer,ILB,Yes,Baltimore Ravens
+Virginia,defense,defensive_lineman,DE,Yes,Baltimore Ravens
+Wake Forest,offense,backs_receivers,WR,Yes,Baltimore Ravens
+Colorado St.,offense,backs_receivers,TE,Yes,Baltimore Ravens
+Ball St.,offense,backs_receivers,QB,Yes,Baltimore Ravens
+Florida St.,defense,defensive_back,FS,Yes,Baltimore Ravens
+Penn St.,offense,offensive_lineman,OG,Yes,Baltimore Ravens
+Louisville,defense,line_backer,ILB,Yes,Buffalo Bills
+Alabama,offense,offensive_lineman,OT,Yes,Buffalo Bills
+Miami (FL),offense,offensive_lineman,OT,Yes,Buffalo Bills
+Clemson,offense,backs_receivers,WR,Yes,Buffalo Bills
+Baylor,offense,offensive_lineman,OG,Yes,Buffalo Bills
+Duke,defense,defensive_back,CB,Yes,Buffalo Bills
+San Jose St.,defense,defensive_back,CB,Yes,Carolina Panthers
+Florida St.,offense,backs_receivers,WR,Yes,Carolina Panthers
+North Carolina,defense,defensive_back,SS,Yes,Carolina Panthers
+LSU,offense,offensive_lineman,OG,Yes,Carolina Panthers
+Stanford,offense,backs_receivers,RB,Yes,Carolina Panthers
+Missouri,defense,defensive_lineman,DE,Yes,Carolina Panthers
+LSU,defense,defensive_lineman,DT,Yes,Chicago Bears
+San Jose St.,offense,backs_receivers,QB,Yes,Chicago Bears
+Virginia Tech,defense,defensive_back,CB,Yes,Chicago Bears
+Minnesota,defense,defensive_back,SS,Yes,Chicago Bears
+Arizona,offense,backs_receivers,RB,Yes,Chicago Bears
+Boise St.,offense,offensive_lineman,OG,Yes,Chicago Bears
+Arizona St.,defense,defensive_lineman,DT,Yes,Chicago Bears
+Miami (FL),special_teams,kicking_specialist,P,Yes,Chicago Bears
+North Carolina,offense,offensive_lineman,OG,Yes,Cincinnati Bengals
+West Virginia,defense,defensive_lineman,DE,Yes,Cincinnati Bengals
+LSU,offense,backs_receivers,RB,Yes,Cincinnati Bengals
+Georgia Southern,defense,defensive_back,CB,Yes,Cincinnati Bengals
+Michigan St.,defense,defensive_back,CB,Yes,Cincinnati Bengals
+Alabama,offense,backs_receivers,QB,Yes,Cincinnati Bengals
+Texas A&M,offense,backs_receivers,QB,Yes,Cleveland Browns
+Lindenwood,defense,defensive_back,CB,Yes,Cleveland Browns
+Oklahoma St.,defense,defensive_back,CB,Yes,Cleveland Browns
+Towson,offense,backs_receivers,RB,Yes,Cleveland Browns
+Iowa,defense,line_backer,OLB,Yes,Cleveland Browns
+Nevada,offense,offensive_lineman,OG,Yes,Cleveland Browns
+Notre Dame,offense,offensive_lineman,OG,Yes,Dallas Cowboys
+Baylor,defense,defensive_back,SS,Yes,Dallas Cowboys
+Pittsburgh,offense,backs_receivers,WR,Yes,Dallas Cowboys
+Iowa,defense,line_backer,OLB,Yes,Dallas Cowboys
+Boise St.,defense,defensive_lineman,DE,Yes,Dallas Cowboys
+Oregon,defense,defensive_back,CB,Yes,Dallas Cowboys
+LSU,defense,line_backer,ILB,Yes,Denver Broncos
+Michigan,offense,offensive_lineman,OT,Yes,Denver Broncos
+Indiana,offense,backs_receivers,WR,Yes,Denver Broncos
+Ohio St.,defense,defensive_back,CB,Yes,Denver Broncos
+Boise St.,offense,offensive_lineman,C,Yes,Denver Broncos
+Arkansas,offense,offensive_lineman,C,Yes,Detroit Lions
+Princeton,defense,defensive_lineman,DT,Yes,Detroit Lions
+BYU,defense,line_backer,OLB,Yes,Detroit Lions
+Bloomsburg,offense,backs_receivers,TE,Yes,Detroit Lions
+North Carolina,offense,backs_receivers,TE,Yes,Detroit Lions
+Utah St.,defense,defensive_back,CB,Yes,Detroit Lions
+Southern Miss,defense,defensive_lineman,DT,Yes,Green Bay Packers
+California,offense,backs_receivers,TE,Yes,Green Bay Packers
+Ohio St.,offense,offensive_lineman,C,Yes,Green Bay Packers
+Saginaw Valley St.,offense,backs_receivers,WR,Yes,Green Bay Packers
+Baylor,defense,defensive_back,CB,Yes,Green Bay Packers
+Alabama,defense,defensive_back,FS,Yes,Green Bay Packers
+Arizona St.,defense,line_backer,OLB,Yes,Green Bay Packers
+Fresno St.,offense,backs_receivers,WR,Yes,Green Bay Packers
+Wisconsin,offense,backs_receivers,WR,Yes,Green Bay Packers
+Notre Dame,defense,defensive_lineman,DT,Yes,Houston Texans
+Vanderbilt,defense,defensive_back,CB,Yes,Houston Texans
+Iowa,offense,backs_receivers,TE,Yes,Houston Texans
+LSU,offense,backs_receivers,RB,Yes,Houston Texans
+UCLA,offense,offensive_lineman,OG,Yes,Houston Texans
+Alabama,defense,defensive_lineman,DE,Yes,Houston Texans
+South Carolina,defense,defensive_lineman,DE,Yes,Houston Texans
+Pittsburgh,offense,backs_receivers,QB,Yes,Houston Texans
+Western Kentucky,defense,line_backer,ILB,Yes,Indianapolis Colts
+Ball St.,defense,line_backer,OLB,Yes,Indianapolis Colts
+Mississippi,offense,backs_receivers,WR,Yes,Indianapolis Colts
+Ohio St.,offense,offensive_lineman,OT,Yes,Indianapolis Colts
+Central Florida,offense,backs_receivers,QB,Yes,Jacksonville Jaguars
+Oklahoma,defense,defensive_back,CB,Yes,Jacksonville Jaguars
+Miami (FL),offense,offensive_lineman,OG,Yes,Jacksonville Jaguars
+Central Florida,offense,backs_receivers,RB,Yes,Jacksonville Jaguars
+Penn St.,offense,backs_receivers,WR,Yes,Jacksonville Jaguars
+Arkansas,defense,line_backer,OLB,Yes,Jacksonville Jaguars
+USC,offense,backs_receivers,WR,Yes,Jacksonville Jaguars
+Florida St.,defense,line_backer,OLB,Yes,Jacksonville Jaguars
+Tennessee,offense,offensive_lineman,OG,Yes,Kansas City Chiefs
+Auburn,defense,defensive_lineman,DE,Yes,Kansas City Chiefs
+Georgia,offense,backs_receivers,QB,Yes,Kansas City Chiefs
+Oregon,offense,backs_receivers,RB,Yes,Kansas City Chiefs
+Rice,defense,defensive_back,CB,Yes,Kansas City Chiefs
+Arizona St.,offense,backs_receivers,RB,Yes,San Diego Chargers
+TCU,defense,defensive_back,CB,Yes,San Diego Chargers
+Arkansas St.,defense,defensive_lineman,DT,Yes,San Diego Chargers
+Notre Dame,offense,offensive_lineman,OG,Yes,San Diego Chargers
+Baylor,offense,backs_receivers,WR,Yes,San Diego Chargers
+Georgia Tech,defense,line_backer,OLB,Yes,San Diego Chargers
+Missouri,defense,defensive_lineman,DE,Yes,St. Louis Rams
+Auburn,offense,offensive_lineman,OT,Yes,St. Louis Rams
+Auburn,offense,backs_receivers,RB,Yes,St. Louis Rams
+Florida St.,defense,defensive_back,CB,Yes,St. Louis Rams
+Missouri,defense,defensive_back,CB,Yes,St. Louis Rams
+Pittsburgh,defense,defensive_lineman,DT,Yes,St. Louis Rams
+Utah St.,defense,defensive_back,SS,Yes,St. Louis Rams
+North Dakota St.,offense,offensive_lineman,OT,Yes,Miami Dolphins
+LSU,offense,backs_receivers,WR,Yes,Miami Dolphins
+Coastal Carolina,offense,backs_receivers,WR,Yes,Miami Dolphins
+Tennessee,offense,offensive_lineman,OT,Yes,Miami Dolphins
+Montana,defense,line_backer,OLB,Yes,Miami Dolphins
+Georgia,offense,backs_receivers,TE,Yes,Miami Dolphins
+Oregon St.,defense,defensive_lineman,DE,Yes,Minnesota Vikings
+Maine,defense,defensive_back,CB,Yes,Minnesota Vikings
+Louisville,offense,backs_receivers,QB,Yes,Minnesota Vikings
+Virginia Tech,defense,defensive_back,CB,Yes,Minnesota Vikings
+UCLA,defense,line_backer,OLB,Yes,Minnesota Vikings
+Stanford,offense,offensive_lineman,OG,Yes,Minnesota Vikings
+North Carolina,defense,defensive_back,CB,Yes,Minnesota Vikings
+Georgia Southern,offense,backs_receivers,RB,Yes,Minnesota Vikings
+Connecticut,defense,defensive_lineman,DT,Yes,Minnesota Vikings
+Florida,defense,defensive_lineman,DT,Yes,New England Patriots
+Stanford,offense,offensive_lineman,OT,Yes,New England Patriots
+Michigan,offense,backs_receivers,WR,Yes,New England Patriots
+Wisconsin,offense,backs_receivers,RB,Yes,New England Patriots
+Georgia Tech,defense,defensive_back,CB,Yes,New England Patriots
+Florida St.,offense,offensive_lineman,C,Yes,New England Patriots
+Concordia (MN),defense,defensive_lineman,DE,Yes,New England Patriots
+East. Illinois,offense,backs_receivers,QB,Yes,New England Patriots
+Florida,offense,offensive_lineman,OG,Yes,New England Patriots
+Nebraska,defense,defensive_back,CB,Yes,New Orleans Saints
+Oregon St.,offense,backs_receivers,WR,Yes,New Orleans Saints
+Florida,defense,line_backer,OLB,Yes,New Orleans Saints
+Alabama,defense,defensive_back,SS,Yes,New Orleans Saints
+California,defense,line_backer,OLB,Yes,New Orleans Saints
+Boston Col.,offense,backs_receivers,RB,Yes,New York Giants
+Syracuse,defense,defensive_lineman,DT,Yes,New York Giants
+Notre Dame,defense,defensive_back,CB,Yes,New York Giants
+Colorado St.,offense,offensive_lineman,C,Yes,New York Giants
+USC,defense,line_backer,OLB,Yes,New York Giants
+San Diego St.,defense,defensive_back,SS,Yes,New York Giants
+LSU,offense,backs_receivers,WR,Yes,New York Giants
+Louisville,defense,defensive_back,FS,Yes,New York Jets
+UCLA,offense,backs_receivers,WR,Yes,New York Jets
+Nebraska,offense,backs_receivers,WR,Yes,New York Jets
+Utah,defense,line_backer,OLB,Yes,New York Jets
+Oklahoma,offense,backs_receivers,WR,Yes,New York Jets
+Northwest Missouri State,defense,defensive_back,CB,Yes,New York Jets
+Clemson,offense,backs_receivers,QB,Yes,New York Jets
+Maryland,defense,defensive_back,CB,Yes,New York Jets
+Iowa St.,defense,line_backer,ILB,Yes,New York Jets
+Texas Tech,offense,backs_receivers,TE,Yes,New York Jets
+Furman,offense,offensive_lineman,OG,Yes,New York Jets
+Louisiana Tech,defense,defensive_lineman,DE,Yes,New York Jets
+Louisiana Tech,defense,defensive_lineman,DT,Yes,Oakland Raiders
+Western Kentucky,defense,defensive_back,FS,Yes,Oakland Raiders
+Mississippi St.,offense,offensive_lineman,OG,Yes,Oakland Raiders
+Ohio,defense,defensive_back,CB,Yes,Oakland Raiders
+Fresno St.,offense,backs_receivers,QB,Yes,Oakland Raiders
+Buffalo,defense,line_backer,OLB,Yes,Oakland Raiders
+Utah,defense,defensive_back,CB,Yes,Oakland Raiders
+Oregon,offense,backs_receivers,WR,Yes,Philadelphia Eagles
+Vanderbilt,offense,backs_receivers,WR,Yes,Philadelphia Eagles
+Stanford,defense,defensive_back,FS,Yes,Philadelphia Eagles
+Louisville,defense,defensive_lineman,DE,Yes,Philadelphia Eagles
+Oregon,defense,defensive_lineman,DE,Yes,Philadelphia Eagles
+Florida,defense,defensive_back,CB,Yes,Philadelphia Eagles
+Kent St.,offense,backs_receivers,WR,Yes,Pittsburgh Steelers
+Tennessee,defense,defensive_lineman,DT,Yes,Pittsburgh Steelers
+Notre Dame,defense,defensive_lineman,DT,Yes,Pittsburgh Steelers
+UCLA,defense,line_backer,OLB,Yes,Pittsburgh Steelers
+Ohio St.,defense,line_backer,OLB,Yes,Pittsburgh Steelers
+Vanderbilt,offense,offensive_lineman,C,Yes,Pittsburgh Steelers
+Clemson,offense,backs_receivers,WR,Yes,Pittsburgh Steelers
+Massachusetts,offense,backs_receivers,TE,Yes,Pittsburgh Steelers
+Ohio St.,offense,backs_receivers,RB,Yes,San Francisco 49ers
+South Carolina,offense,backs_receivers,WR,Yes,San Francisco 49ers
+Boston Col.,defense,defensive_lineman,DT,Yes,San Francisco 49ers
+Northern Illinois,defense,defensive_back,SS,Yes,San Francisco 49ers
+Clemson,offense,offensive_lineman,OG,Yes,San Francisco 49ers
+Florida Atlantic,defense,defensive_back,CB,Yes,San Francisco 49ers
+Wisconsin,defense,line_backer,ILB,Yes,San Francisco 49ers
+South Florida,defense,defensive_lineman,DE,Yes,San Francisco 49ers
+USC,offense,offensive_lineman,C,Yes,San Francisco 49ers
+North Carolina St.,defense,defensive_back,CB,Yes,San Francisco 49ers
+Oklahoma,offense,backs_receivers,FB,Yes,San Francisco 49ers
+Alabama,offense,backs_receivers,WR,Yes,Seattle Seahawks
+UCLA,defense,defensive_lineman,DE,Yes,Seattle Seahawks
+Missouri,offense,offensive_lineman,OT,Yes,Seattle Seahawks
+Boston Col.,defense,line_backer,OLB,Yes,Seattle Seahawks
+Colorado,offense,backs_receivers,WR,Yes,Seattle Seahawks
+Washington,offense,backs_receivers,TE,Yes,Tampa Bay Buccaneers
+Wyoming,offense,backs_receivers,WR,Yes,Tampa Bay Buccaneers
+Texas A&M,offense,backs_receivers,WR,Yes,Tampa Bay Buccaneers
+Tennessee St.,offense,offensive_lineman,OG,Yes,Tampa Bay Buccaneers
+West Virginia,offense,backs_receivers,RB,Yes,Tampa Bay Buccaneers
+Kentucky,defense,line_backer,ILB,Yes,Tennessee Titans
+Michigan,offense,offensive_lineman,OT,Yes,Tennessee Titans
+Wyoming,defense,defensive_back,FS,Yes,Tennessee Titans
+Penn St.,defense,defensive_lineman,DT,Yes,Tennessee Titans
+LSU,offense,backs_receivers,QB,Yes,Tennessee Titans
+Washington,offense,backs_receivers,RB,Yes,Tennessee Titans
+Virginia,offense,offensive_lineman,OT,Yes,Washington Redskins
+Baylor,offense,backs_receivers,RB,Yes,Washington Redskins
+Stanford,defense,defensive_lineman,DE,Yes,Washington Redskins
+Tulane,offense,backs_receivers,WR,Yes,Washington Redskins
+Clemson,defense,defensive_back,CB,Yes,Washington Redskins
+Nebraska,offense,offensive_lineman,OG,Yes,Washington Redskins
+Arkansas,special_teams,kicking_specialist,K,Yes,Washington Redskins
+Ala-Birmingham,offense,backs_receivers,WR,Yes,Arizona Cardinals
+New Mexico,offense,backs_receivers,RB,Yes,Arizona Cardinals
+Florida,offense,offensive_lineman,OT,Yes,Arizona Cardinals
+Missouri,defense,line_backer,OLB,Yes,Arizona Cardinals
+Louisville,offense,backs_receivers,TE,Yes,Arizona Cardinals
+Clemson,defense,line_backer,OLB,Yes,Atlanta Falcons
+Clemson,defense,defensive_lineman,DT,Yes,Atlanta Falcons
+East Carolina,offense,backs_receivers,WR,Yes,Atlanta Falcons
+Indiana,offense,backs_receivers,RB,Yes,Atlanta Falcons
+LSU,defense,defensive_back,CB,Yes,Atlanta Falcons
+Central Florida,offense,backs_receivers,WR,Yes,Baltimore Ravens
+USC,offense,backs_receivers,RB,Yes,Baltimore Ravens
+Kentucky,defense,defensive_lineman,DE,Yes,Baltimore Ravens
+Georgia Tech,offense,backs_receivers,WR,Yes,Baltimore Ravens
+Iowa,defense,defensive_lineman,DT,Yes,Baltimore Ravens
+Tennessee St.,offense,offensive_lineman,OG,Yes,Baltimore Ravens
+Minnesota,offense,backs_receivers,TE,Yes,Baltimore Ravens
+Pittsburgh,offense,backs_receivers,TE,Yes,Baltimore Ravens
+Florida St.,defense,defensive_back,CB,Yes,Buffalo Bills
+Florida St.,offense,backs_receivers,TE,Yes,Buffalo Bills
+Florida St.,offense,backs_receivers,RB,Yes,Buffalo Bills
+Louisville,offense,offensive_lineman,OG,Yes,Buffalo Bills
+Washington,defense,line_backer,OLB,Yes,Carolina Panthers
+Auburn,offense,backs_receivers,RB,Yes,Carolina Panthers
+Oklahoma,offense,offensive_lineman,OT,Yes,Carolina Panthers
+Michigan,offense,backs_receivers,WR,Yes,Carolina Panthers
+West Virginia,offense,backs_receivers,WR,Yes,Chicago Bears
+Michigan St.,offense,backs_receivers,RB,Yes,Chicago Bears
+Oregon,offense,offensive_lineman,C,Yes,Chicago Bears
+Florida St.,defense,defensive_lineman,DT,Yes,Chicago Bears
+TCU,offense,offensive_lineman,OG,Yes,Chicago Bears
+Penn St.,defense,defensive_back,FS,Yes,Chicago Bears
+Texas A&M,offense,offensive_lineman,OT,Yes,Cincinnati Bengals
+USC,defense,defensive_back,CB,Yes,Cincinnati Bengals
+TCU,defense,line_backer,ILB,Yes,Cincinnati Bengals
+West Virginia,offense,backs_receivers,WR,Yes,Cincinnati Bengals
+Rutgers,offense,backs_receivers,TE,Yes,Cincinnati Bengals
+Fresno St.,defense,defensive_back,FS,Yes,Cincinnati Bengals
+Oregon,offense,offensive_lineman,OT,Yes,Cincinnati Bengals
+Arizona St.,defense,defensive_lineman,DT,Yes,Cincinnati Bengals
+Washington,defense,defensive_lineman,DT,Yes,Cleveland Browns
+Washington St.,defense,defensive_lineman,DT,Yes,Cleveland Browns
+USC,offense,backs_receivers,TE,Yes,Cleveland Browns
+Miami (FL),offense,backs_receivers,RB,Yes,Cleveland Browns
+Louisville,defense,defensive_back,CB,Yes,Cleveland Browns
+Utah,defense,defensive_lineman,DE,Yes,Cleveland Browns
+Washington St.,offense,backs_receivers,WR,Yes,Cleveland Browns
+Oregon,defense,defensive_back,CB,Yes,Cleveland Browns
+Florida St.,offense,offensive_lineman,C,Yes,Cleveland Browns
+Northwestern,defense,defensive_back,SS,Yes,Cleveland Browns
+USC,defense,line_backer,ILB,Yes,Cleveland Browns
+Connecticut,defense,defensive_back,CB,Yes,Dallas Cowboys
+Purdue,defense,defensive_lineman,DE,Yes,Dallas Cowboys
+Minnesota,defense,line_backer,ILB,Yes,Dallas Cowboys
+Florida,offense,offensive_lineman,OT,Yes,Dallas Cowboys
+Virginia Tech,offense,offensive_lineman,OT,Yes,Dallas Cowboys
+Nebraska,defense,defensive_lineman,DE,Yes,Dallas Cowboys
+Wyoming,defense,line_backer,OLB,Yes,Dallas Cowboys
+Missouri,defense,defensive_lineman,DE,Yes,Denver Broncos
+Tulane,defense,defensive_back,CB,Yes,Denver Broncos
+Florida,offense,offensive_lineman,C,Yes,Denver Broncos
+Ohio St.,offense,backs_receivers,TE,Yes,Denver Broncos
+Colorado St.,offense,offensive_lineman,OT,Yes,Denver Broncos
+Auburn,defense,defensive_lineman,DT,Yes,Detroit Lions
+Duke,offense,offensive_lineman,OG,Yes,Detroit Lions
+South Carolina,offense,offensive_lineman,OT,Yes,Detroit Lions
+Texas,defense,defensive_back,CB,Yes,Detroit Lions
+Stanford,defense,defensive_back,CB,Yes,Detroit Lions
+Rutgers,offense,backs_receivers,FB,Yes,Detroit Lions
+Nebraska,offense,backs_receivers,RB,Yes,Detroit Lions
+Michigan,defense,line_backer,OLB,Yes,Green Bay Packers
+Miami (OH),defense,defensive_back,CB,Yes,Green Bay Packers
+Arizona St.,defense,defensive_back,FS,Yes,Green Bay Packers
+Stanford,offense,backs_receivers,WR,Yes,Green Bay Packers
+UCLA,offense,backs_receivers,QB,Yes,Green Bay Packers
+Wake Forest,defense,defensive_back,CB,Yes,Houston Texans
+Rice,defense,defensive_lineman,DT,Yes,Houston Texans
+Michigan St.,offense,backs_receivers,WR,Yes,Houston Texans
+Arizona St.,offense,backs_receivers,WR,Yes,Houston Texans
+Mississippi St.,defense,line_backer,ILB,Yes,Houston Texans
+LSU,offense,backs_receivers,RB,Yes,Houston Texans
+Miami (FL),offense,backs_receivers,WR,Yes,Indianapolis Colts
+Stanford,defense,defensive_lineman,DT,Yes,Indianapolis Colts
+Central Florida,defense,defensive_back,SS,Yes,Indianapolis Colts
+Stanford,defense,defensive_lineman,DE,Yes,Indianapolis Colts
+Georgia,defense,line_backer,ILB,Yes,Indianapolis Colts
+Florida Atlantic,defense,defensive_back,CB,Yes,Indianapolis Colts
+Mississippi St.,offense,backs_receivers,RB,Yes,Indianapolis Colts
+Alabama,offense,backs_receivers,RB,Yes,Jacksonville Jaguars
+Ohio St.,defense,defensive_lineman,DT,Yes,Jacksonville Jaguars
+Florida St.,offense,backs_receivers,WR,Yes,Jacksonville Jaguars
+Louisville,defense,defensive_back,SS,Yes,Jacksonville Jaguars
+South Carolina,offense,offensive_lineman,OG,Yes,Jacksonville Jaguars
+Notre Dame,offense,backs_receivers,TE,Yes,Jacksonville Jaguars
+Washington,defense,defensive_back,CB,Yes,Kansas City Chiefs
+Georgia,defense,line_backer,ILB,Yes,Kansas City Chiefs
+Oregon St.,defense,defensive_back,CB,Yes,Kansas City Chiefs
+Georgia,offense,backs_receivers,WR,Yes,Kansas City Chiefs
+Northern Illinois,offense,backs_receivers,WR,Yes,Kansas City Chiefs
+Missouri,offense,offensive_lineman,OG,Yes,Kansas City Chiefs
+Southern Miss,defense,defensive_lineman,DT,Yes,Kansas City Chiefs
+Wisconsin,offense,backs_receivers,RB,Yes,San Diego Chargers
+Arkansas,defense,defensive_lineman,DT,Yes,San Diego Chargers
+North Dakota St.,defense,line_backer,OLB,Yes,San Diego Chargers
+Texas St.,defense,defensive_back,CB,Yes,San Diego Chargers
+Miami (FL),defense,line_backer,ILB,Yes,San Diego Chargers
+Oregon St.,offense,backs_receivers,QB,Yes,St. Louis Rams
+Memphis,defense,defensive_lineman,DE,Yes,St. Louis Rams
+Wisconsin,offense,offensive_lineman,OT,Yes,St. Louis Rams
+Baylor,defense,line_backer,ILB,Yes,St. Louis Rams
+Georgia,offense,backs_receivers,RB,Yes,St. Louis Rams
+Iowa,offense,offensive_lineman,OT,Yes,St. Louis Rams
+Louisville,offense,offensive_lineman,OT,Yes,St. Louis Rams
+Louisville,offense,backs_receivers,WR,Yes,Miami Dolphins
+Boise St.,offense,backs_receivers,RB,Yes,Miami Dolphins
+Memphis,defense,defensive_back,CB,Yes,Miami Dolphins
+Arizona St.,offense,offensive_lineman,OG,Yes,Miami Dolphins
+Oklahoma,defense,defensive_lineman,DT,Yes,Miami Dolphins
+Michigan St.,offense,backs_receivers,WR,Yes,Miami Dolphins
+Michigan St.,defense,defensive_back,CB,Yes,Minnesota Vikings
+Southern Illinois,offense,backs_receivers,TE,Yes,Minnesota Vikings
+Alabama,offense,offensive_lineman,OT,Yes,Minnesota Vikings
+Pittsburgh,offense,offensive_lineman,OT,Yes,Minnesota Vikings
+Louisville,defense,defensive_lineman,DE,Yes,Minnesota Vikings
+LSU,defense,defensive_lineman,DE,Yes,Minnesota Vikings
+Oklahoma,offense,offensive_lineman,OT,Yes,Minnesota Vikings
+UCLA,defense,line_backer,ILB,Yes,Minnesota Vikings
+Maryland,offense,backs_receivers,WR,Yes,Minnesota Vikings
+Newberry,defense,line_backer,OLB,Yes,Minnesota Vikings
+Texas,defense,defensive_lineman,DT,Yes,New England Patriots
+Florida St.,offense,offensive_lineman,OG,Yes,New England Patriots
+Arkansas,defense,defensive_lineman,DE,Yes,New England Patriots
+Oklahoma,defense,line_backer,OLB,Yes,New England Patriots
+Alabama,defense,line_backer,OLB,Yes,New England Patriots
+Stanford,defense,defensive_back,SS,Yes,New England Patriots
+Navy,special_teams,other_special,LS,Yes,New England Patriots
+Stanford,offense,offensive_lineman,OT,Yes,New Orleans Saints
+Florida St.,defense,defensive_back,CB,Yes,New Orleans Saints
+Missouri,offense,backs_receivers,RB,Yes,New Orleans Saints
+Colorado St.,offense,backs_receivers,QB,Yes,New Orleans Saints
+Georgia,defense,defensive_back,CB,Yes,New Orleans Saints
+Washington,defense,line_backer,OLB,Yes,New Orleans Saints
+Fresno St.,defense,defensive_lineman,DT,Yes,New Orleans Saints
+Clemson,defense,line_backer,ILB,Yes,New Orleans Saints
+Tenn-Chattanooga,defense,line_backer,OLB,Yes,New Orleans Saints
+UCLA,defense,defensive_lineman,DE,Yes,New York Giants
+Florida St.,offense,offensive_lineman,OG,Yes,New York Giants
+Miami (FL),offense,offensive_lineman,OT,Yes,New York Giants
+Connecticut,offense,backs_receivers,WR,Yes,New York Giants
+Alabama,defense,defensive_back,SS,Yes,New York Giants
+USC,defense,defensive_lineman,DT,Yes,New York Jets
+Texas A&M,offense,offensive_lineman,OG,Yes,New York Jets
+Baylor,offense,backs_receivers,QB,Yes,New York Jets
+Louisville,defense,line_backer,OLB,Yes,New York Jets
+Ohio St.,offense,backs_receivers,WR,Yes,New York Jets
+NW State (LA),defense,defensive_lineman,DT,Yes,New York Jets
+Alabama,offense,backs_receivers,WR,Yes,Oakland Raiders
+Kansas,defense,line_backer,ILB,Yes,Oakland Raiders
+Miami (FL),offense,offensive_lineman,OG,Yes,Oakland Raiders
+Miami (FL),offense,backs_receivers,TE,Yes,Oakland Raiders
+Virginia,defense,line_backer,OLB,Yes,Oakland Raiders
+Florida St.,defense,defensive_lineman,DE,Yes,Oakland Raiders
+Florida,defense,line_backer,OLB,Yes,Oakland Raiders
+Kansas,defense,defensive_back,CB,Yes,Philadelphia Eagles
+Utah,defense,defensive_back,CB,Yes,Philadelphia Eagles
+Texas,defense,line_backer,OLB,Yes,Philadelphia Eagles
+USC,offense,backs_receivers,WR,Yes,Philadelphia Eagles
+Central Michigan,defense,defensive_lineman,DT,Yes,Pittsburgh Steelers
+Penn St.,offense,backs_receivers,TE,Yes,Pittsburgh Steelers
+Louisville,defense,defensive_back,FS,Yes,Pittsburgh Steelers
+Ohio St.,defense,defensive_back,CB,Yes,Pittsburgh Steelers
+Mississippi,defense,defensive_back,CB,Yes,Pittsburgh Steelers
+Kentucky,defense,defensive_lineman,DE,Yes,Pittsburgh Steelers
+Auburn,offense,backs_receivers,WR,Yes,Pittsburgh Steelers
+Miami (FL),defense,defensive_lineman,DE,Yes,Pittsburgh Steelers
+Oregon,defense,defensive_lineman,DE,Yes,San Francisco 49ers
+South Carolina,offense,backs_receivers,RB,Yes,San Francisco 49ers
+South Carolina,offense,backs_receivers,TE,Yes,San Francisco 49ers
+Oklahoma,offense,backs_receivers,TE,Yes,San Francisco 49ers
+Florida,offense,offensive_lineman,OG,Yes,San Francisco 49ers
+Virginia,defense,line_backer,OLB,Yes,San Francisco 49ers
+Clemson,special_teams,kicking_specialist,P,Yes,San Francisco 49ers
+Samford,defense,defensive_back,SS,Yes,San Francisco 49ers
+Georgia Tech,offense,backs_receivers,WR,Yes,San Francisco 49ers
+Michigan,defense,defensive_lineman,DE,Yes,Seattle Seahawks
+Towson,defense,defensive_back,CB,Yes,Seattle Seahawks
+West Virginia,offense,offensive_lineman,OG,Yes,Seattle Seahawks
+San Diego St.,offense,offensive_lineman,OT,Yes,Seattle Seahawks
+Kansas St.,offense,backs_receivers,WR,Yes,Seattle Seahawks
+Oregon St.,defense,defensive_lineman,DE,Yes,Seattle Seahawks
+Florida St.,offense,backs_receivers,QB,Yes,Tampa Bay Buccaneers
+Nebraska,offense,backs_receivers,WR,Yes,Tampa Bay Buccaneers
+LSU,defense,line_backer,OLB,Yes,Tampa Bay Buccaneers
+Hobart & William Smith,offense,offensive_lineman,OG,Yes,Tampa Bay Buccaneers
+Hawaii,offense,backs_receivers,FB,Yes,Tampa Bay Buccaneers
+Penn St.,offense,offensive_lineman,OT,Yes,Tampa Bay Buccaneers
+Utah,offense,backs_receivers,WR,Yes,Tampa Bay Buccaneers
+Oregon,offense,backs_receivers,QB,Yes,Tennessee Titans
+Alabama,offense,backs_receivers,FB,Yes,Tennessee Titans
+Auburn,defense,defensive_lineman,DT,Yes,Tennessee Titans
+William & Mary,offense,backs_receivers,WR,Yes,Tennessee Titans
+Utah,offense,offensive_lineman,OG,Yes,Tennessee Titans
+Boston Col.,offense,offensive_lineman,C,Yes,Tennessee Titans
+Oklahoma,offense,backs_receivers,WR,Yes,Tennessee Titans
+Minnesota,offense,backs_receivers,RB,Yes,Tennessee Titans
+Arkansas,defense,line_backer,ILB,Yes,Washington Redskins
+Mississippi St.,defense,defensive_lineman,DE,Yes,Washington Redskins
+Iowa,offense,offensive_lineman,OT,Yes,Washington Redskins
+Alabama,offense,offensive_lineman,OG,Yes,Washington Redskins
+Florida,offense,backs_receivers,RB,Yes,Washington Redskins
+Virginia Tech,defense,defensive_back,SS,Yes,Washington Redskins
+Duke,offense,backs_receivers,WR,Yes,Washington Redskins
+Texas A&M,defense,defensive_back,CB,Yes,Arizona Cardinals
+Harvard,offense,offensive_lineman,OT,Yes,Arizona Cardinals
+Mississippi,defense,defensive_lineman,DT,Yes,Arizona Cardinals
+SE Louisiana,defense,defensive_back,CB,Yes,Arizona Cardinals
+Missouri,offense,offensive_lineman,C,Yes,Arizona Cardinals
+Minnesota,defense,line_backer,OLB,Yes,Atlanta Falcons
+Stanford,offense,backs_receivers,TE,Yes,Atlanta Falcons
+LSU,defense,line_backer,OLB,Yes,Atlanta Falcons
+Florida,defense,defensive_back,SS,Yes,Atlanta Falcons
+Notre Dame,offense,offensive_lineman,OT,Yes,Baltimore Ravens
+Cincinnati,offense,backs_receivers,WR,Yes,Baltimore Ravens
+Grand Valley St.,defense,defensive_lineman,DE,Yes,Baltimore Ravens
+Temple,defense,defensive_back,CB,Yes,Baltimore Ravens
+Louisiana Tech,offense,backs_receivers,RB,Yes,Baltimore Ravens
+BYU,defense,defensive_lineman,DE,Yes,Baltimore Ravens
+Michigan,defense,defensive_lineman,DT,Yes,Baltimore Ravens
+Boise St.,defense,defensive_lineman,DE,Yes,Baltimore Ravens
+Nebraska,offense,offensive_lineman,OT,Yes,Baltimore Ravens
+Virginia,defense,defensive_back,CB,Yes,Baltimore Ravens
+Clemson,defense,defensive_lineman,DE,Yes,Buffalo Bills
+Arkansas,offense,backs_receivers,RB,Yes,Buffalo Bills
+Ohio St.,offense,backs_receivers,QB,Yes,Buffalo Bills
+Ohio St.,defense,defensive_lineman,DT,Yes,Buffalo Bills
+USC,defense,defensive_back,CB,Yes,Buffalo Bills
+Alabama,defense,line_backer,ILB,Yes,Buffalo Bills
+TCU,offense,backs_receivers,WR,Yes,Buffalo Bills
+Louisiana Tech,defense,defensive_lineman,DT,Yes,Carolina Panthers
+Montana St.,offense,backs_receivers,TE,Yes,Carolina Panthers
+Oklahoma,defense,defensive_back,CB,Yes,Carolina Panthers
+West Virginia,defense,defensive_back,CB,Yes,Carolina Panthers
+Samford,defense,defensive_back,CB,Yes,Carolina Panthers
+Kansas St.,offense,offensive_lineman,OT,Yes,Chicago Bears
+West Virginia,defense,line_backer,ILB,Yes,Chicago Bears
+Indiana,offense,backs_receivers,RB,Yes,Chicago Bears
+William & Mary,defense,defensive_back,FS,Yes,Chicago Bears
+Georgia,defense,line_backer,OLB,Yes,Chicago Bears
+Miami (FL),defense,defensive_back,FS,Yes,Chicago Bears
+Florida,defense,defensive_lineman,DE,Yes,Chicago Bears
+Houston,defense,defensive_back,CB,Yes,Cincinnati Bengals
+Arizona St.,offense,offensive_lineman,OG,Yes,Cincinnati Bengals
+Baylor,defense,defensive_lineman,DT,Yes,Cincinnati Bengals
+Utah St.,defense,line_backer,ILB,Yes,Cincinnati Bengals
+Pittsburgh,offense,backs_receivers,WR,Yes,Cincinnati Bengals
+Mississippi,offense,backs_receivers,WR,Yes,Cincinnati Bengals
+Oklahoma St.,defense,defensive_lineman,DE,Yes,Cleveland Browns
+Wisconsin,defense,line_backer,OLB,Yes,Cleveland Browns
+Baylor,offense,offensive_lineman,OT,Yes,Cleveland Browns
+Baylor,offense,backs_receivers,WR,Yes,Cleveland Browns
+USC,offense,backs_receivers,QB,Yes,Cleveland Browns
+UCLA,offense,backs_receivers,WR,Yes,Cleveland Browns
+Auburn,offense,offensive_lineman,OT,Yes,Cleveland Browns
+TCU,defense,defensive_back,FS,Yes,Cleveland Browns
+Arizona,defense,line_backer,ILB,Yes,Cleveland Browns
+Penn St.,defense,defensive_lineman,DE,Yes,Cleveland Browns
+Auburn,offense,backs_receivers,WR,Yes,Cleveland Browns
+Colorado St.,offense,backs_receivers,WR,Yes,Cleveland Browns
+Notre Dame,defense,line_backer,OLB,Yes,Dallas Cowboys
+Purdue,defense,defensive_back,CB,Yes,Dallas Cowboys
+Ohio St.,offense,backs_receivers,RB,Yes,Dallas Cowboys
+Mississippi St.,offense,backs_receivers,QB,Yes,Dallas Cowboys
+Oklahoma,defense,defensive_lineman,DE,Yes,Dallas Cowboys
+Nebraska,defense,defensive_lineman,DT,Yes,Dallas Cowboys
+Central Michigan,defense,defensive_back,FS,Yes,Dallas Cowboys
+Utah,offense,backs_receivers,RB,Yes,Denver Broncos
+Boston Col.,defense,defensive_back,FS,Yes,Denver Broncos
+Syracuse,special_teams,kicking_specialist,P,Yes,Denver Broncos
+Georgia Tech,defense,defensive_lineman,DT,Yes,Denver Broncos
+Nebraska,offense,backs_receivers,FB,Yes,Denver Broncos
+Memphis,offense,backs_receivers,QB,Yes,Denver Broncos
+Missouri,offense,offensive_lineman,OG,Yes,Denver Broncos
+Penn St.,defense,defensive_lineman,DT,Yes,Detroit Lions
+Alabama,defense,defensive_lineman,DT,Yes,Detroit Lions
+Baylor,special_teams,other_special,LS,Yes,Detroit Lions
+Southern Utah,defense,defensive_back,SS,Yes,Detroit Lions
+Michigan,offense,offensive_lineman,C,Yes,Detroit Lions
+Ohio St.,offense,offensive_lineman,OT,Yes,Detroit Lions
+Washington St.,offense,offensive_lineman,OT,Yes,Detroit Lions
+Indiana,offense,offensive_lineman,OT,Yes,Green Bay Packers
+Stanford,offense,offensive_lineman,OT,Yes,Green Bay Packers
+Stanford,defense,line_backer,ILB,Yes,Green Bay Packers
+Northwestern,defense,defensive_lineman,DE,Yes,Green Bay Packers
+Utah St.,defense,line_backer,OLB,Yes,Green Bay Packers
+California,offense,backs_receivers,WR,Yes,Green Bay Packers
+UCLA,defense,defensive_lineman,DT,Yes,Green Bay Packers
+Ohio St.,offense,backs_receivers,WR,Yes,Houston Texans
+Notre Dame,offense,offensive_lineman,C,Yes,Houston Texans
+Clemson,defense,defensive_lineman,DT,Yes,Houston Texans
+Notre Dame,offense,backs_receivers,WR,Yes,Houston Texans
+West Virginia,defense,defensive_back,SS,Yes,Houston Texans
+San Jose St.,offense,backs_receivers,RB,Yes,Houston Texans
+Clemson,defense,defensive_back,FS,Yes,Indianapolis Colts
+North Dakota St.,offense,offensive_lineman,OT,Yes,Indianapolis Colts
+Alabama,offense,offensive_lineman,C,Yes,Indianapolis Colts
+Florida,defense,line_backer,ILB,Yes,Indianapolis Colts
+Texas,defense,defensive_lineman,DT,Yes,Indianapolis Colts
+Texas Tech,offense,offensive_lineman,OT,Yes,Indianapolis Colts
+Iowa,offense,offensive_lineman,C,Yes,Indianapolis Colts
+Maryland,defense,defensive_lineman,DE,Yes,Jacksonville Jaguars
+UCLA,defense,line_backer,OLB,Yes,Jacksonville Jaguars
+Florida St.,defense,defensive_back,CB,Yes,Jacksonville Jaguars
+Arkansas,offense,backs_receivers,QB,Yes,Jacksonville Jaguars
+Notre Dame,defense,defensive_lineman,DT,Yes,Jacksonville Jaguars
+Notre Dame,defense,defensive_back,CB,Yes,Kansas City Chiefs
+Stanford,offense,backs_receivers,QB,Yes,Kansas City Chiefs
+Mississippi St.,defense,defensive_lineman,DT,Yes,Kansas City Chiefs
+Florida,offense,backs_receivers,WR,Yes,Kansas City Chiefs
+Minnesota,defense,defensive_back,CB,Yes,Kansas City Chiefs
+Virginia Tech,defense,defensive_lineman,DE,Yes,Kansas City Chiefs
+Cincinnati,offense,offensive_lineman,OT,Yes,Kansas City Chiefs
+Georgia Tech,defense,defensive_back,CB,Yes,Kansas City Chiefs
+Ohio St.,defense,line_backer,ILB,Yes,San Diego Chargers
+USC,offense,offensive_lineman,C,Yes,San Diego Chargers
+Arkansas,offense,backs_receivers,TE,Yes,San Diego Chargers
+Ohio St.,defense,defensive_lineman,DE,Yes,San Diego Chargers
+Texas A&M,special_teams,kicking_specialist,P,Yes,San Diego Chargers
+Western Kentucky,offense,backs_receivers,TE,Yes,Los Angeles Rams
+South Carolina St.,offense,backs_receivers,TE,Yes,Los Angeles Rams
+California,offense,backs_receivers,QB,Yes,Los Angeles Rams
+Kentucky,defense,line_backer,ILB,Yes,Los Angeles Rams
+South Carolina,offense,backs_receivers,WR,Yes,Los Angeles Rams
+Alabama,offense,backs_receivers,RB,Yes,Miami Dolphins
+UCLA,offense,backs_receivers,TE,Yes,Miami Dolphins
+Baylor,defense,defensive_back,CB,Yes,Miami Dolphins
+Western Kentucky,offense,backs_receivers,QB,Yes,Miami Dolphins
+Mississippi,offense,offensive_lineman,OT,Yes,Miami Dolphins
+Penn St.,defense,defensive_back,SS,Yes,Miami Dolphins
+Rutgers,offense,backs_receivers,WR,Yes,Miami Dolphins
+West. Michigan,offense,offensive_lineman,OT,Yes,Minnesota Vikings
+Clemson,defense,defensive_back,SS,Yes,Minnesota Vikings
+Clemson,defense,defensive_back,CB,Yes,Minnesota Vikings
+Vanderbilt,defense,line_backer,OLB,Yes,Minnesota Vikings
+Mississippi,offense,backs_receivers,WR,Yes,Minnesota Vikings
+Texas-San Antonio,offense,backs_receivers,TE,Yes,Minnesota Vikings
+Missouri,defense,line_backer,OLB,Yes,Minnesota Vikings
+North Carolina St.,offense,offensive_lineman,OT,Yes,New England Patriots
+Alabama,defense,defensive_back,CB,Yes,New England Patriots
+Georgia,offense,backs_receivers,WR,Yes,New England Patriots
+Nebraska,defense,defensive_lineman,DT,Yes,New England Patriots
+North Carolina St.,offense,backs_receivers,QB,Yes,New England Patriots
+California,offense,backs_receivers,RB,Yes,New Orleans Saints
+Ohio St.,defense,defensive_back,FS,Yes,New Orleans Saints
+Ohio St.,offense,backs_receivers,WR,Yes,New Orleans Saints
+Louisville,defense,defensive_lineman,DT,Yes,New Orleans Saints
+Boise St.,defense,defensive_back,FS,Yes,New York Giants
+Oklahoma,offense,backs_receivers,WR,Yes,New York Giants
+UCLA,offense,backs_receivers,RB,Yes,New York Giants
+Clemson,defense,line_backer,OLB,Yes,New York Giants
+Ohio St.,defense,defensive_back,CB,Yes,New York Giants
+South Carolina,offense,backs_receivers,TE,Yes,New York Giants
+Georgia,defense,line_backer,OLB,Yes,New York Jets
+Penn St.,offense,backs_receivers,QB,Yes,New York Jets
+Clemson,offense,backs_receivers,WR,Yes,New York Jets
+Ohio St.,defense,line_backer,OLB,Yes,New York Jets
+South Carolina,offense,offensive_lineman,OT,Yes,New York Jets
+North Carolina St.,defense,defensive_back,CB,Yes,New York Jets
+Illinois,defense,defensive_lineman,DT,Yes,Oakland Raiders
+LSU,offense,offensive_lineman,OT,Yes,Oakland Raiders
+West Virginia,defense,defensive_back,SS,Yes,Oakland Raiders
+Texas Tech,offense,backs_receivers,RB,Yes,Oakland Raiders
+Michigan St.,offense,backs_receivers,QB,Yes,Oakland Raiders
+Michigan St.,defense,defensive_lineman,DE,Yes,Oakland Raiders
+North Dakota St.,offense,backs_receivers,QB,Yes,Philadelphia Eagles
+TCU,offense,offensive_lineman,OT,Yes,Philadelphia Eagles
+West Virginia,offense,backs_receivers,RB,Yes,Philadelphia Eagles
+Oregon St.,offense,offensive_lineman,OG,Yes,Philadelphia Eagles
+LSU,defense,defensive_back,SS,Yes,Philadelphia Eagles
+Florida,defense,defensive_lineman,DE,Yes,Philadelphia Eagles
+Temple,defense,line_backer,OLB,Yes,Pittsburgh Steelers
+LSU,offense,offensive_lineman,OT,Yes,Pittsburgh Steelers
+South Carolina St.,defense,defensive_lineman,DT,Yes,Pittsburgh Steelers
+Washington,defense,line_backer,OLB,Yes,Pittsburgh Steelers
+Maryland,defense,defensive_back,CB,Yes,Pittsburgh Steelers
+Miami (FL),defense,defensive_back,CB,Yes,Pittsburgh Steelers
+Houston,offense,backs_receivers,WR,Yes,Pittsburgh Steelers
+Appalachian St.,defense,defensive_lineman,DE,Yes,San Francisco 49ers
+Florida,offense,backs_receivers,RB,Yes,San Francisco 49ers
+Mississippi St.,defense,defensive_back,CB,Yes,San Francisco 49ers
+Louisiana Tech,offense,backs_receivers,QB,Yes,San Francisco 49ers
+Stanford,offense,offensive_lineman,OG,Yes,San Francisco 49ers
+Mississippi,offense,offensive_lineman,OT,Yes,San Francisco 49ers
+Oregon,defense,defensive_lineman,DE,Yes,San Francisco 49ers
+Georgia,offense,offensive_lineman,OT,Yes,San Francisco 49ers
+Michigan St.,offense,backs_receivers,WR,Yes,San Francisco 49ers
+Notre Dame,offense,backs_receivers,RB,Yes,Seattle Seahawks
+Arkansas,offense,backs_receivers,RB,Yes,Seattle Seahawks
+Alabama,defense,defensive_lineman,DT,Yes,Seattle Seahawks
+Maryland,defense,defensive_lineman,DT,Yes,Seattle Seahawks
+Texas A&M,offense,offensive_lineman,OT,Yes,Seattle Seahawks
+Boise St.,offense,offensive_lineman,OT,Yes,Seattle Seahawks
+Ohio St.,offense,backs_receivers,TE,Yes,Seattle Seahawks
+California,offense,backs_receivers,WR,Yes,Seattle Seahawks
+East. Kentucky,defense,defensive_lineman,DE,Yes,Tampa Bay Buccaneers
+Oklahoma,defense,line_backer,OLB,Yes,Tampa Bay Buccaneers
+Florida,defense,defensive_back,CB,Yes,Tampa Bay Buccaneers
+UCLA,offense,offensive_lineman,OT,Yes,Tampa Bay Buccaneers
+North Carolina Central,defense,defensive_back,CB,Yes,Tampa Bay Buccaneers
+Florida St.,special_teams,kicking_specialist,K,Yes,Tampa Bay Buccaneers
+Northwestern,offense,backs_receivers,FB,Yes,Tampa Bay Buccaneers
+Michigan St.,offense,offensive_lineman,OT,Yes,Tennessee Titans
+Massachusetts,offense,backs_receivers,WR,Yes,Tennessee Titans
+Alabama,offense,backs_receivers,RB,Yes,Tennessee Titans
+Penn St.,defense,defensive_lineman,DT,Yes,Tennessee Titans
+Arkansas,offense,offensive_lineman,OG,Yes,Tennessee Titans
+Clemson,defense,defensive_lineman,DE,Yes,Tennessee Titans
+Southern Utah,defense,defensive_back,CB,Yes,Tennessee Titans
+Indiana,offense,backs_receivers,QB,Yes,Washington Redskins
+Georgia,offense,backs_receivers,RB,Yes,Washington Redskins
+Temple,defense,defensive_lineman,DT,Yes,Washington Redskins
+Virginia Tech,defense,defensive_back,CB,Yes,Washington Redskins
+TCU,offense,backs_receivers,WR,Yes,Washington Redskins
+Boston Col.,defense,line_backer,ILB,Yes,Washington Redskins
+USC,defense,line_backer,OLB,Yes,Washington Redskins
+Temple,defense,line_backer,OLB,Yes,Arizona Cardinals
+North Carolina,offense,backs_receivers,RB,Yes,Arizona Cardinals
+Pittsburgh,offense,offensive_lineman,OG,Yes,Arizona Cardinals
+Vanderbilt,offense,offensive_lineman,OT,Yes,Arizona Cardinals
+Washington,defense,defensive_back,FS,Yes,Arizona Cardinals
+San Diego St.,defense,defensive_back,CB,Yes,Atlanta Falcons
+Oregon St.,offense,offensive_lineman,OG,Yes,Atlanta Falcons
+LSU,defense,line_backer,OLB,Yes,Atlanta Falcons
+Drake,offense,backs_receivers,TE,Yes,Atlanta Falcons
+UCLA,defense,line_backer,OLB,Yes,Atlanta Falcons
+Wyoming,offense,backs_receivers,RB,Yes,Atlanta Falcons
+Michigan,defense,defensive_lineman,DT,Yes,Baltimore Ravens
+Virginia Tech,defense,defensive_back,FS,Yes,Baltimore Ravens
+Houston,defense,line_backer,OLB,Yes,Baltimore Ravens
+Texas A&M,offense,offensive_lineman,OG,Yes,Baltimore Ravens
+Alabama,defense,defensive_back,CB,Yes,Baltimore Ravens
+San Diego St.,offense,offensive_lineman,OG,Yes,Baltimore Ravens
+Alabama,defense,line_backer,OLB,Yes,Baltimore Ravens
+East Carolina,offense,backs_receivers,WR,Yes,Buffalo Bills
+Boise St.,defense,line_backer,ILB,Yes,Buffalo Bills
+LSU,defense,defensive_back,CB,Yes,Buffalo Bills
+Pittsburgh,offense,backs_receivers,QB,Yes,Buffalo Bills
+Boston Col.,defense,line_backer,OLB,Yes,Buffalo Bills
+Temple,offense,offensive_lineman,OG,Yes,Buffalo Bills
+Texas A&M,defense,defensive_lineman,DE,Yes,Carolina Panthers
+West. Michigan,offense,offensive_lineman,OT,Yes,Carolina Panthers
+Ohio St.,offense,backs_receivers,WR,Yes,Carolina Panthers
+Georgia Tech,special_teams,kicking_specialist,K,Yes,Carolina Panthers
+Stanford,offense,backs_receivers,RB,Yes,Carolina Panthers
+Miami (FL),defense,defensive_back,CB,Yes,Carolina Panthers
+North Carolina,offense,backs_receivers,QB,Yes,Chicago Bears
+Ashland,offense,backs_receivers,TE,Yes,Chicago Bears
+Kutztown Pennsylvania,offense,offensive_lineman,OG,Yes,Chicago Bears
+Alabama,defense,defensive_back,SS,Yes,Chicago Bears
+North Carolina A&T,offense,backs_receivers,RB,Yes,Chicago Bears
+Auburn,defense,defensive_lineman,DE,Yes,Cincinnati Bengals
+Utah,offense,offensive_lineman,OT,Yes,Cincinnati Bengals
+Kansas St.,defense,defensive_lineman,DE,Yes,Cincinnati Bengals
+Memphis,special_teams,kicking_specialist,K,Yes,Cincinnati Bengals
+Washington,offense,backs_receivers,WR,Yes,Cincinnati Bengals
+Michigan,defense,defensive_lineman,DT,Yes,Cincinnati Bengals
+Tennessee,offense,backs_receivers,WR,Yes,Cincinnati Bengals
+Michigan,defense,defensive_back,SS,Yes,Cleveland Browns
+Houston,defense,defensive_back,CB,Yes,Cleveland Browns
+North Carolina St.,offense,backs_receivers,RB,Yes,Cleveland Browns
+Texas A&M,defense,defensive_lineman,DE,Yes,Cleveland Browns
+Charlotte,defense,defensive_lineman,DE,Yes,Cleveland Browns
+Arizona St.,special_teams,kicking_specialist,K,Yes,Cleveland Browns
+Notre Dame,offense,backs_receivers,QB,Yes,Cleveland Browns
+Florida,defense,defensive_lineman,DT,Yes,Cleveland Browns
+Miami (FL),offense,backs_receivers,TE,Yes,Cleveland Browns
+Florida St.,offense,offensive_lineman,OT,Yes,Cleveland Browns
+Michigan,defense,defensive_back,CB,Yes,Dallas Cowboys
+Ohio St.,offense,backs_receivers,WR,Yes,Dallas Cowboys
+Colorado,defense,defensive_back,CB,Yes,Dallas Cowboys
+Florida St.,defense,defensive_back,CB,Yes,Dallas Cowboys
+Michigan,defense,defensive_lineman,DE,Yes,Dallas Cowboys
+Louisiana Tech,defense,defensive_back,SS,Yes,Dallas Cowboys
+North Carolina,offense,backs_receivers,WR,Yes,Dallas Cowboys
+Utah,offense,offensive_lineman,OT,Yes,Denver Broncos
+Georgia,offense,backs_receivers,WR,Yes,Denver Broncos
+Michigan,offense,backs_receivers,TE,Yes,Denver Broncos
+Louisiana Tech,offense,backs_receivers,WR,Yes,Denver Broncos
+Florida St.,defense,defensive_lineman,DE,Yes,Denver Broncos
+Florida,defense,defensive_back,CB,Yes,Detroit Lions
+Toledo,offense,backs_receivers,TE,Yes,Detroit Lions
+Tennessee,defense,line_backer,OLB,Yes,Detroit Lions
+Arkansas,defense,defensive_lineman,DT,Yes,Detroit Lions
+Miami (FL),offense,backs_receivers,QB,Yes,Detroit Lions
+Northern Illinois,offense,backs_receivers,WR,Yes,Detroit Lions
+Florida,defense,line_backer,ILB,Yes,Detroit Lions
+BYU,offense,backs_receivers,RB,Yes,Green Bay Packers
+Washington,defense,defensive_back,CB,Yes,Green Bay Packers
+North Carolina St.,defense,defensive_back,SS,Yes,Green Bay Packers
+Texas-El Paso,offense,backs_receivers,RB,Yes,Green Bay Packers
+LSU,offense,backs_receivers,WR,Yes,Green Bay Packers
+Wisconsin,defense,line_backer,OLB,Yes,Green Bay Packers
+Auburn,defense,defensive_lineman,DT,Yes,Green Bay Packers
+Clemson,offense,backs_receivers,QB,Yes,Houston Texans
+Oregon St.,defense,defensive_back,CB,Yes,Houston Texans
+Clemson,defense,defensive_lineman,DT,Yes,Houston Texans
+Texas,offense,backs_receivers,RB,Yes,Houston Texans
+Vanderbilt,defense,line_backer,OLB,Yes,Houston Texans
+Baylor,offense,offensive_lineman,C,Yes,Houston Texans
+Ohio,defense,defensive_lineman,DE,Yes,Indianapolis Colts
+Northwestern,defense,line_backer,ILB,Yes,Indianapolis Colts
+Florida,defense,defensive_back,CB,Yes,Indianapolis Colts
+Temple,defense,defensive_back,CB,Yes,Indianapolis Colts
+Ohio St.,defense,defensive_back,FS,Yes,Indianapolis Colts
+South Florida,offense,backs_receivers,RB,Yes,Indianapolis Colts
+USC,offense,offensive_lineman,OG,Yes,Indianapolis Colts
+Alabama,offense,offensive_lineman,OT,Yes,Jacksonville Jaguars
+Minnesota,defense,defensive_back,CB,Yes,Jacksonville Jaguars
+LSU,offense,backs_receivers,RB,Yes,Jacksonville Jaguars
+Ohio,defense,line_backer,ILB,Yes,Jacksonville Jaguars
+Oklahoma,offense,backs_receivers,WR,Yes,Jacksonville Jaguars
+Illinois,defense,defensive_lineman,DE,Yes,Jacksonville Jaguars
+Villanova,defense,defensive_lineman,DE,Yes,Kansas City Chiefs
+Texas Tech,offense,backs_receivers,QB,Yes,Kansas City Chiefs
+Michigan,offense,backs_receivers,WR,Yes,Kansas City Chiefs
+Toledo,offense,backs_receivers,RB,Yes,Kansas City Chiefs
+Indiana,offense,offensive_lineman,OG,Yes,Los Angeles Chargers
+Notre Dame,defense,defensive_lineman,DE,Yes,Los Angeles Chargers
+Western Kentucky,offense,offensive_lineman,OG,Yes,Los Angeles Chargers
+Utah,offense,offensive_lineman,OT,Yes,Los Angeles Chargers
+Clemson,offense,backs_receivers,WR,Yes,Los Angeles Chargers
+Iowa,defense,defensive_back,FS,Yes,Los Angeles Chargers
+Miami (FL),defense,defensive_back,FS,Yes,Los Angeles Chargers
+Tulane,defense,defensive_lineman,DT,Yes,Los Angeles Rams
+Virginia Tech,offense,backs_receivers,FB,Yes,Los Angeles Rams
+Texas A&M,offense,backs_receivers,WR,Yes,Los Angeles Rams
+Pittsburgh,defense,line_backer,OLB,Yes,Los Angeles Rams
+East. Washington,offense,backs_receivers,WR,Yes,Los Angeles Rams
+Troy,defense,defensive_back,FS,Yes,Los Angeles Rams
+South Alabama,offense,backs_receivers,TE,Yes,Los Angeles Rams
+Utah,offense,offensive_lineman,OG,Yes,Miami Dolphins
+Clemson,defense,defensive_back,CB,Yes,Miami Dolphins
+Virginia Tech,offense,backs_receivers,WR,Yes,Miami Dolphins
+Ohio St.,defense,line_backer,ILB,Yes,Miami Dolphins
+Oklahoma St.,defense,defensive_lineman,DT,Yes,Miami Dolphins
+Missouri,defense,defensive_lineman,DE,Yes,Miami Dolphins
+LSU,defense,defensive_lineman,DT,Yes,Miami Dolphins
+Michigan,defense,line_backer,ILB,Yes,Minnesota Vikings
+Miami (FL),offense,backs_receivers,WR,Yes,Minnesota Vikings
+Iowa,defense,defensive_lineman,DT,Yes,Minnesota Vikings
+Virginia Tech,offense,backs_receivers,TE,Yes,Minnesota Vikings
+Ohio St.,offense,offensive_lineman,C,Yes,Minnesota Vikings
+Miami (FL),offense,offensive_lineman,OG,Yes,Minnesota Vikings
+North Carolina St.,defense,defensive_back,CB,Yes,Minnesota Vikings
+Florida St.,offense,backs_receivers,RB,Yes,Minnesota Vikings
+South Florida,offense,backs_receivers,WR,Yes,Minnesota Vikings
+Northwestern,defense,defensive_lineman,DE,Yes,Minnesota Vikings
+Youngstown St.,defense,defensive_lineman,DE,Yes,New England Patriots
+UCLA,offense,offensive_lineman,OT,Yes,New England Patriots
+Arkansas,defense,defensive_lineman,DE,Yes,New England Patriots
+Troy,offense,offensive_lineman,OT,Yes,New England Patriots
+Tennessee,offense,backs_receivers,RB,Yes,New Orleans Saints
+Utah,defense,defensive_back,FS,Yes,New Orleans Saints
+Miami (FL),defense,defensive_lineman,DE,Yes,New Orleans Saints
+Wisconsin,offense,offensive_lineman,OT,Yes,New Orleans Saints
+Florida Atlantic,defense,defensive_lineman,DE,Yes,New Orleans Saints
+Ohio St.,defense,defensive_back,CB,Yes,New Orleans Saints
+Florida,defense,line_backer,OLB,Yes,New Orleans Saints
+California,offense,backs_receivers,QB,Yes,New York Giants
+Alabama,defense,defensive_lineman,DT,Yes,New York Giants
+Youngstown St.,defense,defensive_lineman,DE,Yes,New York Giants
+Clemson,offense,backs_receivers,RB,Yes,New York Giants
+Mississippi,offense,backs_receivers,TE,Yes,New York Giants
+Pittsburgh,offense,offensive_lineman,OT,Yes,New York Giants
+LSU,defense,defensive_back,SS,Yes,New York Jets
+Clemson,offense,backs_receivers,TE,Yes,New York Jets
+California,offense,backs_receivers,WR,Yes,New York Jets
+Michigan,defense,defensive_back,CB,Yes,New York Jets
+Alabama,offense,backs_receivers,WR,Yes,New York Jets
+Louisiana,offense,backs_receivers,RB,Yes,New York Jets
+Florida,defense,defensive_back,FS,Yes,New York Jets
+West Georgia,defense,line_backer,OLB,Yes,New York Jets
+Florida,offense,offensive_lineman,OT,Yes,Oakland Raiders
+Toledo,defense,defensive_lineman,DT,Yes,Oakland Raiders
+UCLA,defense,defensive_lineman,DT,Yes,Oakland Raiders
+North Carolina,offense,backs_receivers,RB,Yes,Oakland Raiders
+Connecticut,defense,defensive_back,SS,Yes,Oakland Raiders
+Washington St.,defense,defensive_back,SS,Yes,Oakland Raiders
+Ohio St.,defense,defensive_back,CB,Yes,Oakland Raiders
+Wake Forest,defense,line_backer,ILB,Yes,Oakland Raiders
+Washington,defense,defensive_lineman,DT,Yes,Philadelphia Eagles
+San Diego St.,offense,backs_receivers,RB,Yes,Philadelphia Eagles
+Washington,defense,defensive_back,CB,Yes,Philadelphia Eagles
+North Carolina,offense,backs_receivers,WR,Yes,Philadelphia Eagles
+West Virginia,offense,backs_receivers,WR,Yes,Philadelphia Eagles
+Nebraska,defense,defensive_back,SS,Yes,Philadelphia Eagles
+West Virginia,defense,defensive_back,CB,Yes,Philadelphia Eagles
+Tennessee,defense,defensive_lineman,DE,Yes,Philadelphia Eagles
+Wisconsin,defense,line_backer,OLB,Yes,Pittsburgh Steelers
+Tennessee,defense,defensive_back,CB,Yes,Pittsburgh Steelers
+USC,offense,backs_receivers,WR,Yes,Pittsburgh Steelers
+Louisville,special_teams,other_special,LS,Yes,Pittsburgh Steelers
+Tennessee,offense,backs_receivers,QB,Yes,Pittsburgh Steelers
+Pittsburgh,offense,backs_receivers,RB,Yes,Pittsburgh Steelers
+Utah,defense,defensive_back,CB,Yes,Pittsburgh Steelers
+Colorado,defense,defensive_back,CB,Yes,San Francisco 49ers
+Louisiana Tech,offense,backs_receivers,WR,Yes,San Francisco 49ers
+Alabama,defense,line_backer,ILB,Yes,San Francisco 49ers
+Iowa,offense,backs_receivers,TE,Yes,San Francisco 49ers
+Stanford,defense,defensive_lineman,DE,Yes,San Francisco 49ers
+Utah,offense,backs_receivers,RB,Yes,San Francisco 49ers
+Utah,defense,line_backer,OLB,Yes,San Francisco 49ers
+Iowa,offense,backs_receivers,QB,Yes,San Francisco 49ers
+Akron,defense,defensive_lineman,DT,Yes,San Francisco 49ers
+Central Florida,defense,defensive_back,CB,Yes,Seattle Seahawks
+Colorado,defense,defensive_back,SS,Yes,Seattle Seahawks
+LSU,offense,offensive_lineman,C,Yes,Seattle Seahawks
+Michigan,offense,backs_receivers,WR,Yes,Seattle Seahawks
+Oklahoma St.,offense,backs_receivers,RB,Yes,Seattle Seahawks
+Michigan St.,defense,defensive_lineman,DT,Yes,Seattle Seahawks
+North Carolina,defense,defensive_lineman,DT,Yes,Seattle Seahawks
+Mississippi St.,offense,offensive_lineman,OT,Yes,Seattle Seahawks
+Michigan,defense,defensive_back,FS,Yes,Seattle Seahawks
+Cincinnati,defense,defensive_back,FS,Yes,Seattle Seahawks
+Penn St.,offense,backs_receivers,WR,Yes,Tampa Bay Buccaneers
+Texas A&M,defense,defensive_back,SS,Yes,Tampa Bay Buccaneers
+USC,defense,defensive_lineman,DT,Yes,Tampa Bay Buccaneers
+Alabama,offense,backs_receivers,TE,Yes,Tampa Bay Buccaneers
+Boise St.,offense,backs_receivers,RB,Yes,Tampa Bay Buccaneers
+LSU,defense,line_backer,ILB,Yes,Tampa Bay Buccaneers
+USC,defense,defensive_back,CB,Yes,Tennessee Titans
+Tenn-Chattanooga,offense,offensive_lineman,OG,Yes,Tennessee Titans
+West. Michigan,offense,backs_receivers,WR,Yes,Tennessee Titans
+UCLA,defense,line_backer,ILB,Yes,Tennessee Titans
+Florida International,offense,backs_receivers,TE,Yes,Tennessee Titans
+Western Kentucky,offense,backs_receivers,WR,Yes,Tennessee Titans
+TCU,defense,defensive_lineman,DE,Yes,Tennessee Titans
+Arkansas,offense,backs_receivers,TE,Yes,Washington Redskins
+Wyoming,offense,offensive_lineman,C,Yes,Washington Redskins
+Oklahoma,offense,backs_receivers,RB,Yes,Washington Redskins
+Michigan St.,defense,defensive_back,SS,Yes,Washington Redskins
+UCLA,defense,defensive_back,CB,Yes,Washington Redskins
+Louisville,defense,defensive_back,SS,Yes,Washington Redskins
+Georgia St.,offense,backs_receivers,WR,Yes,Washington Redskins
+Alabama,defense,line_backer,OLB,Yes,Washington Redskins
+Alabama,defense,defensive_lineman,DT,Yes,Washington Redskins
+UCLA,offense,backs_receivers,QB,Yes,Arizona Cardinals
+Texas A&M,offense,backs_receivers,WR,Yes,Arizona Cardinals
+Fordham,offense,backs_receivers,RB,Yes,Arizona Cardinals
+Michigan,offense,offensive_lineman,C,Yes,Arizona Cardinals
+Colorado,defense,defensive_back,CB,Yes,Atlanta Falcons
+Alabama,offense,backs_receivers,WR,Yes,Atlanta Falcons
+South Florida,defense,defensive_lineman,DT,Yes,Atlanta Falcons
+Oklahoma,offense,backs_receivers,TE,Yes,Baltimore Ravens
+UCLA,offense,backs_receivers,WR,Yes,Baltimore Ravens
+Oklahoma,offense,offensive_lineman,OT,Yes,Baltimore Ravens
+New Mexico St.,offense,backs_receivers,WR,Yes,Baltimore Ravens
+Wagner,offense,offensive_lineman,OT,Yes,Baltimore Ravens
+Louisville,offense,backs_receivers,QB,Yes,Baltimore Ravens
+UCLA,defense,line_backer,ILB,Yes,Baltimore Ravens
+South Carolina,offense,backs_receivers,TE,Yes,Baltimore Ravens
+Alabama,defense,defensive_back,CB,Yes,Baltimore Ravens
+Texas,defense,defensive_back,S,Yes,Baltimore Ravens
+Weber St.,defense,defensive_back,CB,Yes,Buffalo Bills
+Stanford,defense,defensive_lineman,DT,Yes,Buffalo Bills
+Clemson,offense,backs_receivers,WR,Yes,Buffalo Bills
+Virginia Tech,offense,offensive_lineman,OG,Yes,Buffalo Bills
+Wyoming,offense,backs_receivers,QB,Yes,Buffalo Bills
+Jacksonville St.,defense,defensive_back,S,Yes,Buffalo Bills
+LSU,defense,defensive_back,CB,Yes,Carolina Panthers
+North Carolina,defense,line_backer,ILB,Yes,Carolina Panthers
+Maryland,offense,backs_receivers,WR,Yes,Carolina Panthers
+Indiana,offense,backs_receivers,TE,Yes,Carolina Panthers
+Tennessee,defense,defensive_back,CB,Yes,Carolina Panthers
+Miami (FL),defense,defensive_lineman,DT,Yes,Carolina Panthers
+Georgia,offense,backs_receivers,WR,Yes,Chicago Bears
+Georgia,defense,line_backer,OLB,Yes,Chicago Bears
+Delaware,defense,defensive_lineman,DT,Yes,Chicago Bears
+Memphis,offense,backs_receivers,WR,Yes,Chicago Bears
+Iowa,offense,offensive_lineman,C,Yes,Chicago Bears
+Miami (FL),offense,backs_receivers,RB,Yes,Cincinnati Bengals
+Toledo,offense,backs_receivers,QB,Yes,Cincinnati Bengals
+Texas,defense,line_backer,OLB,Yes,Cincinnati Bengals
+West. Michigan,defense,defensive_back,CB,Yes,Cincinnati Bengals
+Ohio St.,defense,defensive_lineman,DE,Yes,Cincinnati Bengals
+Virginia,defense,defensive_lineman,DE,Yes,Cincinnati Bengals
+Florida St.,offense,backs_receivers,WR,Yes,Cincinnati Bengals
+Ohio St.,offense,offensive_lineman,C,Yes,Cincinnati Bengals
+Illinois St.,defense,defensive_back,CB,Yes,Cincinnati Bengals
+Mississippi,offense,offensive_lineman,OT,Yes,Cincinnati Bengals
+Georgia,offense,backs_receivers,RB,Yes,Cleveland Browns
+Nevada,offense,offensive_lineman,OG,Yes,Cleveland Browns
+Memphis,defense,line_backer,ILB,Yes,Cleveland Browns
+Ohio St.,defense,defensive_back,CB,Yes,Cleveland Browns
+Florida,offense,backs_receivers,WR,Yes,Cleveland Browns
+Miami (FL),defense,defensive_lineman,DE,Yes,Cleveland Browns
+Oklahoma,offense,backs_receivers,QB,Yes,Cleveland Browns
+Stanford,offense,backs_receivers,TE,Yes,Dallas Cowboys
+Alabama,offense,backs_receivers,RB,Yes,Dallas Cowboys
+Colorado St.,offense,backs_receivers,WR,Yes,Dallas Cowboys
+Boise St.,offense,backs_receivers,WR,Yes,Dallas Cowboys
+Texas,offense,offensive_lineman,OT,Yes,Dallas Cowboys
+Indiana,defense,line_backer,OLB,Yes,Dallas Cowboys
+Boise St.,defense,line_backer,ILB,Yes,Dallas Cowboys
+Western Kentucky,offense,backs_receivers,QB,Yes,Dallas Cowboys
+Boston Col.,defense,defensive_back,CB,Yes,Denver Broncos
+Arizona St.,offense,offensive_lineman,OG,Yes,Denver Broncos
+Oregon,offense,backs_receivers,RB,Yes,Denver Broncos
+Wisconsin,offense,backs_receivers,TE,Yes,Denver Broncos
+SMU,offense,backs_receivers,WR,Yes,Denver Broncos
+Penn St.,offense,backs_receivers,WR,Yes,Denver Broncos
+North Carolina St.,defense,defensive_lineman,DE,Yes,Denver Broncos
+Iowa,defense,line_backer,ILB,Yes,Denver Broncos
+Washington,defense,line_backer,ILB,Yes,Denver Broncos
+Arkansas,offense,offensive_lineman,C,Yes,Detroit Lions
+Auburn,offense,backs_receivers,RB,Yes,Detroit Lions
+Oregon,offense,offensive_lineman,OT,Yes,Detroit Lions
+San Diego St.,offense,backs_receivers,FB,Yes,Detroit Lions
+South Florida,offense,backs_receivers,WR,Yes,Green Bay Packers
+Notre Dame,offense,backs_receivers,WR,Yes,Green Bay Packers
+Alabama,special_teams,kicking_specialist,P,Yes,Green Bay Packers
+California,defense,defensive_lineman,DE,Yes,Green Bay Packers
+Iowa,defense,defensive_back,CB,Yes,Green Bay Packers
+Vanderbilt,defense,line_backer,OLB,Yes,Green Bay Packers
+Louisville,defense,defensive_back,CB,Yes,Green Bay Packers
+Central Florida,offense,backs_receivers,TE,Yes,Houston Texans
+Mississippi St.,offense,backs_receivers,TE,Yes,Houston Texans
+Stanford,defense,defensive_back,S,Yes,Houston Texans
+Wake Forest,defense,defensive_lineman,DE,Yes,Houston Texans
+Texas Tech,offense,backs_receivers,WR,Yes,Houston Texans
+Clemson,offense,backs_receivers,WR,Yes,Indianapolis Colts
+Auburn,offense,offensive_lineman,OG,Yes,Indianapolis Colts
+Mississippi,offense,backs_receivers,RB,Yes,Indianapolis Colts
+South Carolina St.,defense,line_backer,OLB,Yes,Indianapolis Colts
+North Carolina St.,offense,backs_receivers,RB,Yes,Indianapolis Colts
+Notre Dame,offense,offensive_lineman,OG,Yes,Indianapolis Colts
+Nebraska,offense,backs_receivers,QB,Yes,Jacksonville Jaguars
+North Carolina St.,offense,offensive_lineman,OT,Yes,Jacksonville Jaguars
+Alabama,defense,defensive_back,S,Yes,Jacksonville Jaguars
+Florida,defense,defensive_lineman,DT,Yes,Jacksonville Jaguars
+Florida St.,defense,defensive_lineman,DT,Yes,Kansas City Chiefs
+Mississippi,defense,defensive_lineman,DT,Yes,Kansas City Chiefs
+Tennessee,defense,defensive_lineman,DT,Yes,Kansas City Chiefs
+Texas A&M,defense,defensive_back,S,Yes,Kansas City Chiefs
+Clemson,defense,line_backer,OLB,Yes,Kansas City Chiefs
+West Virginia,defense,defensive_back,S,Yes,Los Angeles Chargers
+North Carolina St.,defense,defensive_lineman,DT,Yes,Los Angeles Chargers
+Northwestern,offense,backs_receivers,RB,Yes,Los Angeles Chargers
+Texas Tech,offense,backs_receivers,WR,Yes,Los Angeles Chargers
+Florida St.,defense,defensive_back,S,Yes,Los Angeles Chargers
+UCLA,offense,offensive_lineman,C,Yes,Los Angeles Chargers
+TCU,offense,offensive_lineman,OT,Yes,Los Angeles Rams
+Virginia,defense,line_backer,ILB,Yes,Los Angeles Rams
+Tennessee,offense,backs_receivers,RB,Yes,Los Angeles Rams
+Maine,offense,offensive_lineman,OG,Yes,Los Angeles Rams
+Michigan St.,offense,offensive_lineman,C,Yes,Los Angeles Rams
+Alabama,defense,defensive_back,DB,Yes,Miami Dolphins
+Arizona St.,offense,backs_receivers,RB,Yes,Miami Dolphins
+Notre Dame,offense,backs_receivers,TE,Yes,Miami Dolphins
+Ohio St.,defense,line_backer,OLB,Yes,Miami Dolphins
+Penn St.,offense,backs_receivers,TE,Yes,Miami Dolphins
+Pittsburgh,offense,offensive_lineman,OT,Yes,Minnesota Vikings
+Appalachian St.,offense,offensive_lineman,OG,Yes,Minnesota Vikings
+Central Florida,defense,defensive_back,CB,Yes,Minnesota Vikings
+Auburn,special_teams,kicking_specialist,K,Yes,Minnesota Vikings
+Central Michigan,offense,backs_receivers,TE,Yes,Minnesota Vikings
+Ohio St.,defense,defensive_lineman,DE,Yes,Minnesota Vikings
+Tulane,defense,defensive_lineman,DE,Yes,Minnesota Vikings
+Georgia,offense,offensive_lineman,OG,Yes,New England Patriots
+Miami (FL),offense,backs_receivers,WR,Yes,New England Patriots
+Arizona St.,defense,line_backer,ILB,Yes,New England Patriots
+Florida,defense,defensive_back,CB,Yes,New England Patriots
+Florida St.,offense,backs_receivers,TE,Yes,New England Patriots
+Georgia,offense,backs_receivers,RB,Yes,New England Patriots
+LSU,offense,backs_receivers,QB,Yes,New England Patriots
+Texas-San Antonio,defense,defensive_lineman,DE,Yes,New Orleans Saints
+LSU,offense,offensive_lineman,C,Yes,New Orleans Saints
+Boston Col.,defense,defensive_back,CB,Yes,New Orleans Saints
+Wisconsin,defense,defensive_back,S,Yes,New Orleans Saints
+Florida St.,offense,offensive_lineman,OT,Yes,New Orleans Saints
+Miami (FL),defense,defensive_lineman,DT,Yes,New York Giants
+Richmond,offense,backs_receivers,QB,Yes,New York Giants
+North Carolina St.,defense,defensive_lineman,DT,Yes,New York Giants
+Texas-El Paso,offense,offensive_lineman,OG,Yes,New York Giants
+Penn St.,offense,backs_receivers,RB,Yes,New York Giants
+USC,offense,backs_receivers,QB,Yes,New York Jets
+Tulane,defense,defensive_back,CB,Yes,New York Jets
+Fort Hays St.,defense,defensive_lineman,DT,Yes,New York Jets
+Wisconsin,defense,defensive_back,CB,Yes,Oakland Raiders
+Oklahoma St.,offense,backs_receivers,WR,Yes,Oakland Raiders
+North Carolina A&T,offense,offensive_lineman,OT,Yes,Oakland Raiders
+Washington,defense,line_backer,ILB,Yes,Oakland Raiders
+UCLA,offense,offensive_lineman,OT,Yes,Oakland Raiders
+Florida,special_teams,kicking_specialist,P,Yes,Oakland Raiders
+Pittsburgh,defense,defensive_back,CB,Yes,Philadelphia Eagles
+South Dakota St.,offense,backs_receivers,TE,Yes,Philadelphia Eagles
+Oklahoma St.,offense,backs_receivers,WR,Yes,Pittsburgh Steelers
+North Carolina St.,offense,backs_receivers,TE,Yes,Pittsburgh Steelers
+Oklahoma St.,offense,backs_receivers,QB,Yes,Pittsburgh Steelers
+West. Michigan,offense,offensive_lineman,OT,Yes,Pittsburgh Steelers
+Alabama,defense,defensive_lineman,DT,Yes,Pittsburgh Steelers
+Virginia Tech,defense,defensive_back,S,Yes,Pittsburgh Steelers
+Penn St.,defense,defensive_back,S,Yes,Pittsburgh Steelers
+Washington,offense,backs_receivers,WR,Yes,San Francisco 49ers
+Florida,defense,defensive_back,S,Yes,San Francisco 49ers
+Notre Dame,offense,offensive_lineman,OT,Yes,San Francisco 49ers
+Kansas St.,defense,defensive_back,CB,Yes,San Francisco 49ers
+North Carolina St.,defense,defensive_lineman,DE,Yes,San Francisco 49ers
+BYU,defense,line_backer,OLB,Yes,San Francisco 49ers
+San Diego St.,offense,backs_receivers,RB,Yes,Seattle Seahawks
+Oklahoma St.,defense,defensive_back,S,Yes,Seattle Seahawks
+Central Florida,defense,line_backer,OLB,Yes,Seattle Seahawks
+Washington,offense,backs_receivers,TE,Yes,Seattle Seahawks
+Ohio St.,offense,offensive_lineman,OT,Yes,Seattle Seahawks
+USC,defense,defensive_lineman,DE,Yes,Seattle Seahawks
+Texas,special_teams,kicking_specialist,P,Yes,Seattle Seahawks
+Washington,defense,defensive_lineman,DT,Yes,Tampa Bay Buccaneers
+Pittsburgh,defense,defensive_back,S,Yes,Tampa Bay Buccaneers
+Humboldt St.,offense,offensive_lineman,OT,Yes,Tampa Bay Buccaneers
+Auburn,defense,defensive_back,CB,Yes,Tampa Bay Buccaneers
+North Carolina,defense,defensive_back,CB,Yes,Tampa Bay Buccaneers
+Wisconsin,defense,line_backer,ILB,Yes,Tampa Bay Buccaneers
+Arizona,defense,defensive_back,S,Yes,Tennessee Titans
+Washington St.,offense,backs_receivers,QB,Yes,Tennessee Titans
+Virginia Tech,defense,defensive_back,CB,Yes,Washington Redskins
+Virginia Tech,defense,defensive_lineman,DT,Yes,Washington Redskins
+SMU,offense,backs_receivers,WR,Yes,Washington Redskins
+LSU,offense,backs_receivers,RB,Yes,Washington Redskins
+Alabama,defense,line_backer,ILB,Yes,Washington Redskins
+Louisville,offense,offensive_lineman,OT,Yes,Washington Redskins
+Penn St.,defense,defensive_back,S,Yes,Washington Redskins
+UCLA,offense,backs_receivers,TE,Yes,Arizona Cardinals
+Alabama,defense,defensive_back,S,Yes,Arizona Cardinals
+Oklahoma,offense,backs_receivers,QB,Yes,Arizona Cardinals
+Washington,defense,defensive_back,CB,Yes,Arizona Cardinals
+Fresno St.,offense,backs_receivers,WR,Yes,Arizona Cardinals
+Massachusetts,offense,backs_receivers,WR,Yes,Arizona Cardinals
+Iowa St.,offense,backs_receivers,WR,Yes,Arizona Cardinals
+Ohio St.,defense,defensive_back,CB,Yes,Atlanta Falcons
+Washington,offense,offensive_lineman,OT,Yes,Atlanta Falcons
+Washington,defense,defensive_back,CB,Yes,Atlanta Falcons
+Pittsburgh,offense,backs_receivers,RB,Yes,Atlanta Falcons
+Notre Dame,offense,backs_receivers,WR,Yes,Baltimore Ravens
+Oklahoma,offense,backs_receivers,WR,Yes,Baltimore Ravens
+USC,defense,defensive_back,CB,Yes,Baltimore Ravens
+Oklahoma St.,offense,backs_receivers,RB,Yes,Baltimore Ravens
+Penn St.,offense,backs_receivers,QB,Yes,Baltimore Ravens
+Mississippi,offense,backs_receivers,TE,Yes,Buffalo Bills
+Florida Atlantic,offense,backs_receivers,RB,Yes,Buffalo Bills
+Oklahoma,offense,offensive_lineman,OT,Yes,Buffalo Bills
+Boston Col.,offense,backs_receivers,TE,Yes,Buffalo Bills
+West Virginia,offense,backs_receivers,QB,Yes,Carolina Panthers
+Georgia,offense,backs_receivers,WR,Yes,Carolina Panthers
+Mississippi,offense,offensive_lineman,OT,Yes,Carolina Panthers
+South Carolina,offense,offensive_lineman,OT,Yes,Carolina Panthers
+Florida,offense,backs_receivers,RB,Yes,Carolina Panthers
+Georgia,offense,backs_receivers,WR,Yes,Chicago Bears
+Iowa St.,offense,backs_receivers,RB,Yes,Chicago Bears
+Ohio St.,offense,offensive_lineman,OT,Yes,Cincinnati Bengals
+Washington,offense,backs_receivers,TE,Yes,Cincinnati Bengals
+Oklahoma,offense,backs_receivers,RB,Yes,Cincinnati Bengals
+Alabama,offense,offensive_lineman,OT,Yes,Cincinnati Bengals
+North Carolina St.,offense,backs_receivers,QB,Yes,Cincinnati Bengals
+Texas A&M,offense,backs_receivers,RB,Yes,Cincinnati Bengals
+LSU,defense,defensive_back,CB,Yes,Cleveland Browns
+Oklahoma,special_teams,kicking_specialist,K,Yes,Cleveland Browns
+Miami (FL),defense,defensive_back,S,Yes,Cleveland Browns
+Miami (FL),defense,defensive_back,CB,Yes,Dallas Cowboys
+Ohio St.,offense,backs_receivers,RB,Yes,Dallas Cowboys
+Memphis,offense,backs_receivers,RB,Yes,Dallas Cowboys
+Texas A&M,defense,defensive_back,S,Yes,Dallas Cowboys
+Missouri,offense,backs_receivers,QB,Yes,Denver Broncos
+Kansas St.,offense,offensive_lineman,OT,Yes,Denver Broncos
+Iowa,offense,backs_receivers,TE,Yes,Denver Broncos
+Penn St.,defense,defensive_back,CB,Yes,Detroit Lions
+Georgia,offense,backs_receivers,TE,Yes,Detroit Lions
+Iowa,offense,backs_receivers,TE,Yes,Detroit Lions
+Boston Col.,defense,defensive_back,S,Yes,Detroit Lions
+Old Dominion,offense,backs_receivers,WR,Yes,Detroit Lions
+Notre Dame,offense,backs_receivers,RB,Yes,Green Bay Packers
+Texas A&M,offense,backs_receivers,TE,Yes,Green Bay Packers
+Maryland,defense,defensive_back,S,Yes,Green Bay Packers
+San Diego St.,offense,backs_receivers,TE,Yes,Houston Texans
+Kentucky,defense,defensive_back,CB,Yes,Houston Texans
+Utah,offense,offensive_lineman,OT,Yes,Indianapolis Colts
+Ohio St.,offense,backs_receivers,WR,Yes,Indianapolis Colts
+USC,defense,defensive_back,S,Yes,Indianapolis Colts
+Temple,defense,defensive_back,CB,Yes,Indianapolis Colts
+Michigan St.,defense,defensive_back,S,Yes,Indianapolis Colts
+San Jose St.,offense,backs_receivers,TE,Yes,Jacksonville Jaguars
+Florida,offense,offensive_lineman,OT,Yes,Jacksonville Jaguars
+Washington St.,offense,backs_receivers,QB,Yes,Jacksonville Jaguars
+Temple,offense,backs_receivers,RB,Yes,Jacksonville Jaguars
+Georgia,offense,backs_receivers,WR,Yes,Kansas City Chiefs
+South Carolina,defense,defensive_back,CB,Yes,Kansas City Chiefs
+Virginia,defense,defensive_back,S,Yes,Kansas City Chiefs
+Washington,defense,defensive_back,S,Yes,Los Angeles Rams
+Memphis,offense,backs_receivers,RB,Yes,Los Angeles Rams
+Oklahoma,offense,offensive_lineman,OT,Yes,Los Angeles Rams
+Wisconsin,offense,offensive_lineman,OT,Yes,Los Angeles Rams
+Ohio St.,offense,offensive_lineman,OT,Yes,Miami Dolphins
+Washington,offense,backs_receivers,RB,Yes,Miami Dolphins
+Boise St.,offense,backs_receivers,RB,Yes,Minnesota Vikings
+Texas,defense,defensive_back,CB,Yes,Minnesota Vikings
+Alabama,offense,backs_receivers,TE,Yes,Minnesota Vikings
+Colorado St.,offense,backs_receivers,WR,Yes,Minnesota Vikings
+Oklahoma,offense,offensive_lineman,OT,Yes,Minnesota Vikings
+Oregon,offense,backs_receivers,WR,Yes,Minnesota Vikings
+Auburn,offense,backs_receivers,QB,Yes,New England Patriots
+Arizona State,offense,backs_receivers,WR,Yes,New England Patriots
+Mississippi,defense,defensive_back,CB,Yes,New England Patriots
+West Virginia,offense,offensive_lineman,OT,Yes,New England Patriots
+Stanford,special_teams,kicking_specialist,P,Yes,New England Patriots
+Alabama,offense,backs_receivers,RB,Yes,New England Patriots
+Notre Dame,offense,backs_receivers,TE,Yes,New Orleans Saints
+Rutgers,defense,defensive_back,S,Yes,New Orleans Saints
+Auburn,offense,backs_receivers,WR,Yes,New York Giants
+Notre Dame,defense,defensive_back,CB,Yes,New York Giants
+Duke,offense,backs_receivers,QB,Yes,New York Giants
+Georgia,defense,defensive_back,CB,Yes,New York Giants
+Rutgers,defense,defensive_back,CB,Yes,New York Jets
+West Virginia,offense,backs_receivers,TE,Yes,New York Jets
+USC,offense,offensive_lineman,OT,Yes,New York Jets
+Clemson,offense,backs_receivers,WR,Yes,Oakland Raiders
+Clemson,defense,defensive_back,CB,Yes,Oakland Raiders
+LSU,offense,backs_receivers,TE,Yes,Oakland Raiders
+Mississippi St.,defense,defensive_back,S,Yes,Oakland Raiders
+Alabama,offense,backs_receivers,RB,Yes,Oakland Raiders
+Houston,defense,defensive_back,CB,Yes,Oakland Raiders
+Northwestern,offense,backs_receivers,QB,Yes,Philadelphia Eagles
+Penn St.,offense,backs_receivers,RB,Yes,Philadelphia Eagles
+Washington St.,offense,offensive_lineman,OT,Yes,Philadelphia Eagles
+Stanford,offense,backs_receivers,WR,Yes,Philadelphia Eagles
+Michigan St.,defense,defensive_back,CB,Yes,Pittsburgh Steelers
+Toledo,offense,backs_receivers,WR,Yes,Pittsburgh Steelers
+Maryland,offense,offensive_lineman,OT,Yes,Pittsburgh Steelers
+Michigan,offense,backs_receivers,TE,Yes,Pittsburgh Steelers
+Utah,special_teams,kicking_specialist,P,Yes,San Francisco 49ers
+Baylor,offense,backs_receivers,WR,Yes,San Francisco 49ers
+South Carolina,offense,backs_receivers,WR,Yes,San Francisco 49ers
+Stanford,offense,backs_receivers,TE,Yes,San Francisco 49ers
+Mississippi,offense,backs_receivers,WR,Yes,Seattle Seahawks
+Utah,defense,defensive_back,S,Yes,Seattle Seahawks
+West Virginia,offense,backs_receivers,WR,Yes,Seattle Seahawks
+Miami (FL),offense,backs_receivers,RB,Yes,Seattle Seahawks
+Auburn,defense,defensive_back,CB,Yes,Tampa Bay Buccaneers
+Central Michigan,defense,defensive_back,CB,Yes,Tampa Bay Buccaneers
+Utah,special_teams,kicking_specialist,K,Yes,Tampa Bay Buccaneers
+Kentucky,defense,defensive_back,S,Yes,Tampa Bay Buccaneers
+Iowa,defense,defensive_back,S,Yes,Tennessee Titans
+Mississippi,offense,backs_receivers,WR,Yes,Tennessee Titans
+Alabama,offense,offensive_lineman,OT,Yes,Washington Redskins
+Ohio St.,offense,backs_receivers,WR,Yes,Washington Redskins
+Stanford,offense,backs_receivers,RB,Yes,Washington Redskins
+Ohio St.,offense,backs_receivers,QB,Yes,Washington Redskins
+North Carolina St.,offense,backs_receivers,WR,Yes,Washington Redskins
+Georgia Tech,defense,defensive_back,CB,No,Undrafted
+Alabama,offense,backs_receivers,QB,No,Undrafted
+Maryland,offense,offensive_lineman,C,No,Undrafted
+Buffalo,offense,backs_receivers,QB,No,Undrafted
+Illinois,defense,defensive_lineman,DE,No,Undrafted
+Arkansas,offense,offensive_lineman,OT,No,Undrafted
+Northwestern,offense,backs_receivers,RB,No,Undrafted
+Marshall,defense,defensive_back,FS,No,Undrafted
+Colorado St.,offense,backs_receivers,TE,No,Undrafted
+Purdue,offense,backs_receivers,RB,No,Undrafted
+Penn St.,defense,defensive_back,CB,No,Undrafted
+Alcorn St.,defense,line_backer,OLB,No,Undrafted
+Nebraska,defense,defensive_lineman,DE,No,Undrafted
+Stanford,defense,defensive_back,CB,No,Undrafted
+Purdue,offense,backs_receivers,WR,No,Undrafted
+Virginia,offense,backs_receivers,WR,No,Undrafted
+Penn St.,offense,backs_receivers,WR,No,Undrafted
+Utah St.,offense,backs_receivers,FB,No,Undrafted
+East Carolina,defense,defensive_lineman,DT,No,Undrafted
+Southern Miss,offense,offensive_lineman,OT,No,Undrafted
+Nevada,defense,line_backer,ILB,No,Undrafted
+Kentucky,special_teams,kicking_specialist,P,No,Undrafted
+Virginia Tech,defense,defensive_lineman,DE,No,Undrafted
+Weber St.,offense,backs_receivers,FB,No,Undrafted
+Iowa,defense,defensive_lineman,DT,No,Undrafted
+Oregon,offense,backs_receivers,RB,No,Undrafted
+Boise St.,offense,backs_receivers,RB,No,Undrafted
+Jackson St.,defense,defensive_back,CB,No,Undrafted
+Miami (FL),defense,defensive_back,CB,No,Undrafted
+Michigan,defense,defensive_lineman,DE,No,Undrafted
+West Virginia,defense,line_backer,ILB,No,Undrafted
+Michigan St.,offense,backs_receivers,QB,No,Undrafted
+Oklahoma,defense,defensive_back,FS,No,Undrafted
+Wisconsin,offense,backs_receivers,RB,No,Undrafted
+Texas Tech,offense,backs_receivers,QB,No,Undrafted
+Louisville,defense,defensive_lineman,DT,No,Undrafted
+Florida St.,special_teams,kicking_specialist,K,No,Undrafted
+Tennessee,offense,offensive_lineman,OT,No,Undrafted
+Tennessee,offense,backs_receivers,RB,No,Undrafted
+BYU,offense,offensive_lineman,OG,No,Undrafted
+Penn St.,defense,defensive_lineman,DE,No,Undrafted
+Georgia,defense,line_backer,ILB,No,Undrafted
+Stanford,defense,defensive_lineman,DE,No,Undrafted
+Pittsburgh,offense,offensive_lineman,OG,No,Undrafted
+Missouri,offense,backs_receivers,QB,No,Undrafted
+Texas,offense,backs_receivers,WR,No,Undrafted
+Oklahoma,offense,offensive_lineman,C,No,Undrafted
+South Carolina,defense,defensive_back,SS,No,Undrafted
+Tennessee,special_teams,kicking_specialist,P,No,Undrafted
+Wisconsin,defense,line_backer,OLB,No,Undrafted
+Arizona St.,offense,backs_receivers,QB,No,Undrafted
+Louisville,offense,backs_receivers,QB,No,Undrafted
+Iowa,offense,offensive_lineman,C,No,Undrafted
+Central Washington,offense,backs_receivers,TE,No,Undrafted
+Central Arkansas,offense,backs_receivers,FB,No,Undrafted
+Ohio St.,offense,offensive_lineman,OT,No,Undrafted
+Texas A&M,defense,defensive_lineman,DE,No,Undrafted
+UCLA,offense,backs_receivers,RB,No,Undrafted
+LSU,defense,line_backer,ILB,No,Undrafted
+Missouri Western St.,offense,offensive_lineman,OG,No,Undrafted
+Arizona St.,defense,line_backer,ILB,No,Undrafted
+California,defense,line_backer,ILB,No,Undrafted
+Oregon,offense,backs_receivers,WR,No,Undrafted
+Michigan St.,defense,defensive_back,SS,No,Undrafted
+Florida,offense,offensive_lineman,OT,No,Undrafted
+Notre Dame,offense,offensive_lineman,OG,No,Undrafted
+Nebraska,offense,backs_receivers,WR,No,Undrafted
+Wake Forest,special_teams,kicking_specialist,K,No,Undrafted
+Georgia,offense,backs_receivers,FB,No,Undrafted
+Utah,special_teams,kicking_specialist,K,No,Undrafted
+San Jose St.,offense,backs_receivers,WR,No,Undrafted
+Central Washington,offense,backs_receivers,QB,No,Undrafted
+Mississippi St.,defense,defensive_back,FS,No,Undrafted
+Boston Col.,defense,line_backer,OLB,No,Undrafted
+Kansas St.,defense,defensive_lineman,DT,No,Undrafted
+Furman,offense,offensive_lineman,OT,No,Undrafted
+Tennessee,defense,defensive_lineman,DT,No,Undrafted
+Hartwick,offense,backs_receivers,QB,No,Undrafted
+Texas A&M,special_teams,kicking_specialist,P,No,Undrafted
+BYU,offense,offensive_lineman,OG,No,Undrafted
+Central Arkansas,offense,backs_receivers,QB,No,Undrafted
+Penn St.,offense,offensive_lineman,OT,No,Undrafted
+Kansas St.,defense,defensive_lineman,DE,No,Undrafted
+Boise St.,offense,backs_receivers,WR,No,Undrafted
+Mississippi,offense,backs_receivers,FB,No,Undrafted
+California,defense,defensive_lineman,DE,No,Undrafted
+LSU,defense,defensive_lineman,DT,No,Undrafted
+California,defense,line_backer,ILB,No,Undrafted
+Texas-El Paso,offense,offensive_lineman,C,No,Undrafted
+Stanford,offense,offensive_lineman,C,No,Undrafted
+Oklahoma St.,special_teams,kicking_specialist,P,No,Undrafted
+Washington,offense,offensive_lineman,OG,No,Undrafted
+Baylor,offense,offensive_lineman,OG,No,Undrafted
+Michigan,special_teams,other_special,LS,No,Undrafted
+Clemson,offense,backs_receivers,QB,No,Undrafted
+Michigan St.,defense,defensive_lineman,DT,No,Undrafted
+LSU,offense,offensive_lineman,C,No,Undrafted
+Colorado,defense,defensive_lineman,DT,No,Undrafted
+New Mexico St.,offense,backs_receivers,QB,No,Undrafted
+West Virginia,offense,offensive_lineman,OG,No,Undrafted
+South Florida,offense,backs_receivers,WR,No,Undrafted
+Clemson,offense,backs_receivers,WR,No,Undrafted
+Wisconsin,offense,offensive_lineman,OG,No,Undrafted
+Stanford,offense,backs_receivers,RB,No,Undrafted
+Tennessee St.,offense,offensive_lineman,OT,No,Undrafted
+McNeese St.,offense,offensive_lineman,OT,No,Undrafted
+Nebraska,offense,backs_receivers,RB,No,Undrafted
+Tulsa,offense,backs_receivers,WR,No,Undrafted
+Texas-El Paso,special_teams,kicking_specialist,K,No,Undrafted
+Kentucky,defense,defensive_back,FS,No,Undrafted
+Indiana,offense,backs_receivers,WR,No,Undrafted
+Michigan St.,offense,offensive_lineman,OG,No,Undrafted
+West Liberty,offense,backs_receivers,RB,No,Undrafted
+Texas,defense,defensive_back,CB,No,Undrafted
+Tennessee,offense,offensive_lineman,OG,No,Undrafted
+Kent St.,offense,offensive_lineman,OT,No,Undrafted
+Marshall,offense,backs_receivers,WR,No,Undrafted
+South Florida,defense,line_backer,ILB,No,Undrafted
+Toledo,offense,backs_receivers,WR,No,Undrafted
+LSU,offense,backs_receivers,RB,No,Undrafted
+Michigan St.,offense,backs_receivers,WR,No,Undrafted
+Fresno St.,offense,backs_receivers,WR,No,Undrafted
+Michigan,defense,defensive_back,FS,No,Undrafted
+California,offense,backs_receivers,WR,No,Undrafted
+Oklahoma St.,offense,backs_receivers,RB,No,Undrafted
+BYU,offense,backs_receivers,FB,No,Undrafted
+California,offense,offensive_lineman,OG,No,Undrafted
+South Carolina,defense,defensive_back,SS,No,Undrafted
+Arkansas,defense,defensive_lineman,DT,No,Undrafted
+East Carolina,defense,defensive_lineman,DT,No,Undrafted
+Indiana,defense,defensive_back,FS,No,Undrafted
+Ohio St.,special_teams,kicking_specialist,K,No,Undrafted
+Purdue,defense,defensive_back,CB,No,Undrafted
+Colorado St.,offense,offensive_lineman,OT,No,Undrafted
+USC,offense,offensive_lineman,OG,No,Undrafted
+Florida St.,offense,backs_receivers,WR,No,Undrafted
+Fresno St.,offense,backs_receivers,RB,No,Undrafted
+SMU,offense,backs_receivers,RB,No,Undrafted
+Marshall,defense,line_backer,ILB,No,Undrafted
+Notre Dame,defense,defensive_back,SS,No,Undrafted
+Kansas St.,offense,backs_receivers,TE,No,Undrafted
+Fresno St.,special_teams,kicking_specialist,P,No,Undrafted
+Duke,offense,backs_receivers,QB,No,Undrafted
+Troy,defense,defensive_lineman,DE,No,Undrafted
+Oregon St.,defense,line_backer,OLB,No,Undrafted
+Stanford,offense,offensive_lineman,OT,No,Undrafted
+San Jose St.,offense,backs_receivers,WR,No,Undrafted
+Youngstown St.,offense,backs_receivers,WR,No,Undrafted
+North Carolina,offense,offensive_lineman,OT,No,Undrafted
+USC,offense,backs_receivers,RB,No,Undrafted
+Kentucky,defense,line_backer,ILB,No,Undrafted
+Fresno St.,defense,defensive_back,CB,No,Undrafted
+Miami (FL),offense,backs_receivers,RB,No,Undrafted
+Florida,offense,backs_receivers,RB,No,Undrafted
+Virginia,offense,backs_receivers,FB,No,Undrafted
+Oklahoma,defense,defensive_back,CB,No,Undrafted
+San Jose St.,defense,line_backer,OLB,No,Undrafted
+LSU,defense,defensive_back,CB,No,Undrafted
+BYU,offense,backs_receivers,QB,No,Undrafted
+TCU,special_teams,other_special,LS,No,Undrafted
+Mississippi,defense,defensive_back,CB,No,Undrafted
+Temple,defense,line_backer,OLB,No,Undrafted
+San Jose St.,defense,line_backer,OLB,No,Undrafted
+Auburn,defense,line_backer,OLB,No,Undrafted
+Toledo,defense,defensive_back,SS,No,Undrafted
+Texas Tech,offense,offensive_lineman,OG,No,Undrafted
+USC,offense,offensive_lineman,C,No,Undrafted
+West Virginia,offense,backs_receivers,QB,No,Undrafted
+Texas-El Paso,defense,defensive_back,CB,No,Undrafted
+UCLA,defense,line_backer,OLB,No,Undrafted
+Oregon,offense,backs_receivers,RB,No,Undrafted
+Wayne State (MI),offense,backs_receivers,RB,No,Undrafted
+Kansas St.,offense,backs_receivers,WR,No,Undrafted
+Nevada,defense,defensive_back,FS,No,Undrafted
+Missouri,offense,backs_receivers,WR,No,Undrafted
+Fresno St.,offense,backs_receivers,WR,No,Undrafted
+Alabama,defense,defensive_back,SS,No,Undrafted
+UNLV,offense,backs_receivers,WR,No,Undrafted
+Connecticut,defense,defensive_lineman,DE,No,Undrafted
+Tulane,offense,backs_receivers,WR,No,Undrafted
+Appalachian St.,offense,offensive_lineman,OT,No,Undrafted
+Alabama,defense,defensive_lineman,DT,No,Undrafted
+Virginia Tech,defense,defensive_back,CB,No,Undrafted
+Texas,offense,offensive_lineman,OG,No,Undrafted
+Alabama,special_teams,kicking_specialist,K,No,Undrafted
+Michigan St.,special_teams,kicking_specialist,K,No,Undrafted
+Mississippi,offense,backs_receivers,QB,No,Undrafted
+Wake Forest,offense,backs_receivers,QB,No,Undrafted
+Arizona,defense,defensive_back,CB,No,Undrafted
+LSU,defense,defensive_lineman,DE,No,Undrafted
+LSU,defense,defensive_lineman,DT,No,Undrafted
+Oklahoma St.,defense,defensive_back,SS,No,Undrafted
+West Virginia,offense,backs_receivers,WR,No,Undrafted
+Nevada,defense,defensive_lineman,DE,No,Undrafted
+UNLV,defense,line_backer,ILB,No,Undrafted
+Norfolk St.,offense,backs_receivers,WR,No,Undrafted
+LSU,offense,offensive_lineman,OG,No,Undrafted
+California,offense,backs_receivers,WR,No,Undrafted
+James Madison,offense,offensive_lineman,OG,No,Undrafted
+Oklahoma,offense,backs_receivers,RB,No,Undrafted
+Minnesota,defense,line_backer,ILB,No,Undrafted
+California-Davis,offense,backs_receivers,WR,No,Undrafted
+Clemson,defense,defensive_back,CB,No,Undrafted
+Penn St.,offense,backs_receivers,QB,No,Undrafted
+LSU,defense,defensive_back,SS,No,Undrafted
+Connecticut,offense,backs_receivers,RB,No,Undrafted
+Colorado,offense,backs_receivers,FB,No,Undrafted
+Missouri,offense,offensive_lineman,OG,No,Undrafted
+West. Michigan,offense,backs_receivers,QB,No,Undrafted
+Mississippi,offense,backs_receivers,WR,No,Undrafted
+Minnesota,defense,line_backer,OLB,No,Undrafted
+Troy,defense,line_backer,ILB,No,Undrafted
+Louisville,offense,backs_receivers,WR,No,Undrafted
+Marshall,offense,backs_receivers,RB,No,Undrafted
+Kentucky,defense,line_backer,OLB,No,Undrafted
+Arizona St.,offense,backs_receivers,WR,No,Undrafted
+Boston Col.,defense,line_backer,ILB,No,Undrafted
+Indiana,defense,defensive_lineman,DE,No,Undrafted
+Michigan,offense,backs_receivers,RB,No,Undrafted
+North Carolina,defense,defensive_lineman,DT,No,Undrafted
+Duke,defense,defensive_lineman,DT,No,Undrafted
+North Dakota St.,offense,backs_receivers,RB,No,Undrafted
+Alabama,offense,backs_receivers,TE,No,Undrafted
+Missouri,offense,backs_receivers,WR,No,Undrafted
+USC,defense,defensive_back,FS,No,Undrafted
+Southern Illinois,special_teams,kicking_specialist,P,No,Undrafted
+Iowa,offense,offensive_lineman,OG,No,Undrafted
+Tennessee,defense,defensive_back,FS,No,Undrafted
+Boise St.,defense,defensive_lineman,DE,No,Undrafted
+Washington St.,offense,offensive_lineman,C,No,Undrafted
+Notre Dame,defense,defensive_lineman,DT,No,Undrafted
+Wisconsin,offense,backs_receivers,QB,No,Undrafted
+LSU,offense,backs_receivers,WR,No,Undrafted
+Southern Arkansas,defense,defensive_lineman,DT,No,Undrafted
+Utah,offense,offensive_lineman,C,No,Undrafted
+Oklahoma,defense,defensive_lineman,DT,No,Undrafted
+Nevada,offense,backs_receivers,RB,No,Undrafted
+North Carolina St.,offense,backs_receivers,WR,No,Undrafted
+East Carolina,offense,offensive_lineman,OT,No,Undrafted
+San Jose St.,offense,backs_receivers,WR,No,Undrafted
+Syracuse,defense,line_backer,ILB,No,Undrafted
+Iowa St.,defense,defensive_back,SS,No,Undrafted
+Utah,defense,defensive_lineman,DT,No,Undrafted
+South Carolina,offense,backs_receivers,TE,No,Undrafted
+Ohio St.,offense,backs_receivers,WR,No,Undrafted
+Ohio St.,offense,backs_receivers,RB,No,Undrafted
+Missouri,defense,defensive_back,CB,No,Undrafted
+Iowa,offense,backs_receivers,FB,No,Undrafted
+California (PA),offense,backs_receivers,QB,No,Undrafted
+North Carolina,offense,backs_receivers,TE,No,Undrafted
+Richmond,defense,defensive_lineman,DT,No,Undrafted
+New Mexico,offense,backs_receivers,TE,No,Undrafted
+Central Florida,offense,backs_receivers,WR,No,Undrafted
+Fort Hays St.,offense,backs_receivers,WR,No,Undrafted
+Maryland,defense,line_backer,OLB,No,Undrafted
+Oregon,offense,backs_receivers,WR,No,Undrafted
+Connecticut,defense,line_backer,OLB,No,Undrafted
+Fort Valley St.,offense,backs_receivers,WR,No,Undrafted
+Oklahoma St.,defense,line_backer,ILB,No,Undrafted
+Rutgers,defense,defensive_back,SS,No,Undrafted
+South Carolina,offense,offensive_lineman,OT,No,Undrafted
+Temple,defense,line_backer,ILB,No,Undrafted
+Texas A&M,offense,backs_receivers,QB,No,Undrafted
+Boise St.,defense,defensive_back,SS,No,Undrafted
+Florida Atlantic,offense,backs_receivers,WR,No,Undrafted
+Pittsburgh,offense,backs_receivers,FB,No,Undrafted
+Connecticut,offense,offensive_lineman,OG,No,Undrafted
+Iowa,defense,line_backer,OLB,No,Undrafted
+SE Louisiana,offense,offensive_lineman,OT,No,Undrafted
+Hillsdale,offense,backs_receivers,WR,No,Undrafted
+Texas,offense,offensive_lineman,OT,No,Undrafted
+Florida,defense,defensive_back,FS,No,Undrafted
+Boston Col.,defense,line_backer,OLB,No,Undrafted
+Nebraska,offense,offensive_lineman,OG,No,Undrafted
+Florida,special_teams,kicking_specialist,P,No,Undrafted
+Fresno St.,offense,backs_receivers,WR,No,Undrafted
+South Carolina,offense,backs_receivers,WR,No,Undrafted
+Virginia Tech,defense,defensive_lineman,DT,No,Undrafted
+Arizona,offense,offensive_lineman,OT,No,Undrafted
+Louisville,offense,backs_receivers,TE,No,Undrafted
+UCLA,special_teams,kicking_specialist,K,No,Undrafted
+Auburn,offense,backs_receivers,RB,No,Undrafted
+Virginia Tech,offense,backs_receivers,RB,No,Undrafted
+North Carolina,offense,backs_receivers,RB,No,Undrafted
+Iowa,special_teams,kicking_specialist,P,No,Undrafted
+Arkansas,offense,offensive_lineman,OG,No,Undrafted
+Georgia,defense,defensive_lineman,DE,No,Undrafted
+Pittsburgh,offense,backs_receivers,QB,No,Undrafted
+Michigan St.,offense,backs_receivers,WR,No,Undrafted
+Wisconsin,offense,backs_receivers,RB,No,Undrafted
+South Carolina,offense,offensive_lineman,OG,No,Undrafted
+Oklahoma St.,defense,defensive_lineman,DE,No,Undrafted
+Virginia Tech,defense,defensive_back,CB,No,Undrafted
+Georgia Tech,defense,defensive_back,CB,No,Undrafted
+North Carolina,defense,defensive_back,CB,No,Undrafted
+Ohio St.,offense,offensive_lineman,OG,No,Undrafted
+Cincinnati,offense,backs_receivers,WR,No,Undrafted
+Miami (FL),offense,backs_receivers,RB,No,Undrafted
+Central Michigan,defense,line_backer,ILB,No,Undrafted
+Syracuse,offense,offensive_lineman,C,No,Undrafted
+Oregon,defense,defensive_lineman,DE,No,Undrafted
+Oklahoma St.,special_teams,kicking_specialist,K,No,Undrafted
+Utah,offense,backs_receivers,RB,No,Undrafted
+Nebraska,defense,defensive_lineman,DE,No,Undrafted
+Notre Dame,offense,backs_receivers,RB,No,Undrafted
+Virginia,special_teams,other_special,LS,No,Undrafted
+Auburn,offense,backs_receivers,WR,No,Undrafted
+TCU,offense,backs_receivers,WR,No,Undrafted
+Washington,defense,defensive_back,SS,No,Undrafted
+Wake Forest,offense,backs_receivers,WR,No,Undrafted
+North Carolina,defense,defensive_back,FS,No,Undrafted
+Texas Tech,defense,defensive_lineman,DT,No,Undrafted
+Florida Atlantic,offense,backs_receivers,QB,No,Undrafted
+Indiana,offense,backs_receivers,WR,No,Undrafted
+Ohio St.,defense,defensive_back,CB,No,Undrafted
+Houston,offense,offensive_lineman,OG,No,Undrafted
+Georgia Tech,defense,defensive_back,FS,No,Undrafted
+South Carolina,defense,defensive_lineman,DT,No,Undrafted
+Wisconsin,defense,defensive_back,CB,No,Undrafted
+Southern Miss,offense,backs_receivers,WR,No,Undrafted
+Fresno St.,offense,backs_receivers,QB,No,Undrafted
+Miami (FL),offense,backs_receivers,RB,No,Undrafted
+Georgia,defense,defensive_back,CB,No,Undrafted
+TCU,defense,line_backer,OLB,No,Undrafted
+Georgia,offense,offensive_lineman,OT,No,Undrafted
+West Virginia,offense,backs_receivers,RB,No,Undrafted
+Washington St.,special_teams,kicking_specialist,P,No,Undrafted
+Michigan St.,offense,backs_receivers,TE,No,Undrafted
+LSU,special_teams,kicking_specialist,K,No,Undrafted
+Florida,offense,offensive_lineman,OG,No,Undrafted
+Boston Col.,offense,offensive_lineman,OT,No,Undrafted
+LSU,defense,defensive_lineman,DE,No,Undrafted
+Oregon St.,offense,offensive_lineman,C,No,Undrafted
+Kentucky,offense,backs_receivers,RB,No,Undrafted
+Clemson,defense,defensive_back,SS,No,Undrafted
+Oklahoma St.,defense,defensive_back,CB,No,Undrafted
+Michigan St.,offense,backs_receivers,WR,No,Undrafted
+USC,offense,offensive_lineman,C,No,Undrafted
+Cincinnati,special_teams,kicking_specialist,K,No,Undrafted
+West Virginia,offense,backs_receivers,WR,No,Undrafted
+Iowa,offense,offensive_lineman,OT,No,Undrafted
+Rutgers,offense,offensive_lineman,OG,No,Undrafted
+Texas,offense,backs_receivers,RB,No,Undrafted
+Portland St.,offense,offensive_lineman,OT,No,Undrafted
+USC,defense,defensive_lineman,DT,No,Undrafted
+Furman,defense,defensive_back,CB,No,Undrafted
+Missouri,defense,defensive_lineman,DE,No,Undrafted
+Utah,defense,defensive_lineman,DE,No,Undrafted
+Mississippi St.,offense,offensive_lineman,C,No,Undrafted
+Oregon St.,offense,backs_receivers,WR,No,Undrafted
+Vanderbilt,defense,defensive_back,SS,No,Undrafted
+BYU,offense,offensive_lineman,OT,No,Undrafted
+Wake Forest,defense,defensive_back,SS,No,Undrafted
+Florida St.,special_teams,kicking_specialist,P,No,Undrafted
+Penn St.,defense,defensive_back,CB,No,Undrafted
+Tennessee,offense,backs_receivers,RB,No,Undrafted
+Washington,offense,backs_receivers,RB,No,Undrafted
+Oregon,defense,defensive_back,SS,No,Undrafted
+LSU,offense,backs_receivers,TE,No,Undrafted
+Kansas St.,defense,defensive_back,CB,No,Undrafted
+Toledo,offense,backs_receivers,WR,No,Undrafted
+Stanford,offense,backs_receivers,WR,No,Undrafted
+Pittsburgh,offense,offensive_lineman,OG,No,Undrafted
+Penn St.,offense,backs_receivers,WR,No,Undrafted
+Boise St.,offense,backs_receivers,QB,No,Undrafted
+Connecticut,offense,backs_receivers,WR,No,Undrafted
+Virginia,defense,defensive_back,CB,No,Undrafted
+Maryland,offense,backs_receivers,RB,No,Undrafted
+Arkansas St.,defense,defensive_back,SS,No,Undrafted
+Clemson,offense,offensive_lineman,OG,No,Undrafted
+Merrimack,defense,line_backer,ILB,No,Undrafted
+Memphis,offense,offensive_lineman,OG,No,Undrafted
+Houston,offense,backs_receivers,QB,No,Undrafted
+Washington,offense,backs_receivers,WR,No,Undrafted
+North Carolina,offense,backs_receivers,WR,No,Undrafted
+Kansas,defense,line_backer,OLB,No,Undrafted
+California (PA),offense,offensive_lineman,OG,No,Undrafted
+Iowa St.,defense,defensive_back,CB,No,Undrafted
+Missouri,offense,backs_receivers,WR,No,Undrafted
+San Jose St.,defense,defensive_back,SS,No,Undrafted
+Massachusetts,offense,backs_receivers,FB,No,Undrafted
+Stanford,defense,defensive_back,SS,No,Undrafted
+Auburn,special_teams,other_special,LS,No,Undrafted
+USC,defense,defensive_lineman,DT,No,Undrafted
+Oregon,defense,defensive_back,CB,No,Undrafted
+UCLA,offense,backs_receivers,TE,No,Undrafted
+Alabama,offense,backs_receivers,WR,No,Undrafted
+Southern Illinois,offense,backs_receivers,RB,No,Undrafted
+Missouri,defense,defensive_lineman,DT,No,Undrafted
+Notre Dame,offense,backs_receivers,RB,No,Undrafted
+Arizona St.,offense,offensive_lineman,C,No,Undrafted
+Texas A&M,offense,backs_receivers,WR,No,Undrafted
+Rutgers,defense,defensive_lineman,DE,No,Undrafted
+Miami (FL),defense,defensive_lineman,DT,No,Undrafted
+Houston,offense,backs_receivers,WR,No,Undrafted
+Southern Miss,offense,backs_receivers,QB,No,Undrafted
+North Dakota St.,offense,offensive_lineman,OT,No,Undrafted
+Oklahoma St.,offense,backs_receivers,WR,No,Undrafted
+California,defense,defensive_back,SS,No,Undrafted
+Georgia,special_teams,kicking_specialist,P,No,Undrafted
+Arizona St.,defense,line_backer,ILB,No,Undrafted
+Troy,offense,offensive_lineman,OG,No,Undrafted
+Ohio St.,offense,offensive_lineman,C,No,Undrafted
+Virginia Tech,offense,backs_receivers,WR,No,Undrafted
+Mississippi,offense,backs_receivers,RB,No,Undrafted
+Tennessee Tech,offense,backs_receivers,WR,No,Undrafted
+Pittsburgh,defense,defensive_lineman,DT,No,Undrafted
+Yale,offense,backs_receivers,QB,No,Undrafted
+Purdue,special_teams,kicking_specialist,K,No,Undrafted
+USC,offense,backs_receivers,RB,No,Undrafted
+Syracuse,defense,defensive_back,FS,No,Undrafted
+Oklahoma St.,defense,defensive_back,SS,No,Undrafted
+Oregon,offense,backs_receivers,QB,No,Undrafted
+Connecticut,special_teams,kicking_specialist,K,No,Undrafted
+San Diego St.,special_teams,kicking_specialist,P,No,Undrafted
+South Florida,offense,backs_receivers,RB,No,Undrafted
+Nevada,defense,defensive_lineman,DT,No,Undrafted
+Michigan St.,defense,defensive_back,FS,No,Undrafted
+Arizona St.,offense,backs_receivers,WR,No,Undrafted
+LSU,defense,line_backer,OLB,No,Undrafted
+Nevada,offense,backs_receivers,RB,No,Undrafted
+Oklahoma St.,defense,defensive_lineman,DE,No,Undrafted
+North Carolina,defense,defensive_back,CB,No,Undrafted
+Richmond,offense,backs_receivers,QB,No,Undrafted
+Louisiana Tech,offense,backs_receivers,RB,No,Undrafted
+Utah,offense,offensive_lineman,OT,No,Undrafted
+Notre Dame,offense,offensive_lineman,OT,No,Undrafted
+Illinois,special_teams,kicking_specialist,K,No,Undrafted
+BYU,defense,defensive_lineman,DT,No,Undrafted
+Wisconsin,defense,defensive_back,CB,No,Undrafted
+USC,defense,line_backer,ILB,No,Undrafted
+Miami (FL),offense,backs_receivers,QB,No,Undrafted
+McNeese St.,defense,defensive_back,FS,No,Undrafted
+Arizona St.,defense,defensive_lineman,DE,No,Undrafted
+LSU,offense,backs_receivers,QB,No,Undrafted
+Wayne State (MI),defense,defensive_back,CB,No,Undrafted
+Texas A&M,defense,defensive_back,CB,No,Undrafted
+Pittsburgh,defense,line_backer,OLB,No,Undrafted
+Penn St.,defense,defensive_back,CB,No,Undrafted
+Rice,special_teams,kicking_specialist,P,No,Undrafted
+Alabama,offense,backs_receivers,WR,No,Undrafted
+Hawaii,defense,defensive_lineman,DT,No,Undrafted
+Clemson,defense,defensive_lineman,DT,No,Undrafted
+Iowa,defense,line_backer,OLB,No,Undrafted
+Virginia Tech,offense,offensive_lineman,OT,No,Undrafted
+North Carolina,defense,defensive_lineman,DE,No,Undrafted
+North Carolina,defense,defensive_lineman,DT,No,Undrafted
+Appalachian St.,defense,defensive_back,CB,No,Undrafted
+Syracuse,offense,backs_receivers,TE,No,Undrafted
+Pittsburgh,defense,defensive_back,CB,No,Undrafted
+Florida St.,offense,backs_receivers,TE,No,Undrafted
+Nevada,defense,defensive_back,CB,No,Undrafted
+Notre Dame,offense,backs_receivers,RB,No,Undrafted
+Cincinnati,offense,backs_receivers,RB,No,Undrafted
+LSU,special_teams,kicking_specialist,P,No,Undrafted
+Boston Col.,offense,offensive_lineman,OT,No,Undrafted
+Southern Miss,offense,offensive_lineman,OT,No,Undrafted
+Duke,offense,backs_receivers,WR,No,Undrafted
+TCU,offense,backs_receivers,RB,No,Undrafted
+Cincinnati,offense,backs_receivers,WR,No,Undrafted
+Stanford,defense,line_backer,OLB,No,Undrafted
+Wisconsin,defense,line_backer,OLB,No,Undrafted
+Virginia Tech,defense,line_backer,ILB,No,Undrafted
+Georgia Tech,defense,defensive_back,CB,No,Undrafted
+Ohio St.,offense,backs_receivers,TE,No,Undrafted
+Cincinnati,defense,defensive_lineman,DE,No,Undrafted
+Texas A&M,defense,line_backer,ILB,No,Undrafted
+USC,defense,defensive_back,SS,No,Undrafted
+Alabama,defense,defensive_lineman,DE,No,Undrafted
+Lehigh,offense,backs_receivers,WR,No,Undrafted
+Florida St.,offense,backs_receivers,WR,No,Undrafted
+Oklahoma St.,special_teams,kicking_specialist,P,No,Undrafted
+Arizona,offense,backs_receivers,QB,No,Undrafted
+Baylor,offense,backs_receivers,WR,No,Undrafted
+Ohio St.,defense,line_backer,OLB,No,Undrafted
+Tennessee Tech,offense,backs_receivers,WR,No,Undrafted
+USC,defense,defensive_back,CB,No,Undrafted
+North Carolina,defense,line_backer,ILB,No,Undrafted
+Florida St.,offense,backs_receivers,FB,No,Undrafted
+Howard,defense,line_backer,ILB,No,Undrafted
+Boston Col.,offense,backs_receivers,TE,No,Undrafted
+San Jose St.,offense,backs_receivers,TE,No,Undrafted
+Florida,offense,offensive_lineman,OT,No,Undrafted
+Missouri,offense,backs_receivers,WR,No,Undrafted
+Massachusetts,offense,offensive_lineman,OG,No,Undrafted
+California (PA),defense,defensive_back,FS,No,Undrafted
+Florida,defense,line_backer,OLB,No,Undrafted
+Auburn,offense,backs_receivers,RB,No,Undrafted
+Stony Brook,offense,backs_receivers,RB,No,Undrafted
+Azusa Pacific,offense,offensive_lineman,OT,No,Undrafted
+Nebraska,special_teams,kicking_specialist,K,No,Undrafted
+Arizona St.,defense,line_backer,OLB,No,Undrafted
+Youngstown St.,offense,offensive_lineman,OG,No,Undrafted
+UNLV,defense,line_backer,OLB,No,Undrafted
+SMU,offense,backs_receivers,FB,No,Undrafted
+Alabama,defense,defensive_back,SS,No,Undrafted
+Syracuse,offense,backs_receivers,WR,No,Undrafted
+Ball St.,special_teams,kicking_specialist,P,No,Undrafted
+Iowa St.,defense,line_backer,OLB,No,Undrafted
+Kansas St.,offense,backs_receivers,QB,No,Undrafted
+East. Washington,offense,backs_receivers,WR,No,Undrafted
+Georgia,defense,defensive_lineman,DT,No,Undrafted
+Louisiana Tech,offense,offensive_lineman,OT,No,Undrafted
+Arizona St.,defense,defensive_back,SS,No,Undrafted
+Purdue,defense,defensive_back,CB,No,Undrafted
+Alabama A&M,offense,offensive_lineman,OG,No,Undrafted
+SMU,offense,backs_receivers,WR,No,Undrafted
+Oklahoma,defense,defensive_back,FS,No,Undrafted
+UCLA,defense,defensive_back,CB,No,Undrafted
+Rutgers,offense,backs_receivers,WR,No,Undrafted
+South Florida,defense,defensive_lineman,DT,No,Undrafted
+Minnesota,offense,backs_receivers,QB,No,Undrafted
+Pittsburgh,offense,backs_receivers,RB,No,Undrafted
+Georgia,defense,defensive_lineman,DT,No,Undrafted
+Tennessee St.,offense,offensive_lineman,OT,No,Undrafted
+Maryland,offense,backs_receivers,TE,No,Undrafted
+LSU,offense,backs_receivers,RB,No,Undrafted
+UCLA,offense,backs_receivers,TE,No,Undrafted
+LSU,offense,offensive_lineman,OT,No,Undrafted
+Memphis,offense,offensive_lineman,OT,No,Undrafted
+Virginia Tech,offense,backs_receivers,WR,No,Undrafted
+Boston Col.,offense,offensive_lineman,OT,No,Undrafted
+Notre Dame,offense,offensive_lineman,C,No,Undrafted
+Kansas St.,special_teams,kicking_specialist,K,No,Undrafted
+Louisiana Tech,offense,backs_receivers,QB,No,Undrafted
+Louisville,defense,defensive_back,CB,No,Undrafted
+Georgia,offense,backs_receivers,WR,No,Undrafted
+BYU,offense,offensive_lineman,OT,No,Undrafted
+Tennessee,offense,backs_receivers,QB,No,Undrafted
+Ohio St.,offense,backs_receivers,FB,No,Undrafted
+Virginia Tech,offense,offensive_lineman,OT,No,Undrafted
+Georgia Tech,defense,defensive_lineman,DT,No,Undrafted
+Nevada,offense,offensive_lineman,OG,No,Undrafted
+Arkansas,offense,offensive_lineman,OG,No,Undrafted
+California,offense,backs_receivers,RB,No,Undrafted
+North Carolina St.,offense,offensive_lineman,OG,No,Undrafted
+Louisiana Tech,special_teams,kicking_specialist,P,No,Undrafted
+Michigan St.,defense,defensive_back,CB,No,Undrafted
+Oklahoma,defense,line_backer,ILB,No,Undrafted
+Ohio St.,defense,line_backer,OLB,No,Undrafted
+Iowa,offense,backs_receivers,QB,No,Undrafted
+SMU,defense,defensive_back,CB,No,Undrafted
+Arkansas,special_teams,kicking_specialist,P,No,Undrafted
+Idaho,special_teams,kicking_specialist,P,No,Undrafted
+Hawaii,special_teams,kicking_specialist,P,No,Undrafted
+Hawaii,defense,defensive_back,CB,No,Undrafted
+Texas A&M,offense,offensive_lineman,OG,No,Undrafted
+East. Kentucky,offense,backs_receivers,WR,No,Undrafted
+Boise St.,offense,backs_receivers,RB,No,Undrafted
+Temple,offense,backs_receivers,RB,No,Undrafted
+Arizona St.,special_teams,kicking_specialist,P,No,Undrafted
+Hawaii,special_teams,other_special,LS,No,Undrafted
+Glenville State,offense,offensive_lineman,OG,No,Undrafted
+Nevada,offense,backs_receivers,RB,No,Undrafted
+LSU,offense,offensive_lineman,C,No,Undrafted
+Auburn,offense,backs_receivers,TE,No,Undrafted
+West Virginia,offense,offensive_lineman,C,No,Undrafted
+Illinois,defense,defensive_back,FS,No,Undrafted
+Florida St.,defense,defensive_back,CB,No,Undrafted
+Fresno St.,offense,backs_receivers,RB,No,Undrafted
+Penn St.,offense,offensive_lineman,C,No,Undrafted
+Richmond,defense,defensive_lineman,DE,No,Undrafted
+Georgia St.,offense,backs_receivers,WR,No,Undrafted
+Oklahoma,offense,backs_receivers,RB,No,Undrafted
+Florida St.,offense,backs_receivers,RB,No,Undrafted
+Texas,defense,defensive_lineman,DT,No,Undrafted
+West Texas A&M,defense,defensive_lineman,DE,No,Undrafted
+Missouri,offense,backs_receivers,WR,No,Undrafted
+West Texas A&M,offense,backs_receivers,QB,No,Undrafted
+USC,defense,defensive_lineman,DT,No,Undrafted
+Arkansas,defense,defensive_lineman,DT,No,Undrafted
+Tennessee,offense,offensive_lineman,C,No,Undrafted
+Oklahoma St.,offense,backs_receivers,WR,No,Undrafted
+Alabama,offense,offensive_lineman,OG,No,Undrafted
+BYU,defense,defensive_back,SS,No,Undrafted
+Ball St.,offense,backs_receivers,WR,No,Undrafted
+Syracuse,offense,backs_receivers,RB,No,Undrafted
+Stanford,defense,line_backer,ILB,No,Undrafted
+South Carolina,offense,backs_receivers,QB,No,Undrafted
+Tulane,special_teams,kicking_specialist,K,No,Undrafted
+Florida,defense,defensive_back,CB,No,Undrafted
+Tennessee,offense,offensive_lineman,OT,No,Undrafted
+Oregon St.,defense,defensive_back,CB,No,Undrafted
+North Carolina,offense,backs_receivers,QB,No,Undrafted
+USC,offense,backs_receivers,RB,No,Undrafted
+South Carolina,defense,defensive_lineman,DT,No,Undrafted
+Florida,defense,defensive_back,CB,No,Undrafted
+Mississippi St.,offense,backs_receivers,RB,No,Undrafted
+Wisconsin,offense,backs_receivers,TE,No,Undrafted
+Boston Col.,offense,offensive_lineman,OT,No,Undrafted
+Utah,defense,defensive_lineman,DT,No,Undrafted
+Baylor,offense,backs_receivers,TE,No,Undrafted
+Utah,offense,backs_receivers,TE,No,Undrafted
+Miami (FL),offense,backs_receivers,QB,No,Undrafted
+Iowa,defense,line_backer,ILB,No,Undrafted
+South Florida,defense,defensive_lineman,DE,No,Undrafted
+Stanford,defense,defensive_lineman,DE,No,Undrafted
+BYU,defense,defensive_lineman,DT,No,Undrafted
+Alabama,special_teams,kicking_specialist,P,No,Undrafted
+Northern Illinois,offense,backs_receivers,QB,No,Undrafted
+Oregon,offense,backs_receivers,TE,No,Undrafted
+Missouri,offense,backs_receivers,WR,No,Undrafted
+Kansas St.,offense,offensive_lineman,OT,No,Undrafted
+LSU,defense,defensive_back,SS,No,Undrafted
+Oregon,defense,line_backer,OLB,No,Undrafted
+Michigan St.,defense,defensive_back,SS,No,Undrafted
+Houston,special_teams,kicking_specialist,P,No,Undrafted
+Vanderbilt,defense,defensive_back,FS,No,Undrafted
+Tennessee,defense,defensive_lineman,DT,No,Undrafted
+Missouri,offense,backs_receivers,RB,No,Undrafted
+Missouri Western St.,offense,backs_receivers,FB,No,Undrafted
+Notre Dame,offense,backs_receivers,WR,No,Undrafted
+Shepherd,defense,line_backer,OLB,No,Undrafted
+Florida St.,defense,line_backer,OLB,No,Undrafted
+LSU,defense,defensive_lineman,DT,No,Undrafted
+Fresno St.,offense,backs_receivers,TE,No,Undrafted
+Texas,defense,defensive_lineman,DE,No,Undrafted
+McNeese St.,offense,backs_receivers,TE,No,Undrafted
+Oklahoma,offense,offensive_lineman,C,No,Undrafted
+Texas Tech,defense,defensive_lineman,DT,No,Undrafted
+North Carolina,offense,offensive_lineman,OT,No,Undrafted
+Miami (FL),offense,backs_receivers,WR,No,Undrafted
+Alabama,defense,line_backer,OLB,No,Undrafted
+Memphis,special_teams,kicking_specialist,P,No,Undrafted
+BYU,offense,backs_receivers,WR,No,Undrafted
+Stanford,offense,backs_receivers,FB,No,Undrafted
+Florida,offense,offensive_lineman,C,No,Undrafted
+South Carolina,defense,defensive_back,CB,No,Undrafted
+Wisconsin,offense,offensive_lineman,OG,No,Undrafted
+USC,offense,backs_receivers,TE,No,Undrafted
+Virginia Tech,defense,defensive_lineman,DE,No,Undrafted
+New Mexico St.,offense,backs_receivers,WR,No,Undrafted
+Michigan St.,offense,backs_receivers,WR,No,Undrafted
+Toledo,offense,backs_receivers,RB,No,Undrafted
+Bloomsburg,offense,offensive_lineman,OT,No,Undrafted
+Boston Col.,defense,line_backer,OLB,No,Undrafted
+Texas,offense,backs_receivers,WR,No,Undrafted
+Auburn,defense,defensive_back,CB,No,Undrafted
+Arkansas,offense,backs_receivers,RB,No,Undrafted
+UNLV,offense,backs_receivers,RB,No,Undrafted
+LSU,offense,backs_receivers,FB,No,Undrafted
+Louisville,offense,backs_receivers,WR,No,Undrafted
+Northwestern,offense,backs_receivers,WR,No,Undrafted
+California,defense,defensive_lineman,DT,No,Undrafted
+Rutgers,offense,backs_receivers,WR,No,Undrafted
+Auburn,special_teams,kicking_specialist,P,No,Undrafted
+Florida,offense,backs_receivers,WR,No,Undrafted
+Fresno St.,offense,backs_receivers,WR,No,Undrafted
+Michigan St.,defense,line_backer,ILB,No,Undrafted
+Ohio St.,offense,backs_receivers,WR,No,Undrafted
+Illinois,defense,line_backer,OLB,No,Undrafted
+Vanderbilt,offense,backs_receivers,WR,No,Undrafted
+Rice,special_teams,kicking_specialist,K,No,Undrafted
+Iowa,offense,offensive_lineman,OG,No,Undrafted
+Colorado St.,offense,backs_receivers,RB,No,Undrafted
+Alabama,defense,defensive_back,CB,No,Undrafted
+USC,defense,defensive_back,FS,No,Undrafted
+Notre Dame,offense,backs_receivers,RB,No,Undrafted
+Western Kentucky,offense,backs_receivers,RB,No,Undrafted
+SE Louisiana,defense,defensive_back,CB,No,Undrafted
+BYU,defense,line_backer,ILB,No,Undrafted
+Utah St.,offense,backs_receivers,TE,No,Undrafted
+Grand Valley St.,offense,offensive_lineman,C,No,Undrafted
+Kansas,offense,backs_receivers,TE,No,Undrafted
+Dixie State,offense,backs_receivers,TE,No,Undrafted
+Texas,special_teams,kicking_specialist,K,No,Undrafted
+SMU,offense,backs_receivers,RB,No,Undrafted
+Kansas St.,special_teams,other_special,LS,No,Undrafted
+Utah St.,offense,offensive_lineman,C,No,Undrafted
+Tennessee St.,offense,backs_receivers,TE,No,Undrafted
+Cornell,offense,backs_receivers,QB,No,Undrafted
+San Diego St.,offense,backs_receivers,RB,No,Undrafted
+East Carolina,offense,backs_receivers,WR,No,Undrafted
+Oklahoma,defense,defensive_back,CB,No,Undrafted
+Texas A&M,offense,backs_receivers,RB,No,Undrafted
+TCU,defense,defensive_back,CB,No,Undrafted
+Auburn,defense,defensive_back,FS,No,Undrafted
+Alabama,offense,backs_receivers,WR,No,Undrafted
+Oregon,defense,line_backer,OLB,No,Undrafted
+Iowa,defense,defensive_lineman,DT,No,Undrafted
+Texas-El Paso,offense,backs_receivers,TE,No,Undrafted
+USC,defense,line_backer,OLB,No,Undrafted
+South Carolina,defense,defensive_lineman,DT,No,Undrafted
+Alabama,offense,backs_receivers,QB,No,Undrafted
+Massachusetts,offense,backs_receivers,TE,No,Undrafted
+South Alabama,offense,backs_receivers,TE,No,Undrafted
+San Diego St.,offense,backs_receivers,WR,No,Undrafted
+Baylor,special_teams,kicking_specialist,P,No,Undrafted
+Colorado St.,special_teams,kicking_specialist,K,No,Undrafted
+Indiana,defense,defensive_lineman,DT,No,Undrafted
+Texas,defense,defensive_lineman,DE,No,Undrafted
+Central Michigan,offense,backs_receivers,RB,No,Undrafted
+Mississippi,defense,defensive_back,FS,No,Undrafted
+Clemson,defense,defensive_back,CB,No,Undrafted
+Kansas,special_teams,kicking_specialist,P,No,Undrafted
+Florida,defense,defensive_lineman,DT,No,Undrafted
+Kentucky,offense,offensive_lineman,OT,No,Undrafted
+East. Washington,defense,defensive_back,FS,No,Undrafted
+UCLA,defense,defensive_lineman,DT,No,Undrafted
+Houston,defense,defensive_lineman,DT,No,Undrafted
+Auburn,defense,defensive_back,CB,No,Undrafted
+James Madison,defense,defensive_back,FS,No,Undrafted
+La-Monroe,special_teams,kicking_specialist,K,No,Undrafted
+Toledo,offense,offensive_lineman,C,No,Undrafted
+LSU,offense,backs_receivers,RB,No,Undrafted
+Maryland,offense,backs_receivers,WR,No,Undrafted
+Texas A&M,special_teams,kicking_specialist,K,No,Undrafted
+Michigan St.,defense,line_backer,ILB,No,Undrafted
+Texas St.,special_teams,kicking_specialist,P,No,Undrafted
+UCLA,defense,defensive_back,SS,No,Undrafted
+Penn St.,defense,line_backer,OLB,No,Undrafted
+Oregon,defense,defensive_back,CB,No,Undrafted
+Syracuse,offense,offensive_lineman,OT,No,Undrafted
+Colorado St.,offense,backs_receivers,RB,No,Undrafted
+Virginia,defense,defensive_back,FS,No,Undrafted
+Fresno St.,offense,backs_receivers,WR,No,Undrafted
+Central Florida,offense,backs_receivers,WR,No,Undrafted
+Washington St.,offense,backs_receivers,QB,No,Undrafted
+TCU,defense,defensive_back,FS,No,Undrafted
+Miami (FL),defense,defensive_back,FS,No,Undrafted
+Baylor,offense,backs_receivers,WR,No,Undrafted
+Central Florida,defense,defensive_back,CB,No,Undrafted
+BYU,defense,line_backer,OLB,No,Undrafted
+Penn St.,special_teams,kicking_specialist,K,No,Undrafted
+Nevada,offense,backs_receivers,QB,No,Undrafted
+Syracuse,defense,defensive_back,FS,No,Undrafted
+Ball St.,offense,backs_receivers,RB,No,Undrafted
+Louisville,offense,backs_receivers,RB,No,Undrafted
+Michigan St.,defense,defensive_back,FS,No,Undrafted
+Auburn,offense,offensive_lineman,C,No,Undrafted
+Alabama,defense,line_backer,ILB,No,Undrafted
+Towson,defense,defensive_lineman,DE,No,Undrafted
+Central Michigan,offense,backs_receivers,WR,No,Undrafted
+Colorado St.,defense,line_backer,OLB,No,Undrafted
+North Dakota St.,offense,backs_receivers,RB,No,Undrafted
+Clemson,defense,defensive_lineman,DE,No,Undrafted
+Mississippi St.,defense,defensive_back,CB,No,Undrafted
+LSU,offense,offensive_lineman,OT,No,Undrafted
+Tennessee,defense,defensive_back,CB,No,Undrafted
+Texas A&M,offense,offensive_lineman,OT,No,Undrafted
+Florida,special_teams,kicking_specialist,P,No,Undrafted
+West. Michigan,defense,defensive_back,CB,No,Undrafted
+TCU,offense,backs_receivers,RB,No,Undrafted
+East Carolina,offense,backs_receivers,QB,No,Undrafted
+Louisville,offense,backs_receivers,RB,No,Undrafted
+Notre Dame,special_teams,kicking_specialist,K,No,Undrafted
+South Alabama,offense,backs_receivers,QB,No,Undrafted
+Duke,offense,backs_receivers,QB,No,Undrafted
+Virginia Tech,defense,defensive_back,FS,No,Undrafted
+Memphis,offense,offensive_lineman,OG,No,Undrafted
+Iowa St.,offense,backs_receivers,TE,No,Undrafted
+Clemson,defense,defensive_lineman,DE,No,Undrafted
+Utah,offense,backs_receivers,WR,No,Undrafted
+South Dakota St.,offense,backs_receivers,FB,No,Undrafted
+Montana,defense,defensive_lineman,DE,No,Undrafted
+Yale,offense,backs_receivers,FB,No,Undrafted
+Norfolk St.,defense,defensive_lineman,DE,No,Undrafted
+Oklahoma,offense,offensive_lineman,OG,No,Undrafted
+Lafayette,offense,backs_receivers,WR,No,Undrafted
+Boise St.,special_teams,kicking_specialist,P,No,Undrafted
+SE Louisiana,offense,backs_receivers,QB,No,Undrafted
+UNLV,offense,offensive_lineman,OG,No,Undrafted
+Texas,offense,backs_receivers,RB,No,Undrafted
+Duke,offense,offensive_lineman,OT,No,Undrafted
+Boise St.,offense,offensive_lineman,OT,No,Undrafted
+Maryland,defense,line_backer,OLB,No,Undrafted
+Notre Dame,offense,backs_receivers,WR,No,Undrafted
+UNLV,offense,backs_receivers,WR,No,Undrafted
+Arkansas,offense,backs_receivers,TE,No,Undrafted
+Kansas St.,offense,offensive_lineman,C,No,Undrafted
+Florida,defense,line_backer,OLB,No,Undrafted
+Coastal Carolina,offense,offensive_lineman,C,No,Undrafted
+Kentucky,offense,backs_receivers,RB,No,Undrafted
+Harvard,defense,line_backer,OLB,No,Undrafted
+Stephen F. Austin,offense,backs_receivers,RB,No,Undrafted
+Alabama,offense,backs_receivers,WR,No,Undrafted
+Central Arkansas,offense,backs_receivers,WR,No,Undrafted
+Portland St.,special_teams,kicking_specialist,P,No,Undrafted
+Tenn-Chattanooga,defense,defensive_lineman,DT,No,Undrafted
+Prairie View,offense,backs_receivers,QB,No,Undrafted
+Harding,offense,backs_receivers,WR,No,Undrafted
+Florida St.,offense,offensive_lineman,OG,No,Undrafted
+Auburn,offense,offensive_lineman,OT,No,Undrafted
+Boston Col.,defense,defensive_lineman,DT,No,Undrafted
+Mississippi St.,offense,backs_receivers,WR,No,Undrafted
+Auburn,offense,backs_receivers,WR,No,Undrafted
+East Carolina,offense,backs_receivers,TE,No,Undrafted
+South Carolina,offense,backs_receivers,RB,No,Undrafted
+USC,offense,backs_receivers,FB,No,Undrafted
+North Carolina,offense,offensive_lineman,OG,No,Undrafted
+Syracuse,defense,defensive_lineman,DE,No,Undrafted
+Michigan St.,defense,defensive_lineman,DT,No,Undrafted
+Oklahoma,defense,line_backer,OLB,No,Undrafted
+Wisconsin,offense,backs_receivers,QB,No,Undrafted
+Kentucky,defense,defensive_back,FS,No,Undrafted
+Colorado,offense,backs_receivers,WR,No,Undrafted
+Florida St.,defense,line_backer,ILB,No,Undrafted
+San Diego St.,offense,offensive_lineman,OT,No,Undrafted
+Duke,offense,offensive_lineman,C,No,Undrafted
+Notre Dame,defense,defensive_back,SS,No,Undrafted
+Utah St.,offense,backs_receivers,WR,No,Undrafted
+Miami (FL),offense,backs_receivers,WR,No,Undrafted
+Toledo,offense,backs_receivers,WR,No,Undrafted
+UCLA,offense,offensive_lineman,OG,No,Undrafted
+Ohio St.,defense,defensive_back,SS,No,Undrafted
+Alabama,defense,defensive_lineman,DE,No,Undrafted
+Oklahoma St.,defense,defensive_back,CB,No,Undrafted
+Utah,defense,line_backer,ILB,No,Undrafted
+East Carolina,defense,line_backer,OLB,No,Undrafted
+Iowa,defense,defensive_lineman,DE,No,Undrafted
+West Virginia,special_teams,kicking_specialist,P,No,Undrafted
+Notre Dame,defense,defensive_lineman,DE,No,Undrafted
+TCU,special_teams,kicking_specialist,K,No,Undrafted
+Baylor,defense,defensive_lineman,DE,No,Undrafted
+Utah,defense,line_backer,ILB,No,Undrafted
+Florida St.,defense,defensive_lineman,DE,No,Undrafted
+Colorado,offense,offensive_lineman,OT,No,Undrafted
+Duke,special_teams,kicking_specialist,P,No,Undrafted
+Auburn,defense,line_backer,ILB,No,Undrafted
+Cincinnati,offense,backs_receivers,WR,No,Undrafted
+Florida,offense,backs_receivers,TE,No,Undrafted
+Wisconsin,offense,offensive_lineman,OT,No,Undrafted
+Ohio St.,offense,backs_receivers,WR,No,Undrafted
+Oregon,offense,backs_receivers,WR,No,Undrafted
+Virginia Tech,offense,backs_receivers,TE,No,Undrafted
+Tennessee,defense,line_backer,OLB,No,Undrafted
+USC,offense,backs_receivers,RB,No,Undrafted
+Virginia Tech,defense,defensive_lineman,DT,No,Undrafted
+Rutgers,defense,line_backer,ILB,No,Undrafted
+Iowa,defense,defensive_back,FS,No,Undrafted
+Washington,defense,line_backer,OLB,No,Undrafted
+Indiana,defense,defensive_lineman,DT,No,Undrafted
+Arkansas,offense,offensive_lineman,OT,No,Undrafted
+Oklahoma,offense,offensive_lineman,OG,No,Undrafted
+Auburn,defense,defensive_back,CB,No,Undrafted
+Arizona,offense,backs_receivers,WR,No,Undrafted
+Oregon,offense,offensive_lineman,OT,No,Undrafted
+Marshall,offense,backs_receivers,RB,No,Undrafted
+Mississippi,defense,line_backer,ILB,No,Undrafted
+Alabama,offense,offensive_lineman,OT,No,Undrafted
+Texas Tech,defense,defensive_lineman,DE,No,Undrafted
+Georgia,offense,backs_receivers,FB,No,Undrafted
+Michigan St.,defense,defensive_lineman,DT,No,Undrafted
+Utah,special_teams,kicking_specialist,P,No,Undrafted
+Kansas St.,offense,backs_receivers,FB,No,Undrafted
+San Diego St.,offense,offensive_lineman,OG,No,Undrafted
+Tulsa,offense,backs_receivers,WR,No,Undrafted
+Auburn,defense,line_backer,OLB,No,Undrafted
+Arizona St.,offense,backs_receivers,WR,No,Undrafted
+Illinois,offense,backs_receivers,RB,No,Undrafted
+Utah,defense,defensive_lineman,DE,No,Undrafted
+UCLA,special_teams,kicking_specialist,K,No,Undrafted
+Colorado,defense,defensive_back,CB,No,Undrafted
+Maryland,special_teams,kicking_specialist,K,No,Undrafted
+Duke,defense,defensive_back,SS,No,Undrafted
+Utah,defense,defensive_back,SS,No,Undrafted
+Texas A&M,offense,backs_receivers,RB,No,Undrafted
+Mississippi St.,defense,defensive_back,CB,No,Undrafted
+Stanford,offense,backs_receivers,WR,No,Undrafted
+Florida St.,defense,defensive_back,SS,No,Undrafted
+Notre Dame,offense,backs_receivers,WR,No,Undrafted
+Mississippi St.,defense,line_backer,OLB,No,Undrafted
+UCLA,offense,offensive_lineman,C,No,Undrafted
+Minnesota,defense,defensive_back,CB,No,Undrafted
+Oklahoma St.,defense,defensive_lineman,DE,No,Undrafted
+Auburn,offense,backs_receivers,RB,No,Undrafted
+Illinois,offense,backs_receivers,WR,No,Undrafted
+Michigan St.,offense,offensive_lineman,C,No,Undrafted
+Oklahoma,defense,line_backer,ILB,No,Undrafted
+Oregon,offense,backs_receivers,WR,No,Undrafted
+Georgia,defense,defensive_lineman,DE,No,Undrafted
+California,offense,backs_receivers,TE,No,Undrafted
+Boston Col.,defense,defensive_lineman,DE,No,Undrafted
+Oregon,offense,backs_receivers,QB,No,Undrafted
+TCU,offense,backs_receivers,QB,No,Undrafted
+Harvard,offense,backs_receivers,TE,No,Undrafted
+Texas A&M,offense,offensive_lineman,OG,No,Undrafted
+Illinois St.,offense,backs_receivers,RB,No,Undrafted
+North Carolina St.,offense,backs_receivers,RB,No,Undrafted
+North Carolina St.,offense,backs_receivers,TE,No,Undrafted
+Miami (FL),defense,line_backer,ILB,No,Undrafted
+Bowling Green,offense,backs_receivers,WR,No,Undrafted
+Texas A&M,defense,defensive_back,CB,No,Undrafted
+Northern Iowa,defense,defensive_back,CB,No,Undrafted
+Cincinnati,offense,backs_receivers,WR,No,Undrafted
+Miami (FL),defense,defensive_lineman,DE,No,Undrafted
+Iowa,special_teams,kicking_specialist,K,No,Undrafted
+Tennessee,offense,backs_receivers,WR,No,Undrafted
+Stony Brook,defense,defensive_lineman,DE,No,Undrafted
+Liberty,special_teams,kicking_specialist,K,No,Undrafted
+San Jose St.,defense,defensive_back,CB,No,Undrafted
+West Georgia,offense,offensive_lineman,OT,No,Undrafted
+Louisiana St,defense,defensive_back,CB,No,Undrafted
+Southern Utah,defense,defensive_lineman,DE,No,Undrafted
+Sam Houston St.,special_teams,kicking_specialist,P,No,Undrafted
+Colorado St.,defense,defensive_back,CB,No,Undrafted
+Jacksonville St.,defense,defensive_lineman,DT,No,Undrafted
+San Jose St.,defense,defensive_back,CB,No,Undrafted
+Liberty,offense,backs_receivers,QB,No,Undrafted
+Florida St.,offense,backs_receivers,WR,No,Undrafted
+Kentucky,offense,backs_receivers,RB,No,Undrafted
+Florida St.,offense,backs_receivers,WR,No,Undrafted
+USC,offense,offensive_lineman,OT,No,Undrafted
+Houston,offense,backs_receivers,WR,No,Undrafted
+Oklahoma,defense,defensive_lineman,DT,No,Undrafted
+Miami (FL),special_teams,kicking_specialist,P,No,Undrafted
+Stanford,special_teams,kicking_specialist,K,No,Undrafted
+Minnesota,defense,defensive_back,SS,No,Undrafted
+Kentucky,offense,offensive_lineman,C,No,Undrafted
+Connecticut,offense,backs_receivers,WR,No,Undrafted
+Temple,offense,backs_receivers,RB,No,Undrafted
+Michigan,defense,defensive_back,CB,No,Undrafted
+Florida St.,offense,backs_receivers,FB,No,Undrafted
+Louisville,offense,backs_receivers,WR,No,Undrafted
+Michigan,offense,backs_receivers,RB,No,Undrafted
+Arkansas,offense,offensive_lineman,OT,No,Undrafted
+Penn St.,defense,defensive_lineman,DE,No,Undrafted
+Wisconsin,defense,defensive_back,CB,No,Undrafted
+Texas A&M,offense,backs_receivers,WR,No,Undrafted
+Clemson,offense,backs_receivers,WR,No,Undrafted
+Baylor,offense,backs_receivers,QB,No,Undrafted
+Central Michigan,offense,backs_receivers,QB,No,Undrafted
+Florida St.,offense,backs_receivers,WR,No,Undrafted
+Mississippi St.,offense,backs_receivers,WR,No,Undrafted
+USC,offense,backs_receivers,WR,No,Undrafted
+Air Force,offense,backs_receivers,WR,No,Undrafted
+Idaho,special_teams,kicking_specialist,P,No,Undrafted
+Indiana,offense,backs_receivers,RB,No,Undrafted
+Stanford,offense,backs_receivers,WR,No,Undrafted
+Louisville,offense,backs_receivers,WR,No,Undrafted
+Texas-El Paso,offense,backs_receivers,TE,No,Undrafted
+Illinois,defense,line_backer,OLB,No,Undrafted
+Old Dominion,offense,backs_receivers,WR,No,Undrafted
+Pittsburgh,offense,backs_receivers,TE,No,Undrafted
+West Virginia,offense,offensive_lineman,C,No,Undrafted
+Wisconsin,offense,backs_receivers,RB,No,Undrafted
+West Virginia,defense,defensive_lineman,DE,No,Undrafted
+California,special_teams,other_special,LS,No,Undrafted
+Texas A&M,offense,backs_receivers,WR,No,Undrafted
+Illinois,defense,line_backer,ILB,No,Undrafted
+Arkansas,offense,backs_receivers,WR,No,Undrafted
+Memphis,defense,defensive_back,CB,No,Undrafted
+Washington,defense,defensive_lineman,DE,No,Undrafted
+Washington St.,offense,backs_receivers,WR,No,Undrafted
+USC,offense,offensive_lineman,OG,No,Undrafted
+Tulsa,offense,backs_receivers,WR,No,Undrafted
+Colorado,offense,backs_receivers,QB,No,Undrafted
+Maryland,defense,defensive_back,CB,No,Undrafted
+Minnesota,offense,backs_receivers,QB,No,Undrafted
+BYU,defense,line_backer,ILB,No,Undrafted
+Akron,offense,backs_receivers,WR,No,Undrafted
+Oklahoma St.,defense,defensive_back,CB,No,Undrafted
+Texas A&M,offense,backs_receivers,QB,No,Undrafted
+Louisville,defense,line_backer,ILB,No,Undrafted
+Notre Dame,defense,defensive_lineman,DT,No,Undrafted
+Clemson,defense,defensive_back,SS,No,Undrafted
+Ohio St.,special_teams,kicking_specialist,P,No,Undrafted
+Colorado St.,special_teams,kicking_specialist,P,No,Undrafted
+North Carolina,offense,backs_receivers,WR,No,Undrafted
+Louisville,offense,backs_receivers,TE,No,Undrafted
+Arkansas,offense,backs_receivers,WR,No,Undrafted
+Texas A&M,offense,offensive_lineman,OG,No,Undrafted
+Auburn,defense,defensive_back,FS,No,Undrafted
+Louisville,defense,line_backer,OLB,No,Undrafted
+Virginia Tech,offense,backs_receivers,QB,No,Undrafted
+Syracuse,offense,backs_receivers,WR,No,Undrafted
+Arkansas,defense,line_backer,ILB,No,Undrafted
+Virginia Tech,defense,defensive_lineman,DE,No,Undrafted
+LSU,offense,backs_receivers,WR,No,Undrafted
+Colorado St.,defense,line_backer,ILB,No,Undrafted
+USC,offense,backs_receivers,RB,No,Undrafted
+Washington,offense,backs_receivers,TE,No,Undrafted
+TCU,offense,offensive_lineman,OG,No,Undrafted
+Wisconsin,offense,backs_receivers,RB,No,Undrafted
+Nebraska,offense,backs_receivers,TE,No,Undrafted
+Michigan St.,defense,line_backer,ILB,No,Undrafted
+Miami (OH),offense,offensive_lineman,OT,No,Undrafted
+San Diego St.,offense,offensive_lineman,OT,No,Undrafted
+Oregon,offense,backs_receivers,TE,No,Undrafted
+Mississippi,defense,defensive_lineman,DE,No,Undrafted
+Michigan,offense,offensive_lineman,OG,No,Undrafted
+LSU,defense,line_backer,OLB,No,Undrafted
+Clemson,defense,line_backer,ILB,No,Undrafted
+Arkansas,special_teams,kicking_specialist,P,No,Undrafted
+Mississippi,offense,backs_receivers,WR,No,Undrafted
+Charleston Southern,offense,offensive_lineman,OG,No,Undrafted
+Oregon St.,offense,backs_receivers,WR,No,Undrafted
+East. Washington,offense,backs_receivers,WR,No,Undrafted
+Shepherd,offense,backs_receivers,TE,No,Undrafted
+Baylor,offense,backs_receivers,WR,No,Undrafted
+Miami (FL),defense,defensive_back,SS,No,Undrafted
+Illinois,defense,defensive_lineman,DT,No,Undrafted
+Indiana (PA),offense,offensive_lineman,OG,No,Undrafted
+Florida,defense,defensive_lineman,DE,No,Undrafted
+Bucknell,offense,offensive_lineman,OT,No,Undrafted
+Tenn-Chattanooga,defense,defensive_lineman,DE,No,Undrafted
+Tennessee St.,offense,offensive_lineman,OG,No,Undrafted
+Lindenwood,defense,line_backer,ILB,No,Undrafted
+Coastal Carolina,offense,backs_receivers,RB,No,Undrafted
+South Carolina St.,offense,offensive_lineman,OT,No,Undrafted
+Illinois St.,offense,offensive_lineman,OG,No,Undrafted
+Tennessee St.,defense,defensive_back,CB,No,Undrafted
+West Virginia,offense,backs_receivers,RB,No,Undrafted
+Wayne State (MI),offense,offensive_lineman,OG,No,Undrafted
+William & Mary,offense,offensive_lineman,OT,No,Undrafted
+Ohio St.,defense,line_backer,ILB,No,Undrafted
+LSU,offense,backs_receivers,RB,No,Undrafted
+Arizona St.,defense,defensive_lineman,DE,No,Undrafted
+Iowa,offense,offensive_lineman,C,No,Undrafted
+Ohio St.,defense,defensive_back,S,No,Undrafted
+LSU,offense,offensive_lineman,OT,No,Undrafted
+Pittsburgh,offense,backs_receivers,WR,No,Undrafted
+Alabama,defense,defensive_back,CB,No,Undrafted
+Iowa,offense,backs_receivers,RB,No,Undrafted
+Utah,offense,offensive_lineman,OG,No,Undrafted
+Georgia,defense,defensive_lineman,DT,No,Undrafted
+Florida St.,defense,line_backer,OLB,No,Undrafted
+Georgia St.,defense,defensive_back,CB,No,Undrafted
+Clemson,defense,defensive_back,S,No,Undrafted
+Washington,offense,offensive_lineman,C,No,Undrafted
+Indiana,defense,line_backer,ILB,No,Undrafted
+Southern Miss,offense,backs_receivers,WR,No,Undrafted
+Kansas St.,offense,backs_receivers,WR,No,Undrafted
+Virginia Tech,offense,backs_receivers,WR,No,Undrafted
+South Carolina,defense,line_backer,OLB,No,Undrafted
+Stanford,defense,defensive_back,DB,No,Undrafted
+Florida St.,defense,defensive_back,CB,No,Undrafted
+Miami (FL),offense,offensive_lineman,OG,No,Undrafted
+Michigan,defense,line_backer,ILB,No,Undrafted
+Marshall,offense,backs_receivers,QB,No,Undrafted
+Iowa St.,offense,backs_receivers,WR,No,Undrafted
+San Diego St.,defense,defensive_back,S,No,Undrafted
+Northwestern,defense,defensive_back,S,No,Undrafted
+Texas,defense,defensive_back,CB,No,Undrafted
+Texas A&M,defense,defensive_lineman,DT,No,Undrafted
+Pittsburgh,offense,backs_receivers,WR,No,Undrafted
+Clemson,offense,offensive_lineman,OG,No,Undrafted
+Nebraska,offense,offensive_lineman,OT,No,Undrafted
+West. Michigan,offense,backs_receivers,RB,No,Undrafted
+Oklahoma,offense,backs_receivers,RB,No,Undrafted
+Memphis,offense,backs_receivers,QB,No,Undrafted
+Virginia Tech,defense,defensive_back,CB,No,Undrafted
+Indiana,offense,backs_receivers,WR,No,Undrafted
+Temple,defense,defensive_back,S,No,Undrafted
+Penn St.,defense,line_backer,ILB,No,Undrafted
+USC,offense,backs_receivers,WR,No,Undrafted
+Stanford,offense,offensive_lineman,OT,No,Undrafted
+Virginia,defense,defensive_back,S,No,Undrafted
+Virginia,offense,backs_receivers,QB,No,Undrafted
+Ohio St.,offense,backs_receivers,TE,No,Undrafted
+Ohio St.,offense,backs_receivers,QB,No,Undrafted
+Notre Dame,offense,backs_receivers,RB,No,Undrafted
+Pittsburgh,special_teams,kicking_specialist,P,No,Undrafted
+North Texas,offense,backs_receivers,RB,No,Undrafted
+Purdue,defense,defensive_lineman,DT,No,Undrafted
+South Dakota St.,offense,backs_receivers,WR,No,Undrafted
+West Virginia,offense,backs_receivers,WR,No,Undrafted
+San Diego St.,offense,backs_receivers,TE,No,Undrafted
+Texas,offense,backs_receivers,RB,No,Undrafted
+Louisiana-Lafayette,defense,defensive_back,S,No,Undrafted
+Murray St.,defense,defensive_back,CB,No,Undrafted
+Texas A&M,special_teams,kicking_specialist,P,No,Undrafted
+Army,offense,offensive_lineman,OT,No,Undrafted
+LSU,defense,defensive_back,CB,No,Undrafted
+Arkansas,defense,defensive_back,CB,No,Undrafted
+Jacksonville St.,offense,backs_receivers,RB,No,Undrafted
+Oklahoma,defense,defensive_back,CB,No,Undrafted
+South Carolina,defense,defensive_lineman,DT,No,Undrafted
+Central Florida,offense,backs_receivers,WR,No,Undrafted
+Texas Tech,offense,backs_receivers,QB,No,Undrafted
+Georgia,defense,defensive_back,S,No,Undrafted
+Old Dominion,defense,defensive_lineman,DE,No,Undrafted
+Auburn,defense,defensive_back,S,No,Undrafted
+Arizona State,offense,backs_receivers,RB,No,Undrafted
+Indiana (PA),defense,defensive_back,S,No,Undrafted
+Florida St.,defense,line_backer,OLB,No,Undrafted
+Florida,special_teams,kicking_specialist,K,No,Undrafted
+Idaho St.,offense,offensive_lineman,OG,No,Undrafted
+Auburn,offense,backs_receivers,RB,No,Undrafted
+Alabama,defense,defensive_lineman,DT,No,Undrafted
+Stony Brook,offense,offensive_lineman,OT,No,Undrafted
+Oregon St.,offense,backs_receivers,RB,No,Undrafted
+Missouri,offense,backs_receivers,WR,No,Undrafted
+USC,offense,backs_receivers,WR,No,Undrafted
+Washington St.,offense,backs_receivers,WR,No,Undrafted
+LSU,offense,offensive_lineman,OG,No,Undrafted
+Utah,defense,defensive_lineman,DT,No,Undrafted
+Oklahoma St.,offense,backs_receivers,WR,No,Undrafted
+South Carolina,defense,defensive_back,CB,No,Undrafted
+Nebraska,defense,defensive_back,S,No,Undrafted
+Dubuque,defense,defensive_back,CB,No,Undrafted
+Pittsburgh,offense,offensive_lineman,OT,No,Undrafted
+USC,offense,backs_receivers,RB,No,Undrafted
+Nebraska,defense,defensive_back,CB,No,Undrafted
+Southern,defense,defensive_back,CB,No,Undrafted
+Middle Tennessee St.,offense,backs_receivers,WR,No,Undrafted
+Maryland,defense,defensive_back,CB,No,Undrafted
+Michigan,defense,defensive_lineman,DT,No,Undrafted
+TCU,offense,backs_receivers,RB,No,Undrafted
+Miami (FL),offense,backs_receivers,TE,No,Undrafted
+West Georgia,offense,offensive_lineman,OT,No,Undrafted
+Alabama,defense,defensive_lineman,DE,No,Undrafted
+Penn St.,defense,defensive_back,CB,No,Undrafted
+East Carolina,offense,backs_receivers,WR,No,Undrafted
+Stephen F. Austin,defense,defensive_lineman,DE,No,Undrafted
+Alabama,offense,backs_receivers,WR,No,Undrafted
+South Florida,offense,backs_receivers,QB,No,Undrafted
+Connecticut,defense,defensive_lineman,DT,No,Undrafted
+Indiana,defense,defensive_back,CB,No,Undrafted
+Western Michigan,offense,backs_receivers,RB,No,Undrafted
+UCLA,defense,defensive_lineman,DE,No,Undrafted
+North Dakota St.,defense,line_backer,OLB,No,Undrafted
+Miami (FL),defense,defensive_back,CB,No,Undrafted
+Bowling Green,special_teams,kicking_specialist,P,No,Undrafted
+Tennessee,special_teams,kicking_specialist,P,No,Undrafted
+West Virginia,offense,backs_receivers,RB,No,Undrafted
+Washington,offense,backs_receivers,RB,No,Undrafted
+LSU,offense,backs_receivers,WR,No,Undrafted
+San Jose St.,defense,defensive_back,CB,No,Undrafted
+Utah,offense,backs_receivers,WR,No,Undrafted
+Oregon,special_teams,other_special,LS,No,Undrafted
+Penn St.,defense,defensive_back,CB,No,Undrafted
+Alabama,defense,defensive_back,CB,No,Undrafted
+Nebraska,special_teams,kicking_specialist,K,No,Undrafted
+Wake Forest,defense,defensive_back,S,No,Undrafted
+Miami (FL),special_teams,kicking_specialist,K,No,Undrafted
+Georgia,defense,defensive_lineman,DT,No,Undrafted
+Arkansas,offense,backs_receivers,QB,No,Undrafted
+Colorado,defense,defensive_back,S,No,Undrafted
+Mississippi,defense,defensive_back,S,No,Undrafted
+Wyoming,defense,defensive_back,S,No,Undrafted
+Vanderbilt,defense,defensive_back,CB,No,Undrafted
+Washington St.,offense,backs_receivers,RB,No,Undrafted
+Kentucky,defense,defensive_back,S,No,Undrafted
+Texas Tech,offense,backs_receivers,WR,No,Undrafted
+South Alabama,offense,backs_receivers,WR,No,Undrafted
+LSU,special_teams,kicking_specialist,K,No,Undrafted
+Toledo,offense,backs_receivers,WR,No,Undrafted
+Mississippi,offense,backs_receivers,QB,No,Undrafted
+North Carolina,offense,offensive_lineman,OT,No,Undrafted
+Alabama,defense,defensive_back,CB,No,Undrafted
+Louisville,offense,backs_receivers,WR,No,Undrafted
+West Virginia,offense,backs_receivers,WR,No,Undrafted
+Vanderbilt,offense,backs_receivers,QB,No,Undrafted
+Michigan St.,offense,backs_receivers,RB,No,Undrafted
+Boise St.,offense,backs_receivers,QB,No,Undrafted
+San Diego St.,offense,offensive_lineman,OT,No,Undrafted
+Utah St.,offense,backs_receivers,TE,No,Undrafted
+Arkansas,defense,defensive_back,CB,No,Undrafted
+San Diego St.,offense,offensive_lineman,OT,No,Undrafted
+Mississippi St.,defense,defensive_back,CB,No,Undrafted
+Virginia Tech,offense,offensive_lineman,OT,No,Undrafted
+Florida St.,offense,backs_receivers,WR,No,Undrafted
+Nebraska,offense,backs_receivers,WR,No,Undrafted
+Appalachian St.,offense,backs_receivers,RB,No,Undrafted
+North Carolina St.,offense,backs_receivers,WR,No,Undrafted
+Mississippi St.,defense,defensive_back,S,No,Undrafted
+Michigan,defense,defensive_back,CB,No,Undrafted
+Mississippi,offense,backs_receivers,WR,No,Undrafted
+Indiana,offense,offensive_lineman,OT,No,Undrafted
+North Carolina St.,offense,offensive_lineman,OT,No,Undrafted
+Miami (FL),defense,defensive_back,S,No,Undrafted
+Buffalo,offense,backs_receivers,WR,No,Undrafted
+UCLA,offense,offensive_lineman,OT,No,Undrafted
+Buffalo,offense,backs_receivers,QB,No,Undrafted
+Wisconsin,offense,backs_receivers,FB,No,Undrafted
+Clemson,offense,offensive_lineman,OT,No,Undrafted
+Texas,offense,backs_receivers,WR,No,Undrafted
+Georgia,offense,backs_receivers,RB,No,Undrafted
+Stanford,defense,defensive_back,CB,No,Undrafted
+Michigan,offense,backs_receivers,RB,No,Undrafted
+Duke,offense,backs_receivers,TE,No,Undrafted
+Northwestern,defense,defensive_back,CB,No,Undrafted
+Missouri,offense,backs_receivers,WR,No,Undrafted
+Minnesota,offense,offensive_lineman,OT,No,Undrafted
+Indiana,special_teams,other_special,LS,No,Undrafted
+Marshall,defense,defensive_back,S,No,Undrafted
+Rice,special_teams,kicking_specialist,P,No,Undrafted
+Mississippi St.,offense,backs_receivers,QB,No,Undrafted
+Clemson,defense,defensive_back,CB,No,Undrafted
+Northwestern St. (LA),offense,backs_receivers,WR,No,Undrafted
+Florida Atlantic,offense,backs_receivers,WR,No,Undrafted
+Wake Forest,offense,backs_receivers,WR,No,Undrafted
+Ohio St.,offense,backs_receivers,WR,No,Undrafted
+Wisconsin,defense,defensive_back,S,No,Undrafted
+Boston Col.,defense,defensive_back,S,No,Undrafted
+Auburn,offense,backs_receivers,WR,No,Undrafted
+Michigan St.,offense,backs_receivers,WR,No,Undrafted
+Texas,defense,defensive_back,CB,No,Undrafted
+Syracuse,offense,backs_receivers,WR,No,Undrafted
+Indiana,defense,defensive_back,S,No,Undrafted
+Kentucky,offense,backs_receivers,TE,No,Undrafted
+Boston Col.,defense,defensive_back,CB,No,Undrafted
+Northern Arizona,offense,backs_receivers,WR,No,Undrafted
+Texas St.,offense,backs_receivers,TE,No,Undrafted
+Washington,offense,backs_receivers,QB,No,Undrafted
+Troy,defense,defensive_back,CB,No,Undrafted
+LSU,offense,backs_receivers,RB,No,Undrafted
+Marshall,offense,backs_receivers,WR,No,Undrafted
+Missouri,offense,backs_receivers,TE,No,Undrafted
+Fresno St.,defense,defensive_back,S,No,Undrafted
+LSU,defense,defensive_back,S,No,Undrafted
+Kansas St.,offense,backs_receivers,RB,No,Undrafted
+Kentucky,defense,defensive_back,CB,No,Undrafted
+Missouri,offense,offensive_lineman,OT,No,Undrafted
+Northern Colorado,offense,backs_receivers,WR,No,Undrafted
+Elon,offense,offensive_lineman,OT,No,Undrafted
+Baylor,defense,defensive_back,CB,No,Undrafted
+North Dakota St.,offense,backs_receivers,QB,No,Undrafted
+Kentucky,offense,backs_receivers,RB,No,Undrafted
+Northern Illinois,offense,offensive_lineman,OT,No,Undrafted
+Sioux Falls,offense,offensive_lineman,OT,No,Undrafted
+Morgan St.,offense,offensive_lineman,OT,No,Undrafted
+Ferris St.,offense,offensive_lineman,OT,No,Undrafted
+Alabama St.,offense,offensive_lineman,OT,No,Undrafted
+Florida,defense,defensive_back,S,No,Undrafted
+Malone University (Ohio),offense,backs_receivers,WR,No,Undrafted
+UC Davis,offense,backs_receivers,WR,No,Undrafted
+Central Michigan,defense,defensive_back,CB,No,Undrafted
+South Dakota St.,defense,defensive_back,CB,No,Undrafted
+Washburn,defense,defensive_back,CB,No,Undrafted
+Oregon,defense,defensive_back,S,No,Undrafted
+Delaware,defense,defensive_back,S,No,Undrafted

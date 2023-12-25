@@ -1,0 +1,71 @@
+-- Making all the necessary directories
+hdfs dfs -mkdir final
+
+hdfs dfs -mkdir final/ana_code
+
+hdfs dfs -mkdir final/ana_code/patricia
+
+hdfs dfs -mkdir final/data_ingest
+
+hdfs dfs -mkdir final/data_ingest/patricia
+
+hdfs dfs -mkdir final/etl_code
+
+hdfs dfs -mkdir final/etl_code/patricia
+
+hdfs dfs -mkdir final/profiling_code
+
+hdfs dfs -mkdir final/profiling_code/patricia
+
+hdfs dfs -mkdir final/test_code
+
+hdfs dfs -mkdir final/test_code/patricia
+
+hdfs dfs -mkdir final/ana_code/patricia/nfl_patricia
+
+hdfs dfs -mkdir final/ana_code/patricia/nfl_jason
+
+hdfs dfs -mkdir final/ana_code/patricia/nfl_analytics
+
+hdfs dfs -mkdir final/etl_code/patricia/nfl_combined
+
+-- Data Profiling
+-- Running the Scala files that profile the original dataset
+spark-shell --deploy-mode client -i  code_profiling_1.scala
+
+spark-shell --deploy-mode client -i  code_profiling_2.scala
+
+-- Getting data to be used for profiling of non-numerical data
+hdfs dfs -copyToLocal hdfs://nyu-dataproc-m/user/ppg2023_nyu_edu/final/NFLProfiling/part-00000
+
+-- Putting profiling data into HDFS so it can be used in Hive
+hdfs dfs -put NFlProfilingNonNumeric.csv final/data_ingest/patricia
+
+-- Connecting to Hive
+beeline -u jdbc:hive2://localhost:10000
+
+-- Data Cleaning
+-- Running the Scala file that cleans the code
+spark-shell --deploy-mode client -i  code_cleaning_final.scala
+
+-- Gets the cleaned data ready for download
+hdfs dfs -copyToLocal hdfs://nyu-dataproc-m/user/ppg2023_nyu_edu/final/NFLCleanFinal/part-00000
+
+-- Putting the cleaned data into the data ingestion directory so it can be used in Hive
+hdfs dfs -put NFLClean.csv final/data_ingest/patricia
+hdfs dfs -put cleanedCombineData.csv final/data_ingest/patricia
+
+-- Connecting to Hive
+beeline -u jdbc:hive2://localhost:10000
+
+-- Putting the original data into the input directory
+hdfs dfs -put NFL.csv final/data_ingest/patricia
+
+-- Putting all the necessary files in their corresponding folders
+hdfs dfs -put code_profiling_1.scala final/profiling_code/patricia
+hdfs dfs -put code_profiling_2.scala final/profiling_code/patricia
+hdfs dfs -put code_profiling_non_numeric.hql final/profiling_code/patricia
+hdfs dfs -put code_cleaning_final.scala final/etl_code/patricia
+hdfs dfs -put code_analytics.hql final/ana_code/patricia
+hdfs dfs -put README.txt final
+hdfs dfs -put hdfs_commands.txt final
